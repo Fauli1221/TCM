@@ -51,13 +51,13 @@ hash = "b4295af590d3be4c9adb2856a823ba1e0a8a49f1ac33e1db4a4527a623940587"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.toml"
-hash = "c5dce804240dcabfe84cd769aa909ac65d1db9cea105231ecd9b9ea41c2c19b6"
+file = "mods/dynamic-fps.toml"
+hash = "3f631c9e944a855a409158820f38aba9f587fb829a45351958b18de45118b2dc"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.toml"
-hash = "3f631c9e944a855a409158820f38aba9f587fb829a45351958b18de45118b2dc"
+file = "mods/ebe.toml"
+hash = "5e03c4a63495a01a572a079d93eb5e6cad12726b0c572ddaba1111f8be72a8b2"
 metafile = true
 
 [[files]]
