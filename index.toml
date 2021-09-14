@@ -414,5 +414,13 @@ hash = "218b2b38862091f96e1db0ee7580c6f9cd5e8f008f88e4fe00016c6dea1065b3"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "a60bf6766a9ed710c32f036aaa4c2c41c2df7649da9c9f81fb6f4f402d01f8de"
+
+[[files]]
+file = "servers.dat_old"
+hash = "654d960fc15dd00f6a6abe555b9d2869292bc874720c5e38dd1dd9fc7044dffe"
+
+[[files]]
 file = "shaderpacks/BSL_v8.1.zip"
 hash = "2c12bcc93ba1e5f0ead336109119f03c1a0231983bc7ef65be268435763a21cf"
