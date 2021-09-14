@@ -1,0 +1,15 @@
+name = "Techtastisch Comunity Modpack"
+author = "Fauli1221"
+version = "1.4.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "56b77bf7d30492bc063a5d5fc2ae1dabb1ec974b97d6ac18eb17fb889917d73f"
+
+[versions]
+fabric = "0.11.6"
+minecraft = "1.17.1"
+
+[options]
+acceptable-game-versions = "1.17"
