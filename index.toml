@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.toml"
-hash = "5e03c4a63495a01a572a079d93eb5e6cad12726b0c572ddaba1111f8be72a8b2"
+hash = "72a4338b738c76967bd08f1aedb2f7760afa0de1dcdad352c9604363abe1a840"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "9e6184ce1e6884c3c422e82cdd269dff7e89d0c7093d5b61c96d7b4e2b0e2be5"
+hash = "c8fecc7ed627a2881f1d28950a06d7104d262f4caf82718ca43d0c635a28266f"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "263a290dca36800daf25c633c5076223ce8d624d13edda78c5ea5fe550d03252"
+hash = "dd744bca99ba6487f449ea05773ef41fc3e9aa8e5deaf215f326933cba8e8647"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "f8d481029066992cdd0279afb259770b522c08f40039a9ca01c45a6b6fbbf7d3"
+hash = "83f2f521d59dbd6c7a9845bafb6fb62d8d896c7a436858fd9d510cc8916879e2"
 metafile = true
 
 [[files]]
