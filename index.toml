@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
+hash = "8afc72d1f763249c76208e1856ee6a9c6d86e916fc3cc429936fc64f4ead52e8"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.toml"
-hash = "2a6f497eef785ffc2a377c12d1d20d5d6e18ed77db44c69eb597a34dbf364e9e"
+hash = "75cdfbb1cfaa8bac7beb597532c62b37564276cfae88d3798abadf170685263f"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "c8fecc7ed627a2881f1d28950a06d7104d262f4caf82718ca43d0c635a28266f"
+hash = "c4dc43e97d2fd9399a02084cef47a1e0989c9f0e45fc79922f934b047dd22534"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "dd744bca99ba6487f449ea05773ef41fc3e9aa8e5deaf215f326933cba8e8647"
+hash = "e0e7551f8ca604ec82d8a6cd12be3e10413338622ee185e8677154f9664752d5"
 metafile = true
 
 [[files]]
