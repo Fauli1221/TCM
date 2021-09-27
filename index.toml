@@ -314,6 +314,11 @@ hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.toml"
+hash = "3eab508fd0422740162377017f42f7e2917fc545b3acc099df2f75f48fe3b22b"
+metafile = true
+
+[[files]]
 file = "mods/iris.toml"
 hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
 metafile = true
