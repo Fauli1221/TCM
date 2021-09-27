@@ -1,0 +1,13 @@
+name = "ItemSorterMod"
+filename = "itemsortermod-fabric-1.17.0-1.9.0.20210703.224853.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XR3ab2qb/versions/1.9.0/itemsortermod-fabric-1.17.0-1.9.0.20210703.224853.jar"
+hash-format = "sha512"
+hash = "82f7290fde0eff960611a8f578df46ced3ab3498c87814d11025c0ee0035e114b2a8e3f81075d15436e63bdcb45956daf3e813f12da7086ced67cb749f3e7875"
+
+[update]
+[update.modrinth]
+mod-id = "XR3ab2qb"
+version = "ewtMj3nK"
