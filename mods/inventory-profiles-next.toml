@@ -1,0 +1,14 @@
+name = "Inventory Profiles Next"
+filename = "InventoryProfilesNext-fabric-1.17-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3459/507/InventoryProfilesNext-fabric-1.17-1.0.2.jar"
+hash-format = "murmur2"
+hash = "2367636438"
+
+[update]
+[update.curseforge]
+file-id = 3459507
+project-id = 495267
+release-channel = "beta"
