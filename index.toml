@@ -328,11 +328,6 @@ hash = "6fc0e80189977cedfc56cf55a6789aa9d8de5ca79002918e1c4d32c861498f27"
 metafile = true
 
 [[files]]
-file = "mods/iris.toml"
-hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
-metafile = true
-
-[[files]]
 file = "mods/item-model-fix.toml"
 hash = "1fc81c2fb496ad395c8d81c55b292f2131548d6654fc1201f79d61e1564052cd"
 metafile = true
@@ -430,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.toml"
 hash = "cbfd2f0c65a616c3f7093f66a22b178f3be81bff333d8b6a9849f5fc5ef79ad7"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
 metafile = true
 
 [[files]]
