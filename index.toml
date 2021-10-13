@@ -238,11 +238,6 @@ hash = "3d599d4dd3564729e799db2a4c48ebfe152a348dfff39200f6ef05ea6a957ffe"
 metafile = true
 
 [[files]]
-file = "mods/bigpony.toml"
-hash = "039c267ecb25a25736de4ff0ba8f17a03ebccb1cf3c95aeb7449d429a924d8b1"
-metafile = true
-
-[[files]]
 file = "mods/capes.toml"
 hash = "3adc9339abe9872d3d0a7b2098f7efd1679203c204d06f4c34488a488a3d8215"
 metafile = true
