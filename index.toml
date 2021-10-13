@@ -57,10 +57,6 @@ file = "config/gamecontrollerdb.txt"
 hash = "1a1d3376c777c2565d61b79f623507bcec1b41693eb1d9346c117a4a8c9e8090"
 
 [[files]]
-file = "config/hdskins.json"
-hash = "73764c4a732c2da345b8ff5be7ffc1f731505cebcf2f5f4ed2f99bb6fa1984bb"
-
-[[files]]
 file = "config/illuminations.properties"
 hash = "0a7a6981ef682eebd61b456bef127561115b4c93efbcaba1db036edace0985e2"
 
@@ -91,6 +87,10 @@ hash = "fae7a34d99f16ff879a5778aab4cdafa105046042b2f1cba569342a5ee5d0c86"
 [[files]]
 file = "config/lithium.properties"
 hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/minelp.json"
+hash = "135dcf733f3ba539b2773c48d8e070d44d986d8fe4d9d02c6f9adb3a594923fd"
 
 [[files]]
 file = "config/modmenu.json"
@@ -436,5 +436,9 @@ file = "servers.dat_old"
 hash = "654d960fc15dd00f6a6abe555b9d2869292bc874720c5e38dd1dd9fc7044dffe"
 
 [[files]]
-file = "shaderpacks/BSL_v8.1.zip"
-hash = "2c12bcc93ba1e5f0ead336109119f03c1a0231983bc7ef65be268435763a21cf"
+file = "shaderpacks/BSL_v8.1.01.zip"
+hash = "0c21fc7a6dc77cdb95610994b43f377bac22ddaa802ae2c42f7310469314dc9f"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.2.2.zip"
+hash = "8b1a312efbc75b05ba17fabc02b158ca3b59d84dc98220af1b3e141d7ae79dbd"
