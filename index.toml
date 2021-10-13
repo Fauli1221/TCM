@@ -150,7 +150,7 @@ hash = "c44249c87c48216b9ce39bd233b88e2a5e901fb7589b54cee79ac566bcb0c018"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "e98fc76180311fd3729127c81634d192d23c4479c04a7539c8e734df63a8a518"
+hash = "ca228bf42ab3436b282586ec6cf363a556f200bc314ce2904de06468602c2dd7"
 
 [[files]]
 file = "config/smoothboot.json"
