@@ -234,6 +234,11 @@ hash = "3d599d4dd3564729e799db2a4c48ebfe152a348dfff39200f6ef05ea6a957ffe"
 metafile = true
 
 [[files]]
+file = "mods/bigpony.toml"
+hash = "039c267ecb25a25736de4ff0ba8f17a03ebccb1cf3c95aeb7449d429a924d8b1"
+metafile = true
+
+[[files]]
 file = "mods/capes.toml"
 hash = "3adc9339abe9872d3d0a7b2098f7efd1679203c204d06f4c34488a488a3d8215"
 metafile = true
@@ -251,11 +256,6 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.toml"
 hash = "75cdfbb1cfaa8bac7beb597532c62b37564276cfae88d3798abadf170685263f"
-metafile = true
-
-[[files]]
-file = "mods/custom-player-models-fabric.toml"
-hash = "b4295af590d3be4c9adb2856a823ba1e0a8a49f1ac33e1db4a4527a623940587"
 metafile = true
 
 [[files]]
@@ -296,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "ef41380ef2612b9d2b0c2aa81e10d13a8116a956f8e67de96c3115619562520c"
+metafile = true
+
+[[files]]
+file = "mods/hdskins.toml"
+hash = "d249186eec911b3f3267a9bb2e8c532058464cc9087bc8682297f9e7f8ec0322"
 metafile = true
 
 [[files]]
@@ -371,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.toml"
 hash = "3f7b1c6adb6a9549d23493bcde6bed81c40248d7ad0ae5763317074de740e7f0"
+metafile = true
+
+[[files]]
+file = "mods/minelittlepony.toml"
+hash = "4d9532280069ee874b661ff6fd863b4ba6b63cdc2f0dd58c30294cbfdebfc6e6"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "MineLittlePony"
+filename = "minelittlepony-4.3.7.jar"
+side = "client"
+
+[download]
+url = "https://github.com/MineLittlePony/MineLittlePony/releases/download/4.3.7/minelittlepony-4.3.7.jar"
+hash-format = "sha512"
+hash = "2d7e767b66dbf9c306cd28cd0374b7a87cc76e57281cbbdccf4079c462cad13d5ed43223d35f99847b975d03d0dceefaa0445a7e7c31e10c6810f7591a081d20"
