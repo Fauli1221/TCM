@@ -238,11 +238,6 @@ hash = "3d599d4dd3564729e799db2a4c48ebfe152a348dfff39200f6ef05ea6a957ffe"
 metafile = true
 
 [[files]]
-file = "mods/capes.toml"
-hash = "3adc9339abe9872d3d0a7b2098f7efd1679203c204d06f4c34488a488a3d8215"
-metafile = true
-
-[[files]]
 file = "mods/cloth-api.toml"
 hash = "6f9c3f657c6e3ef033d0e778096004ba4554b0db609dc80338590b3970e8daa3"
 metafile = true
@@ -395,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "aee4049eb818ffbdbf60de121cf9a4f1b2b5747e3ea8f1d3c678ee0d1f4613e2"
+metafile = true
+
+[[files]]
+file = "mods/of-capes.toml"
+hash = "4d37486f684140a255b010fd8eedf7760da2e1a99493913f038016cb0f6d3c14"
 metafile = true
 
 [[files]]
