@@ -1,8 +1,0 @@
-name = "BigPony"
-filename = "bigpony-1.5.0.jar"
-side = "client"
-
-[download]
-url = "https://github.com/MineLittlePony/BigPony/releases/download/1.5.0/bigpony-1.5.0.jar"
-hash-format = "sha512"
-hash = "9ee56d1aca07938a9dbf5763c5ba54299d67724d311c70cbd269e3491e0f734558274b683942a0116f3df6d374df6d2aef6f46fc8c4ba946e1027ee2c1cd55b9"
