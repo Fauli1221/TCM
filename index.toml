@@ -308,11 +308,6 @@ hash = "29264512e2f26c27c27bb171fda657b2a1756db9186db334cc387da900df36e8"
 metafile = true
 
 [[files]]
-file = "mods/indium.toml"
-hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.toml"
 hash = "6fc0e80189977cedfc56cf55a6789aa9d8de5ca79002918e1c4d32c861498f27"
 metafile = true
@@ -415,11 +410,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot.toml"
 hash = "d02b56170076cc508fe31ff0e4d36b4576cb0ae7cf2c008b273cd64c34787408"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.toml"
-hash = "cbfd2f0c65a616c3f7093f66a22b178f3be81bff333d8b6a9849f5fc5ef79ad7"
 metafile = true
 
 [[files]]
