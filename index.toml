@@ -57,6 +57,10 @@ file = "config/gamecontrollerdb.txt"
 hash = "1a1d3376c777c2565d61b79f623507bcec1b41693eb1d9346c117a4a8c9e8090"
 
 [[files]]
+file = "config/hdskins.json"
+hash = "73764c4a732c2da345b8ff5be7ffc1f731505cebcf2f5f4ed2f99bb6fa1984bb"
+
+[[files]]
 file = "config/illuminations.properties"
 hash = "0a7a6981ef682eebd61b456bef127561115b4c93efbcaba1db036edace0985e2"
 
