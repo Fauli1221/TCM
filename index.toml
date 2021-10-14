@@ -82,7 +82,7 @@ hash = "fb7e1b8c8343a4f2e60c8407772320804320398d141f884606448f0ec0baa5ca"
 
 [[files]]
 file = "config/lightoverlay.properties"
-hash = "fae7a34d99f16ff879a5778aab4cdafa105046042b2f1cba569342a5ee5d0c86"
+hash = "6773f4dc2ef9a15d781d39ae6f4c738ab584710246a3e67d100bd4215055ad39"
 
 [[files]]
 file = "config/lithium.properties"
