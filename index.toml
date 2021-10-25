@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2f084a168e35bc5a46a9b4d60401ffcb4ab228a61bfc8f7a651dc5724a285b76"
+hash = "c1ac0ea5003f230698651f3ea3a3a1d53e87de3add18c41409bf29d7f1d53f3a"
 metafile = true
 
 [[files]]
@@ -249,12 +249,12 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.toml"
-hash = "75cdfbb1cfaa8bac7beb597532c62b37564276cfae88d3798abadf170685263f"
+hash = "8276d048a71d2b7f84c52b946db639e832f960a1a15a7104f609c167850da84d"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "3f631c9e944a855a409158820f38aba9f587fb829a45351958b18de45118b2dc"
+hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
 metafile = true
 
 [[files]]
@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "8db6db22ea6ebfecd19b82e2b58ab48c4c2d0ffc0069370864cc5e1d23d28413"
+hash = "b021631b3c9eb2df67a922cf29afbfc01616cd86b1eb2a1f489930d8a478c6b1"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "3d75fcfc6f38eaddc0a0ac1546d0b53956f21aa7a003a0ca0012415e632f357b"
+hash = "a6c769b6ef6c7cc5a9482a1926c4c4fd412bad8be57fdc2e901668b4454f1671"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.toml"
-hash = "c7007e4da5a4ca1b921e8d51436f55bf4393b589432a88c291d3793ff7509c21"
+hash = "1fe13f7815ab6aa30923ece988e966af4673bbdf7f35bdf0a7394da4c54066cb"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "3f7b1c6adb6a9549d23493bcde6bed81c40248d7ad0ae5763317074de740e7f0"
+hash = "01e8252fcaa9657249a071fb0225b030b552d276e81695c7d2e18e211120f986"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "aee4049eb818ffbdbf60de121cf9a4f1b2b5747e3ea8f1d3c678ee0d1f4613e2"
+hash = "3755504caf9a9d519bcc358be8208816e6aad2cfd8384ac8cfc249de592582e3"
 metafile = true
 
 [[files]]
@@ -399,12 +399,12 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "bbf7b62ff7fe08f0f753a8ccaf44406569f2c08c05325c12a65cf8b60b138832"
+hash = "1e133a2d70db9b05407e1d5e49b632dd589bf48dcced5883e4ae560ce7710f4f"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "1e3c6bd147b03359a3b06c773cd8118327e98b9a96334847b2bfe1b539a69d29"
+hash = "581088573eb843180f47783eb675b5531ffbc2bf63e9611522eda80b461e76ab"
 metafile = true
 
 [[files]]
