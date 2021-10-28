@@ -403,11 +403,6 @@ hash = "1e133a2d70db9b05407e1d5e49b632dd589bf48dcced5883e4ae560ce7710f4f"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.toml"
-hash = "581088573eb843180f47783eb675b5531ffbc2bf63e9611522eda80b461e76ab"
-metafile = true
-
-[[files]]
 file = "mods/slight-gui-modifications.toml"
 hash = "cc5d7a90874f5022a32a51f00b61513538278b13819321193cf953ba0b7e6cfd"
 metafile = true
