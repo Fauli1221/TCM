@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.toml"
-hash = "8276d048a71d2b7f84c52b946db639e832f960a1a15a7104f609c167850da84d"
+hash = "b1c2ad054923a66fef20c205f4e270d366549daf099a3cbecdf995f6ad332c94"
 metafile = true
 
 [[files]]
@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "b021631b3c9eb2df67a922cf29afbfc01616cd86b1eb2a1f489930d8a478c6b1"
+hash = "27cbbc3381dc442d0806faf0ea89f8ecf732c518332d265f365e0cb88d5e5058"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "3755504caf9a9d519bcc358be8208816e6aad2cfd8384ac8cfc249de592582e3"
+hash = "e11cd0bb2c67e18dd77ea6cbf0a26bc237662057c9854b5ddb58a64c12fa4acb"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "1e133a2d70db9b05407e1d5e49b632dd589bf48dcced5883e4ae560ce7710f4f"
+hash = "d2a1dbf51d546e8bd61a8305e653ee6af8af2fafe03aefc7afb74ca63bb92b8c"
 metafile = true
 
 [[files]]
