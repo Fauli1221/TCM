@@ -150,7 +150,7 @@ hash = "c44249c87c48216b9ce39bd233b88e2a5e901fb7589b54cee79ac566bcb0c018"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "006f6b8237992170ed7f6f039e269c61956cfbec6a9d073731839ca6bcfa0718"
+hash = "17bfba5c2226b4ae68d6bbcd6e6c06ff3ad68eee6bcc89061927c20d74b8e4c6"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -167,10 +167,6 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 [[files]]
 file = "config/sodium-options.json"
 hash = "da96724c0a83a2cc08511b438349ab27820871f14a388006c999ac9848d20074"
-
-[[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "1b55a776bec56ddd443f3d77197dd9a3ba510accf765d75227468fe6f4491956"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
