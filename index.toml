@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "a6c769b6ef6c7cc5a9482a1926c4c4fd412bad8be57fdc2e901668b4454f1671"
+hash = "ef24cdefb399c4dffda3c1f2fc7a301004679255a2887cb68d1a2c1e3e2426e8"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.toml"
-hash = "cc5d7a90874f5022a32a51f00b61513538278b13819321193cf953ba0b7e6cfd"
+hash = "e0dbfb0ae19e329c972716748125ff0722c87eb4c63f3b4b7dda28361a6cf83d"
 metafile = true
 
 [[files]]
