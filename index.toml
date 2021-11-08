@@ -244,11 +244,6 @@ hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
 metafile = true
 
 [[files]]
-file = "mods/continuity.toml"
-hash = "dc02fc9546da6c49e2d0991e7bec98a465cd88e17a5ec9e2efc806f8f1d37003"
-metafile = true
-
-[[files]]
 file = "mods/cull-leaves.toml"
 hash = "b1c2ad054923a66fef20c205f4e270d366549daf099a3cbecdf995f6ad332c94"
 metafile = true
