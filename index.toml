@@ -394,6 +394,11 @@ hash = "d02b56170076cc508fe31ff0e4d36b4576cb0ae7cf2c008b273cd64c34787408"
 metafile = true
 
 [[files]]
+file = "mods/starlight.toml"
+hash = "cb9176439af93f4215bc9eb96ddcfa02566ea41aa5c1b6e230a66bfd23299255"
+metafile = true
+
+[[files]]
 file = "mods/wi-zoom.toml"
 hash = "acc7a3d78125c57ebef774099e7dadae8b9249032b030c598569377f10fe4384"
 metafile = true
