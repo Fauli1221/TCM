@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "27cbbc3381dc442d0806faf0ea89f8ecf732c518332d265f365e0cb88d5e5058"
+hash = "76fac2cfd09d5b73e428a698f9ad1fc4e7ed59f807997d848c5bf9a5024a87ac"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "ef24cdefb399c4dffda3c1f2fc7a301004679255a2887cb68d1a2c1e3e2426e8"
+hash = "ba16fcb97dbfd8e2ceb9344a7e6033173f2d0038bda71c11c1387a858f8b82a5"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+hash = "e1aea49ed8a6f2af853793ee649e69d27d872b080c4a4a30264a42022a4eabed"
 metafile = true
 
 [[files]]
