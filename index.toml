@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
+hash = "1bbb7759542ccebcf1d5157dd889050c371277b8d26f7c1b9b18f0968ad7c33d"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "29264512e2f26c27c27bb171fda657b2a1756db9186db334cc387da900df36e8"
+hash = "589e0006ce8cd89e306cb506a28e616b2fef777abe4f979ce1df8c1ad44c657a"
 metafile = true
 
 [[files]]
