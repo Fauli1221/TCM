@@ -294,6 +294,11 @@ hash = "589e0006ce8cd89e306cb506a28e616b2fef777abe4f979ce1df8c1ad44c657a"
 metafile = true
 
 [[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.toml"
 hash = "ba16fcb97dbfd8e2ceb9344a7e6033173f2d0038bda71c11c1387a858f8b82a5"
 metafile = true
