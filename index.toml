@@ -374,11 +374,6 @@ hash = "4d37486f684140a255b010fd8eedf7760da2e1a99493913f038016cb0f6d3c14"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.toml"
-hash = "a609236c4f7cbb215561d06fe823c4ef70990f17ecf29509bfc95b4260e1834f"
-metafile = true
-
-[[files]]
 file = "mods/replaymod.toml"
 hash = "6189ddaddd49476007a66bd9694e9ab5697874ba7c8bf91e12396ebd2d0bf4df"
 metafile = true
@@ -396,11 +391,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot.toml"
 hash = "d02b56170076cc508fe31ff0e4d36b4576cb0ae7cf2c008b273cd64c34787408"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.toml"
-hash = "0a037711955c1f0108d195683e2d8018f9193270e86a61d2e5cd2d874cae7000"
 metafile = true
 
 [[files]]
