@@ -5,7 +5,11 @@ version = "1.6"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "78b043ea374411104464b8c941e54faf397382c7e1d494414f57f517fc850d32"
+=======
+hash = "9fba8d90dc9bbebd3fdb3b039c9b13bd52088033da928ecdaf7d1b2925a2648e"
+>>>>>>> parent of 07d8d89 (Revert "added sodium-extra reeses-sodium-options")
 
 [versions]
 fabric = "0.12.5"
