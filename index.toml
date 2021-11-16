@@ -289,11 +289,6 @@ hash = "274c0a33dd2d7b4bdc99978fa11b83f6b74deb0b1795303a968234f1eea241fc"
 metafile = true
 
 [[files]]
-file = "mods/hdskins.toml"
-hash = "d249186eec911b3f3267a9bb2e8c532058464cc9087bc8682297f9e7f8ec0322"
-metafile = true
-
-[[files]]
 file = "mods/hydrogen.toml"
 hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
 metafile = true
@@ -366,11 +361,6 @@ metafile = true
 [[files]]
 file = "mods/malilib.toml"
 hash = "01e8252fcaa9657249a071fb0225b030b552d276e81695c7d2e18e211120f986"
-metafile = true
-
-[[files]]
-file = "mods/minelittlepony.toml"
-hash = "7857cff93a856daaee47091669c604488bf530d7fc6da0df8949665b8ca13fef"
 metafile = true
 
 [[files]]
