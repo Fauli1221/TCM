@@ -244,6 +244,11 @@ hash = "1bbb7759542ccebcf1d5157dd889050c371277b8d26f7c1b9b18f0968ad7c33d"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "dc02fc9546da6c49e2d0991e7bec98a465cd88e17a5ec9e2efc806f8f1d37003"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.toml"
 hash = "b1c2ad054923a66fef20c205f4e270d366549daf099a3cbecdf995f6ad332c94"
 metafile = true
@@ -291,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/illuminations.toml"
 hash = "589e0006ce8cd89e306cb506a28e616b2fef777abe4f979ce1df8c1ad44c657a"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
 metafile = true
 
 [[files]]
