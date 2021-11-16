@@ -1,6 +1,6 @@
 name = "Techtastisch Comunity Modpack"
 author = "Fauli1221"
-version = "1.6"
+version = "1.6.1"
 
 [index]
 file = "index.toml"
