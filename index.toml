@@ -317,6 +317,10 @@ file = "mods/smooth-boot.toml"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.toml"
+metafile = true
+
+[[files]]
 file = "mods/starlight.toml"
 metafile = true
 
