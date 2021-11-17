@@ -1,0 +1,8 @@
+name = "HDSkins"
+filename = "hdskins-6.4.12.jar"
+side = "client"
+
+[download]
+url = "https://github.com/MineLittlePony/HDSkins/releases/download/6.4.12/hdskins-6.4.12.jar"
+hash-format = "sha512"
+hash = "75daa180b32865e73063e637339414951f89668f862145fabf605c4ca0653ab59022901a747df579b03a7abfb574ff997d0067bdcf0504ae5d1c3bbd1e815622"

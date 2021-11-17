@@ -221,6 +221,11 @@ file = "mods/ferritecore-fabric.toml"
 metafile = true
 
 [[files]]
+file = "mods/hdskins.toml"
+hash = "d249186eec911b3f3267a9bb2e8c532058464cc9087bc8682297f9e7f8ec0322"
+metafile = true
+
+[[files]]
 file = "mods/hydrogen.toml"
 metafile = true
 
@@ -278,6 +283,11 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
+metafile = true
+
+[[files]]
+file = "mods/minelittlepony.toml"
+hash = "7857cff93a856daaee47091669c604488bf530d7fc6da0df8949665b8ca13fef"
 metafile = true
 
 [[files]]
