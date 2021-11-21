@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "3b55a084c08b2afd69c50bb00a802abc4387ecb1ce3525fe9db36a1ade7fde9c"
+hash = "2b634fc55b8dbb2dd91049f60073cd2fc90ae7d26287ff34c4973fd66fb259d6"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "ba16fcb97dbfd8e2ceb9344a7e6033173f2d0038bda71c11c1387a858f8b82a5"
+hash = "0efa7b23de11fd2853c5080928da42c1368fe0c957e1bce0a2f64fb0e882d792"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "b9537aa95cf1b5d56ffeeee6f771b93d7ef70a7f53c2ed1009d85bdc44980810"
+hash = "61554b360052d048d2a47a510945a757e2263d19bc72fa239e9b1a5f5ebccd2e"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "d2a1dbf51d546e8bd61a8305e653ee6af8af2fafe03aefc7afb74ca63bb92b8c"
+hash = "f4a5950a5323517dcd55d5756153e11f4e9dd1ccc1358d080052629473558f05"
 metafile = true
 
 [[files]]
