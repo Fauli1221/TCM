@@ -1,11 +1,12 @@
 name = "Techtastisch Comunity Modpack"
 author = "Fauli1221"
 version = "1.6.1"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c1112173fde240009041d4b5040f2e087960d9ec43bce763a21b4d56a4bacefe"
+hash = "e6e695ff5eb70f33853c317d57f96928d292c907afee3c7db44947cfe4a765b3"
 
 [versions]
 fabric = "0.12.5"
