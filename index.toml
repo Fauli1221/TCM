@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/hdskins.toml"
-hash = "d249186eec911b3f3267a9bb2e8c532058464cc9087bc8682297f9e7f8ec0322"
+hash = "e5662d10324891cfdb00dda99726819fbadda9668be436701671105d13eb7603"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/minelittlepony.toml"
-hash = "7857cff93a856daaee47091669c604488bf530d7fc6da0df8949665b8ca13fef"
+hash = "4c1c0e674f4ae510805ec466baf8c7ac75298f3b0d8f778bdfd43d86c89baa84"
 metafile = true
 
 [[files]]
