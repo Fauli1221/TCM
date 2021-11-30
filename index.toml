@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "76fac2cfd09d5b73e428a698f9ad1fc4e7ed59f807997d848c5bf9a5024a87ac"
+hash = "cd6b4dcf40fd4f48f42fd9eeb4bc2d9a1c52b90a74383907e02331b38c2fa8c0"
 metafile = true
 
 [[files]]
@@ -295,17 +295,17 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "589e0006ce8cd89e306cb506a28e616b2fef777abe4f979ce1df8c1ad44c657a"
+hash = "67fb343ab7c019c6ebd0dddca9cfc56a3bcc73f1c195aa8a48af3ae453983d9a"
 metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+hash = "2b199deceff30e132074d9850f16e5ff990808eabf36a5ba95af0f521a2eb85f"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "260e4256464c8030a0192182965827954104743a3a16504fb7a421f43fa572e0"
+hash = "8708a028d3d004202c849d7080a5a6e6688f1f31acae80dc4a9aab8975601d75"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "374c4eb4d5733928e6a3aed28625bb28f6e2bcb1f17a2077577ab555e2b37c94"
+hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "61554b360052d048d2a47a510945a757e2263d19bc72fa239e9b1a5f5ebccd2e"
+hash = "afa230fbe4d31c0d6c224f7f7b49c3b7803dcc612c7d27625a86907fe1773796"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "a609236c4f7cbb215561d06fe823c4ef70990f17ecf29509bfc95b4260e1834f"
+hash = "d1b858eeebb0d3d7629a4c2524279bfc6ed14d72798d82fa4361d85e6a9e2427"
 metafile = true
 
 [[files]]
@@ -411,6 +411,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.toml"
 hash = "f9bcaa9a340459a8509b17ac16ca51f0a4f1f935b9a79d16e1e0797df6d454c5"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "a0fa129729bb5d0ed3419558d2819116cc0b9d055f5f356c165207ab1762f89d"
 metafile = true
 
 [[files]]
