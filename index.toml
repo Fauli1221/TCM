@@ -9,10 +9,6 @@ file = "config/capes.json5"
 hash = "127884c44611586e201fdbe2d0e08f91407804aaa048a6cb7342749e0f0ef64b"
 
 [[files]]
-file = "config/cpm.json"
-hash = "f726eeed2e289534abbc78087f29034f201e7acd3fb4eebd9021f1cc73f4dc65"
-
-[[files]]
 file = "config/cullleaves.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
@@ -90,7 +86,7 @@ hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
 
 [[files]]
 file = "config/minelp.json"
-hash = "ca6dd76d5971cbc2389cda1f99463c78f41fb47404d24c17b341d62eea6a9326"
+hash = "db0c4a2f915c96d930e25fd0ff2714e7fa68486e5fad29de0617c66406f36414"
 
 [[files]]
 file = "config/modmenu.json"
@@ -289,6 +285,11 @@ hash = "274c0a33dd2d7b4bdc99978fa11b83f6b74deb0b1795303a968234f1eea241fc"
 metafile = true
 
 [[files]]
+file = "mods/hdskins.toml"
+hash = "e5662d10324891cfdb00dda99726819fbadda9668be436701671105d13eb7603"
+metafile = true
+
+[[files]]
 file = "mods/hydrogen.toml"
 hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
 metafile = true
@@ -361,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.toml"
 hash = "01e8252fcaa9657249a071fb0225b030b552d276e81695c7d2e18e211120f986"
+metafile = true
+
+[[files]]
+file = "mods/minelittlepony.toml"
+hash = "4c1c0e674f4ae510805ec466baf8c7ac75298f3b0d8f778bdfd43d86c89baa84"
 metafile = true
 
 [[files]]
