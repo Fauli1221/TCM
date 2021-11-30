@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "76fac2cfd09d5b73e428a698f9ad1fc4e7ed59f807997d848c5bf9a5024a87ac"
+hash = "cd6b4dcf40fd4f48f42fd9eeb4bc2d9a1c52b90a74383907e02331b38c2fa8c0"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "3b55a084c08b2afd69c50bb00a802abc4387ecb1ce3525fe9db36a1ade7fde9c"
+hash = "2b634fc55b8dbb2dd91049f60073cd2fc90ae7d26287ff34c4973fd66fb259d6"
 metafile = true
 
 [[files]]
@@ -296,22 +296,22 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "589e0006ce8cd89e306cb506a28e616b2fef777abe4f979ce1df8c1ad44c657a"
+hash = "67fb343ab7c019c6ebd0dddca9cfc56a3bcc73f1c195aa8a48af3ae453983d9a"
 metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+hash = "2b199deceff30e132074d9850f16e5ff990808eabf36a5ba95af0f521a2eb85f"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "ba16fcb97dbfd8e2ceb9344a7e6033173f2d0038bda71c11c1387a858f8b82a5"
+hash = "8708a028d3d004202c849d7080a5a6e6688f1f31acae80dc4a9aab8975601d75"
 metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
+hash = "377477adaa8daad40f1749113d7d80ca2bdb7cfdd5104c26b3ac437f472706d8"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "374c4eb4d5733928e6a3aed28625bb28f6e2bcb1f17a2077577ab555e2b37c94"
+hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "b9537aa95cf1b5d56ffeeee6f771b93d7ef70a7f53c2ed1009d85bdc44980810"
+hash = "afa230fbe4d31c0d6c224f7f7b49c3b7803dcc612c7d27625a86907fe1773796"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "a609236c4f7cbb215561d06fe823c4ef70990f17ecf29509bfc95b4260e1834f"
+hash = "d1b858eeebb0d3d7629a4c2524279bfc6ed14d72798d82fa4361d85e6a9e2427"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "d2a1dbf51d546e8bd61a8305e653ee6af8af2fafe03aefc7afb74ca63bb92b8c"
+hash = "f4a5950a5323517dcd55d5756153e11f4e9dd1ccc1358d080052629473558f05"
 metafile = true
 
 [[files]]
@@ -417,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.toml"
 hash = "f9bcaa9a340459a8509b17ac16ca51f0a4f1f935b9a79d16e1e0797df6d454c5"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "a0fa129729bb5d0ed3419558d2819116cc0b9d055f5f356c165207ab1762f89d"
 metafile = true
 
 [[files]]
