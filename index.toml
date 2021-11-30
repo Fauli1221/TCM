@@ -284,11 +284,6 @@ hash = "07d722acfe134b36df5855726be02d386c3e6ad4bdd4c48ff5e1d14817919a63"
 metafile = true
 
 [[files]]
-file = "mods/old-walking-animation.toml"
-hash = "59b76ecf269ec6f02a79619cc51f3c98863d8e2b5318e3e4d1dd8e5554fcbfe8"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.toml"
 hash = "84411a4402882ea14412d2bc6b99b0b984d7e652acbcff191bbc623cebc9ba8b"
 metafile = true
