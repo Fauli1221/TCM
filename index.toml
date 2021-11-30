@@ -5,6 +5,10 @@ file = "config/betterf3.json"
 hash = "f6fd28677d77be7dff2775dc120eb481373b82f4b94451624a4735411ae413f2"
 
 [[files]]
+file = "config/builtinservers.json"
+hash = "70f334fc5e783ebaca2ef7f9192e404d17410d2b39c61b41f74189ad2a19308c"
+
+[[files]]
 file = "config/capes.json5"
 hash = "127884c44611586e201fdbe2d0e08f91407804aaa048a6cb7342749e0f0ef64b"
 
@@ -285,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/old-walking-animation.toml"
-hash = "59b76ecf269ec6f02a79619cc51f3c98863d8e2b5318e3e4d1dd8e5554fcbfe8"
+hash = "5a9a0e35a5766244119ec094fa5d26203ad8fc820156375ba1a1ad763072f130"
 metafile = true
 
 [[files]]
@@ -297,14 +301,6 @@ metafile = true
 file = "mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "a60bf6766a9ed710c32f036aaa4c2c41c2df7649da9c9f81fb6f4f402d01f8de"
-
-[[files]]
-file = "servers.dat_old"
-hash = "654d960fc15dd00f6a6abe555b9d2869292bc874720c5e38dd1dd9fc7044dffe"
 
 [[files]]
 file = "shaderpacks/BSL_v8.1.01.zip"
