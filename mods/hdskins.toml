@@ -1,0 +1,13 @@
+name = "HDSkins"
+filename = "hdskins-6.5.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/MineLittlePony/HDSkins/releases/download/6.5.0/hdskins-6.5.0.jar"
+hash-format = "sha512"
+hash = "88ddc1997e76ff349036fcd8fd2750211f701e7513ff2e54d1702653b99a8dbba4a71fad4d992b77b43769f520eaff354a8c3a757e9f1f748310398f23770f6b"
+
+[option]
+default = true
+description = "Adds a custom skin server with HD-Skin support Recomendet with MineLittlePony"
+optional = true

@@ -1,14 +1,13 @@
 name = "Inventory Profiles Next"
-filename = "InventoryProfilesNext-fabric-1.17-1.1.4.jar"
-side = "both"
+filename = "InventoryProfilesNext-fabric-1.18-1.1.8.jar"
+side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3518/110/InventoryProfilesNext-fabric-1.17-1.1.4.jar"
-hash-format = "murmur2"
-hash = "1206550632"
+url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18-rc2-1.1.8/InventoryProfilesNext-fabric-1.18-1.1.8.jar"
+hash-format = "sha512"
+hash = "0c64410f4559765dde51d448a631169612d83ec60d875b10f7cd79a01a0f7eb9202ca3458ea452f1bccf3ab3b230e9c88a59d41ab9b9ae6ae0cd0035641a0750"
 
 [update]
-[update.curseforge]
-file-id = 3518110
-project-id = 495267
-release-channel = "beta"
+[update.modrinth]
+mod-id = "O7RBXm3n"
+version = "qG8iL5Lv"
