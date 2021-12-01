@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/bigpony.toml"
-hash = "97c446c952de1ee22ef51f266b8076577fb37c3e1d5c15d6e99f9b5c108eb0a7"
+hash = "78bcea4e2a9d9696c976067d25d792d48c560aa844900d8253655b02984bdec7"
 metafile = true
 
 [[files]]
