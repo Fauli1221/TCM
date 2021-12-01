@@ -333,11 +333,6 @@ hash = "84411a4402882ea14412d2bc6b99b0b984d7e652acbcff191bbc623cebc9ba8b"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.toml"
-hash = "de3079a690170008dc1fe49bb91658abcb92d597d882bf02fcaeded69bdaec6c"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.toml"
 hash = "d9aee3833ae4d543f820fda7f7989bee36b34556d031e614b2c4ab7e82620ff2"
 metafile = true
