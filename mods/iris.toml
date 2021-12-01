@@ -11,3 +11,8 @@ hash = "6939ff2672e645873d01c9eb55b43f7a81ebcb864d0ce9127f7fc6b8df0f490ab54d990d
 [update.modrinth]
 mod-id = "YL57xq9U"
 version = "Hw3w5BnI"
+
+[option]
+default = true
+description = "Adds Shader support"
+optional = true

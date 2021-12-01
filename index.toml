@@ -275,12 +275,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "baaa619803068e18f5628888c4f30bf9784f2256c94def72faa998fee24af895"
+hash = "551aba5cebe9a0e67595851fee3e081785552860344ac1119a7fe3b763349fea"
 metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "92eab931314c02773c8466741e070791a94ade517298b49441b116e1c2da2a94"
+hash = "c73d64e109a49f53e37e011cde16347e6cc88837ef267e21a6b5629e9465e0a8"
 metafile = true
 
 [[files]]
@@ -290,17 +290,17 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
+hash = "0a1ac7a552d3ba8a318ab6186f17836901542b3c0e239a122a86378186dd85d7"
 metafile = true
 
 [[files]]
 file = "mods/lambdacontrols.toml"
-hash = "7b90c383bc3debd158497223d1589c5b118f2f88b29610b90214ffc02e5521b8"
+hash = "f06ebf9bb364a810cd7c7ac49b59b89b023bf0db97a2e115ec68462a87af89d8"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
+hash = "c24ce407d9d8feb56390562acad56efbfb04aae5d84808a7a37e2add9838ff55"
 metafile = true
 
 [[files]]
