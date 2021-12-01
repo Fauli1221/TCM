@@ -228,7 +228,7 @@ hash = "af12d911a5b17660e97a84eb0a097712a4c933929467ab631da797e1b76fdfec"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.toml"
+file = "mods/cloth-config-api.toml"
 hash = "1601765b6c61b6f250e8991019b622189b66a1d08114a3d5b0ee2939e9ef4791"
 metafile = true
 
