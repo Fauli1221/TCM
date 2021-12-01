@@ -214,6 +214,11 @@ hash = "99d0687e8d1da22de0944a12724b8407000307b1c73c54f531f5298cfa38821c"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "cdc05e86a0fef38a67b70502a8104f6a55927df40d79fdc48be8cff380a8d473"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.toml"
 hash = "22ffac5e9696e4d6f77a0d4cd8d9389b9b0496989fd3c3028f2d83dfcd616bae"
 metafile = true
@@ -245,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e16d5a11d55ea990738dfa87524278969c249c2320202cedcb5c1298e85b82c0"
+hash = "b170c8faa344204872477b9341b759f877eca6a33dc1d99a51ad49b232e65f3a"
 metafile = true
 
 [[files]]
@@ -296,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.toml"
 hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.toml"
+hash = "1ca0251bfb7b7571ee13a76ec9193476e9bca76b00f885ba910d506750fd9f0a"
 metafile = true
 
 [[files]]
