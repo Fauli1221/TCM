@@ -224,6 +224,11 @@ hash = "22ffac5e9696e4d6f77a0d4cd8d9389b9b0496989fd3c3028f2d83dfcd616bae"
 metafile = true
 
 [[files]]
+file = "mods/bigpony.toml"
+hash = "97c446c952de1ee22ef51f266b8076577fb37c3e1d5c15d6e99f9b5c108eb0a7"
+metafile = true
+
+[[files]]
 file = "mods/builtin-servers.toml"
 hash = "af12d911a5b17660e97a84eb0a097712a4c933929467ab631da797e1b76fdfec"
 metafile = true
