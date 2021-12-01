@@ -13,10 +13,6 @@ file = "config/capes.json5"
 hash = "127884c44611586e201fdbe2d0e08f91407804aaa048a6cb7342749e0f0ef64b"
 
 [[files]]
-file = "config/cpm.json"
-hash = "f726eeed2e289534abbc78087f29034f201e7acd3fb4eebd9021f1cc73f4dc65"
-
-[[files]]
 file = "config/cullleaves.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
