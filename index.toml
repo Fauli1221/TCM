@@ -213,6 +213,11 @@ file = "config/yosbr/options.txt"
 hash = "07cd64bbec9a770ef7075c7b59f8d87b960e81e7e62859788b4f7dd1d288ea59"
 
 [[files]]
+file = "mods/antighost.toml"
+hash = "99d0687e8d1da22de0944a12724b8407000307b1c73c54f531f5298cfa38821c"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.toml"
 hash = "22ffac5e9696e4d6f77a0d4cd8d9389b9b0496989fd3c3028f2d83dfcd616bae"
 metafile = true
@@ -223,6 +228,16 @@ hash = "af12d911a5b17660e97a84eb0a097712a4c933929467ab631da797e1b76fdfec"
 metafile = true
 
 [[files]]
+file = "mods/dripsounds-fabric.toml"
+hash = "646236f574163a14e46fde5221820b920ae4ccea2497624dfe53c723fa39f0bd"
+metafile = true
+
+[[files]]
+file = "mods/durabilityviewer.toml"
+hash = "fe22a9addd92905dd341436d3319f7b803c64c209787a341da839b501f8848ee"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
 metafile = true
@@ -230,6 +245,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.toml"
 hash = "e16d5a11d55ea990738dfa87524278969c249c2320202cedcb5c1298e85b82c0"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.toml"
+hash = "0c3af8d62cacd0560cfb3102986b9f058bd07d0cc7cb7ea16b8dd9a10cc93f93"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.toml"
+hash = "d50e6bc2730ac32f93afd1b0bb01edb5d1c407203733fd3bf4eeae708bad86e6"
 metafile = true
 
 [[files]]
@@ -244,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "85af5250c136b747b2e4bb0d1469c49a330b203b8618f191667923f9059ab0ef"
+hash = "baaa619803068e18f5628888c4f30bf9784f2256c94def72faa998fee24af895"
 metafile = true
 
 [[files]]
@@ -260,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/lambdabettergrass.toml"
 hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
+metafile = true
+
+[[files]]
+file = "mods/lambdacontrols.toml"
+hash = "7b90c383bc3debd158497223d1589c5b118f2f88b29610b90214ffc02e5521b8"
 metafile = true
 
 [[files]]
@@ -295,6 +325,16 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.toml"
 hash = "84411a4402882ea14412d2bc6b99b0b984d7e652acbcff191bbc623cebc9ba8b"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "de3079a690170008dc1fe49bb91658abcb92d597d882bf02fcaeded69bdaec6c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "d9aee3833ae4d543f820fda7f7989bee36b34556d031e614b2c4ab7e82620ff2"
 metafile = true
 
 [[files]]
