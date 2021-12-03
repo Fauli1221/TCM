@@ -209,6 +209,16 @@ file = "config/yosbr/options.txt"
 hash = "07cd64bbec9a770ef7075c7b59f8d87b960e81e7e62859788b4f7dd1d288ea59"
 
 [[files]]
+file = "mods/advancementinfo.toml"
+hash = "675d82969da304f069ee676cbf3b1872f70ffae3a27ad613ff91ddf02d8ae8ac"
+metafile = true
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "5f86bb4e54b5d5a10be7ed909c0b106f6bb246578c9b76aa0284f1a99e9d67b1"
+metafile = true
+
+[[files]]
 file = "mods/antighost.toml"
 hash = "99d0687e8d1da22de0944a12724b8407000307b1c73c54f531f5298cfa38821c"
 metafile = true
@@ -234,8 +244,43 @@ hash = "af12d911a5b17660e97a84eb0a097712a4c933929467ab631da797e1b76fdfec"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config-api.toml"
-hash = "8bfa530a2e2ca850fa6bbe38d1aaf2ce70e8b6f450325a4e46c4ac244d0ead3c"
+file = "mods/capes.toml"
+hash = "eef7bb485e3256f64c611371f1ae5df7606929cc22b7a9d510c8c3adb542bd2d"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.toml"
+hash = "528609fda26cd9ab08ae12e361beebf65ce6a3ab771b7e263b3b2d7a01332f83"
+metafile = true
+
+[[files]]
+file = "mods/cloth-api.toml"
+hash = "3c329350a1ade79fa329aa932188659dc361d4917a0fcb07159b5eeb240f97f2"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "1601765b6c61b6f250e8991019b622189b66a1d08114a3d5b0ee2939e9ef4791"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.toml"
+hash = "126711d50f796ccc8292cb1bfe3b3b9d7ede964fafdd73194e8a6239e4ee0e5e"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "0563271b36703c2594ac9b3c7382b614f4396ec664f12109a79bcffb95824143"
+metafile = true
+
+[[files]]
+file = "mods/custom-entity-models-cem.toml"
+hash = "5a609203ae9f32d5ff7998edd49c50b2ca8d7fe28233664b5621befe87176ee2"
+metafile = true
+
+[[files]]
+file = "mods/dont-clear-chat-history.toml"
+hash = "2a1799426d31ac5da9f01cbbd1b611df5b74499ae46d7d1a5e2e4f805db1570c"
 metafile = true
 
 [[files]]
@@ -254,8 +299,18 @@ hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.toml"
+hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "b170c8faa344204872477b9341b759f877eca6a33dc1d99a51ad49b232e65f3a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "2e585b6ce11bc8f187a3178debba7086dfebdd37c667aee1dd46d627ab94e083"
 metafile = true
 
 [[files]]
@@ -266,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.toml"
 hash = "d50e6bc2730ac32f93afd1b0bb01edb5d1c407203733fd3bf4eeae708bad86e6"
+metafile = true
+
+[[files]]
+file = "mods/fastchest.toml"
+hash = "7c5232431f0ecb22111a697d8bf0f27810db1837f484f19d7f38858b5250844d"
 metafile = true
 
 [[files]]
@@ -289,6 +349,11 @@ hash = "c73d64e109a49f53e37e011cde16347e6cc88837ef267e21a6b5629e9465e0a8"
 metafile = true
 
 [[files]]
+file = "mods/item-model-fix.toml"
+hash = "8cb021b388cdac45c85fd6559ebe7f98f8db1ee93fcd5641816414808107296e"
+metafile = true
+
+[[files]]
 file = "mods/kappa.toml"
 hash = "4ad083e59a3afc403f0cbb29715aec65d5d7556f157419127ee17913b817192f"
 metafile = true
@@ -309,6 +374,16 @@ hash = "c24ce407d9d8feb56390562acad56efbfb04aae5d84808a7a37e2add9838ff55"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.toml"
+hash = "4dfbc6d2a8716a65c5ff3418f7af899bb1515c9451a18c98d19c03be757701e3"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "d29c81118c71783f1a833ec2b5b5e2be98d1bfce3652026b24161cb27288e3be"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.toml"
 hash = "1ca0251bfb7b7571ee13a76ec9193476e9bca76b00f885ba910d506750fd9f0a"
 metafile = true
@@ -321,6 +396,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "b287dbc2f91dc9cc16e68839fd795d190fd87d752971a72d07c1d600136ba955"
+metafile = true
+
+[[files]]
+file = "mods/more-chat-history.toml"
+hash = "62c18f83be5eb3a91395b9466418065271a56ea4df82004066c1dd0c6f7729bf"
+metafile = true
+
+[[files]]
+file = "mods/no-fade.toml"
+hash = "a40d9644e1ae0e994374d1dcfa2ed19cddd244cff4f2d372e3ab63690bd5b831"
 metafile = true
 
 [[files]]
@@ -344,6 +429,16 @@ hash = "84411a4402882ea14412d2bc6b99b0b984d7e652acbcff191bbc623cebc9ba8b"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "d4581cbd048ec6d30f4ac9349abe3eb36e7f3a400cf8282779a1177c0a0292b9"
+metafile = true
+
+[[files]]
+file = "mods/slight-gui-modifications.toml"
+hash = "5b33de3c55d5c60d41ac57d72b7697b6e6ad8795de481895b3f0d11e2e0d974a"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "d9aee3833ae4d543f820fda7f7989bee36b34556d031e614b2c4ab7e82620ff2"
 metafile = true
@@ -351,6 +446,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.toml"
+hash = "28b48053e5e932741e9a321e2f62d8595fe52e6c1ced9fbda3e0ab80b43030ee"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.toml"
+hash = "8177307d9151796fd0dc5e3aa41087a0b1f410d5c38bb287a5d8ce88cb47d6b0"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "25ba1f543d497256054d05bbbab6e0c4f5aa9796cd53191d4b381297fd98c81d"
 metafile = true
 
 [[files]]
