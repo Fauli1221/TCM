@@ -325,12 +325,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.toml"
-hash = "c9357a763999bcfb92e6f6b087c924a7c14ef39a84973b119c036ec762ebf77c"
+hash = "d893f12bb1254540fb7991c86d393bb73dc20d383d1dc091cde31219c9ef09dd"
 metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "07d722acfe134b36df5855726be02d386c3e6ad4bdd4c48ff5e1d14817919a63"
+hash = "507fb6185c31ff0a3adf2669369ca32a832fd336fcf8019020d144ef064e855f"
 metafile = true
 
 [[files]]
