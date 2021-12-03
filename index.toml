@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-disable-custom-worlds-advice.toml"
-hash = "2626c44c701d6f3fc1d604c0da3959b2659e61883ea3746493a525353d2fe2c9"
+hash = "92038645c4ed39e5c009c53985260e594479872d6cbd8639fa8f275a925fdd3a"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "8708a028d3d004202c849d7080a5a6e6688f1f31acae80dc4a9aab8975601d75"
+hash = "20a7328c0b66f7195a71d467de0fddc5dc6d0126018e0d44dd4f8f92bfbcefa1"
 metafile = true
 
 [[files]]
