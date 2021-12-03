@@ -150,7 +150,7 @@ hash = "c44249c87c48216b9ce39bd233b88e2a5e901fb7589b54cee79ac566bcb0c018"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "f43ae9b9354095e96d956e51d05a052848c3ab458879a030827962cc66f820c2"
+hash = "4a4f08a543c797bc2951182b7fe0d5eed05c275abc97efbf1ef77bc3d6a5e5c0"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "1601765b6c61b6f250e8991019b622189b66a1d08114a3d5b0ee2939e9ef4791"
+hash = "8bfa530a2e2ca850fa6bbe38d1aaf2ce70e8b6f450325a4e46c4ac244d0ead3c"
 metafile = true
 
 [[files]]
