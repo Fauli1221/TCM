@@ -214,11 +214,6 @@ hash = "675d82969da304f069ee676cbf3b1872f70ffae3a27ad613ff91ddf02d8ae8ac"
 metafile = true
 
 [[files]]
-file = "mods/animatica.toml"
-hash = "5f86bb4e54b5d5a10be7ed909c0b106f6bb246578c9b76aa0284f1a99e9d67b1"
-metafile = true
-
-[[files]]
 file = "mods/antighost.toml"
 hash = "99d0687e8d1da22de0944a12724b8407000307b1c73c54f531f5298cfa38821c"
 metafile = true
@@ -266,11 +261,6 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.toml"
 hash = "126711d50f796ccc8292cb1bfe3b3b9d7ede964fafdd73194e8a6239e4ee0e5e"
-metafile = true
-
-[[files]]
-file = "mods/continuity.toml"
-hash = "0563271b36703c2594ac9b3c7382b614f4396ec664f12109a79bcffb95824143"
 metafile = true
 
 [[files]]
@@ -396,16 +386,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "b287dbc2f91dc9cc16e68839fd795d190fd87d752971a72d07c1d600136ba955"
-metafile = true
-
-[[files]]
-file = "mods/more-chat-history.toml"
-hash = "62c18f83be5eb3a91395b9466418065271a56ea4df82004066c1dd0c6f7729bf"
-metafile = true
-
-[[files]]
-file = "mods/no-fade.toml"
-hash = "a40d9644e1ae0e994374d1dcfa2ed19cddd244cff4f2d372e3ab63690bd5b831"
 metafile = true
 
 [[files]]
