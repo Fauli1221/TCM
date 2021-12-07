@@ -214,6 +214,11 @@ hash = "675d82969da304f069ee676cbf3b1872f70ffae3a27ad613ff91ddf02d8ae8ac"
 metafile = true
 
 [[files]]
+file = "mods/animatica.toml"
+hash = "5f86bb4e54b5d5a10be7ed909c0b106f6bb246578c9b76aa0284f1a99e9d67b1"
+metafile = true
+
+[[files]]
 file = "mods/antighost.toml"
 hash = "99d0687e8d1da22de0944a12724b8407000307b1c73c54f531f5298cfa38821c"
 metafile = true
@@ -259,6 +264,11 @@ hash = "3673dd85d0ebecbef0501f2506206279fedc113070ee32a98fbe0690ba4e2aab"
 metafile = true
 
 [[files]]
+file = "mods/colormatic.toml"
+hash = "c1c4f73e371a2682b1609322a3ba1af39fe8ca7d60e2366f3c07b045cbb1d7ac"
+metafile = true
+
+[[files]]
 file = "mods/completeconfig.toml"
 hash = "126711d50f796ccc8292cb1bfe3b3b9d7ede964fafdd73194e8a6239e4ee0e5e"
 metafile = true
@@ -271,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
 hash = "5a609203ae9f32d5ff7998edd49c50b2ca8d7fe28233664b5621befe87176ee2"
+metafile = true
+
+[[files]]
+file = "mods/dont-clear-chat-history.toml"
+hash = "2a1799426d31ac5da9f01cbbd1b611df5b74499ae46d7d1a5e2e4f805db1570c"
 metafile = true
 
 [[files]]
@@ -319,6 +334,11 @@ hash = "7c5232431f0ecb22111a697d8bf0f27810db1837f484f19d7f38858b5250844d"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "856759b47ba14018cff8917f8d1785df84d2acf2730b8409bc1dd4dfb578748a"
+metafile = true
+
+[[files]]
 file = "mods/hd-skins.toml"
 hash = "4af6d4a5e75e8ddb1efc855fc13b38958e8cb024d776a97dc8203c331cc3ea06"
 metafile = true
@@ -330,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "551aba5cebe9a0e67595851fee3e081785552860344ac1119a7fe3b763349fea"
+hash = "7d84659deb38b9d7ddb0f290fb63bd50984c8b3158afff4fb8e6a1911df80a9d"
 metafile = true
 
 [[files]]
@@ -375,7 +395,12 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.toml"
-hash = "1ca0251bfb7b7571ee13a76ec9193476e9bca76b00f885ba910d506750fd9f0a"
+hash = "4b0cc350b8ec7ebcb66c722b972d9f6ce30c66bd199e7fd7c7e20a03d8b7cdcd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "511fe49c8aa17b69c981e1cc3f14d16bab0e7aa9248dcc1dc8cee01c9939d7ab"
 metafile = true
 
 [[files]]
@@ -386,6 +411,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "b287dbc2f91dc9cc16e68839fd795d190fd87d752971a72d07c1d600136ba955"
+metafile = true
+
+[[files]]
+file = "mods/more-chat-history.toml"
+hash = "e1d8ca23cda8a8e4efb3027916a7574d55adb3d62a01b5a8e9e4e2f5a47b5838"
+metafile = true
+
+[[files]]
+file = "mods/no-fade.toml"
+hash = "a40d9644e1ae0e994374d1dcfa2ed19cddd244cff4f2d372e3ab63690bd5b831"
 metafile = true
 
 [[files]]
@@ -416,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/slight-gui-modifications.toml"
 hash = "5b33de3c55d5c60d41ac57d72b7697b6e6ad8795de481895b3f0d11e2e0d974a"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.toml"
+hash = "3905aad8e323feb13c417c6fd81da68e94c8d434117fea4bb5de7b7c89e87509"
 metafile = true
 
 [[files]]
