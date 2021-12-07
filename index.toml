@@ -284,11 +284,6 @@ hash = "5a609203ae9f32d5ff7998edd49c50b2ca8d7fe28233664b5621befe87176ee2"
 metafile = true
 
 [[files]]
-file = "mods/dont-clear-chat-history.toml"
-hash = "2a1799426d31ac5da9f01cbbd1b611df5b74499ae46d7d1a5e2e4f805db1570c"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds-fabric.toml"
 hash = "646236f574163a14e46fde5221820b920ae4ccea2497624dfe53c723fa39f0bd"
 metafile = true
