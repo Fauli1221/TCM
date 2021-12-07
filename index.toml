@@ -229,8 +229,8 @@ hash = "22ffac5e9696e4d6f77a0d4cd8d9389b9b0496989fd3c3028f2d83dfcd616bae"
 metafile = true
 
 [[files]]
-file = "mods/bigpony.toml"
-hash = "78bcea4e2a9d9696c976067d25d792d48c560aa844900d8253655b02984bdec7"
+file = "mods/big-pony.toml"
+hash = "179eaf83c048df8c19b12eb25e6ad49ec2973a50244bcb924adeedd95b62c28b"
 metafile = true
 
 [[files]]
@@ -319,8 +319,8 @@ hash = "7c5232431f0ecb22111a697d8bf0f27810db1837f484f19d7f38858b5250844d"
 metafile = true
 
 [[files]]
-file = "mods/hdskins.toml"
-hash = "989758f83c31cc9ffeb1b4b72b0398a5e12478fe8d116e85ab85474dc46c8a8e"
+file = "mods/hd-skins.toml"
+hash = "4af6d4a5e75e8ddb1efc855fc13b38958e8cb024d776a97dc8203c331cc3ea06"
 metafile = true
 
 [[files]]
@@ -379,8 +379,8 @@ hash = "1ca0251bfb7b7571ee13a76ec9193476e9bca76b00f885ba910d506750fd9f0a"
 metafile = true
 
 [[files]]
-file = "mods/minelittlepony.toml"
-hash = "0fa284605095244558aeab1f5fffca075700fd2addd3e2f50f0369fd3bbb1081"
+file = "mods/mine-little-pony.toml"
+hash = "2501c7ddf67ebac92cb1f31821860d348ab7ef4446d4a6038d188d4557a6bf9d"
 metafile = true
 
 [[files]]

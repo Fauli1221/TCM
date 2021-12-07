@@ -1,11 +1,16 @@
-name = "HDSkins"
+name = "HD Skins"
 filename = "hdskins-6.5.0.jar"
 side = "client"
 
 [download]
-url = "https://github.com/MineLittlePony/HDSkins/releases/download/6.5.0/hdskins-6.5.0.jar"
+url = "https://cdn.modrinth.com/data/FzE9gshV/versions/6.5.0/hdskins-6.5.0.jar"
 hash-format = "sha512"
 hash = "88ddc1997e76ff349036fcd8fd2750211f701e7513ff2e54d1702653b99a8dbba4a71fad4d992b77b43769f520eaff354a8c3a757e9f1f748310398f23770f6b"
+
+[update]
+[update.modrinth]
+mod-id = "FzE9gshV"
+version = "4T1MnMZW"
 
 [option]
 default = true

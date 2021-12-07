@@ -1,14 +1,18 @@
-name = "MineLittlePony"
+name = "Mine Little Pony"
 filename = "minelittlepony-4.4.0.jar"
 side = "client"
 
 [download]
-url = "https://github.com/MineLittlePony/MineLittlePony/releases/download/4.4.0/minelittlepony-4.4.0.jar"
+url = "https://cdn.modrinth.com/data/JBjInUXM/versions/4.4.0/minelittlepony-4.4.0.jar"
 hash-format = "sha512"
 hash = "36ff5772f15c82ad2b099bf2e5aad6e68df20f16b1bfa918a2ac884b632c38a666497d9abc0992bf8acf155a9031b75d57367d72073c3ea8c91f11c5417c10c5"
+
+[update]
+[update.modrinth]
+mod-id = "JBjInUXM"
+version = "moGuOGoA"
 
 [option]
 default = true
 description = "Adds Pony's to the game"
 optional = true
-

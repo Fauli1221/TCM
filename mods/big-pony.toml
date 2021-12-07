@@ -1,15 +1,18 @@
-name = "BigPony"
+name = "Big Pony"
 filename = "bigpony-1.6.0.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://github.com/MineLittlePony/BigPony/releases/download/1.6.0/bigpony-1.6.0.jar"
+url = "https://cdn.modrinth.com/data/h9pJxJR9/versions/1.6.0/bigpony-1.6.0.jar"
 hash-format = "sha512"
 hash = "1c442aec793410d46f349876e6248c6d63e9896f0c80dde40c23e350e83cb2f35280270238328e33aa1238669c2c5d0b275cd5b95f50396028da5919f437dd00"
+
+[update]
+[update.modrinth]
+mod-id = "h9pJxJR9"
+version = "ClYighnI"
 
 [option]
 default = false
 description = "Adds hitbox Scaling for MineLittlePony (DO NOT ENABLE UNLESS I TELL YOU TO)"
 optional = true
-
-
