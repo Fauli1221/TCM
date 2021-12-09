@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "c1ac0ea5003f230698651f3ea3a3a1d53e87de3add18c41409bf29d7f1d53f3a"
+hash = "94aebd7f75aaae18f72f3633dfec40f3e7f1857b75240e5640b06821cb787c92"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "dc02fc9546da6c49e2d0991e7bec98a465cd88e17a5ec9e2efc806f8f1d37003"
+hash = "f0f72beabaa852954b913300be8c732918e39298ec00976c5138b4612477ec82"
 metafile = true
 
 [[files]]
@@ -261,12 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "cd6b4dcf40fd4f48f42fd9eeb4bc2d9a1c52b90a74383907e02331b38c2fa8c0"
+hash = "645ac8b3157f706f1fabbd8c2ef8934736758f39dd5a43f07493d8afdd7ac10b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-disable-custom-worlds-advice.toml"
-hash = "2626c44c701d6f3fc1d604c0da3959b2659e61883ea3746493a525353d2fe2c9"
+hash = "92038645c4ed39e5c009c53985260e594479872d6cbd8639fa8f275a925fdd3a"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "8708a028d3d004202c849d7080a5a6e6688f1f31acae80dc4a9aab8975601d75"
+hash = "af0a05eb1baf2ed1b89e64c52ca06c357c6ed305b25ef9ce789c6a0cbf9e633a"
 metafile = true
 
 [[files]]
