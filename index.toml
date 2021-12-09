@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "c1ac0ea5003f230698651f3ea3a3a1d53e87de3add18c41409bf29d7f1d53f3a"
+hash = "94aebd7f75aaae18f72f3633dfec40f3e7f1857b75240e5640b06821cb787c92"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "20a7328c0b66f7195a71d467de0fddc5dc6d0126018e0d44dd4f8f92bfbcefa1"
+hash = "af0a05eb1baf2ed1b89e64c52ca06c357c6ed305b25ef9ce789c6a0cbf9e633a"
 metafile = true
 
 [[files]]
