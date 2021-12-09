@@ -220,12 +220,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "85fcebe729646abf8af1451dfe7feab6b062860cf9dc2e82f6f4536dea4487f6"
+hash = "588462201d75ce217b2d73c08932fc2b04d31632399f49d31a9b46a1a7e53b71"
 metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.toml"
-hash = "22ffac5e9696e4d6f77a0d4cd8d9389b9b0496989fd3c3028f2d83dfcd616bae"
+hash = "2b4360e14dc5f3137c481ddc682a3c6d0d5d3162222c5f306ee915e25ca5eae5"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.toml"
-hash = "126711d50f796ccc8292cb1bfe3b3b9d7ede964fafdd73194e8a6239e4ee0e5e"
+hash = "ee0e74082d6efae74eb702da33b2b798557ee91014f2c08b68afc6552d64820b"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.toml"
-hash = "9a9a2bf7d5d5e0f4d339f92aad68dbc76a58bd0013e5fb9453b2f4253636636f"
+hash = "3a18ecc8905cf205575723fb6a6ff7c52cf19ccf020d84d814251e6d82a3e55a"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/wi-zoom.toml"
-hash = "8177307d9151796fd0dc5e3aa41087a0b1f410d5c38bb287a5d8ce88cb47d6b0"
+hash = "33a05810333026170ecad2cdca5bddf841e4d8186aa61d176bea5c0265f4165d"
 metafile = true
 
 [[files]]

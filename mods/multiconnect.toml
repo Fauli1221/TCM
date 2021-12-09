@@ -1,13 +1,13 @@
 name = "multiconnect"
-filename = "multiconnect-1.5.2.jar"
+filename = "multiconnect-1.5.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sfEDKnlo/versions/1.5.2/multiconnect-1.5.2.jar"
+url = "https://cdn.modrinth.com/data/sfEDKnlo/versions/1.5.3/multiconnect-1.5.3.jar"
 hash-format = "sha512"
-hash = "88b574a2e7c6a1d77fea472052c4abdb62ec7ccfd18f34dfc2808f019a1e3a83c8d34abe9e68746e2ea74de164b82725278ec871686168e972ee1c3b1852a02b"
+hash = "5a633e45220686c5b1897fdc832faef0ec6305bff6ad22354b5f4cdd98e80ff68d05272e6553e8af79c894c3236d5fe70241ddebb8a70532efc52780a19e9638"
 
 [update]
 [update.modrinth]
 mod-id = "sfEDKnlo"
-version = "B14fqsqF"
+version = "IT2rAWiJ"
