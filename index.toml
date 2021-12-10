@@ -389,11 +389,6 @@ hash = "4b0cc350b8ec7ebcb66c722b972d9f6ce30c66bd199e7fd7c7e20a03d8b7cdcd"
 metafile = true
 
 [[files]]
-file = "mods/lithium.toml"
-hash = "511fe49c8aa17b69c981e1cc3f14d16bab0e7aa9248dcc1dc8cee01c9939d7ab"
-metafile = true
-
-[[files]]
 file = "mods/mine-little-pony.toml"
 hash = "2501c7ddf67ebac92cb1f31821860d348ab7ef4446d4a6038d188d4557a6bf9d"
 metafile = true
