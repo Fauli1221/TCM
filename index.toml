@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "94aebd7f75aaae18f72f3633dfec40f3e7f1857b75240e5640b06821cb787c92"
+hash = "0480225321c7edbf269f22d9ed563d2df606f3cfdb79ce39918716b907f0e47c"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "1bbb7759542ccebcf1d5157dd889050c371277b8d26f7c1b9b18f0968ad7c33d"
+hash = "383fb3de64f3f7f7f37cebcdbe6ab5a8f2a9a66126e3ab3d482991c355524969"
 metafile = true
 
 [[files]]
