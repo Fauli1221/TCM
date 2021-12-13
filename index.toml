@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "588462201d75ce217b2d73c08932fc2b04d31632399f49d31a9b46a1a7e53b71"
+hash = "6acb793cd97dff83925decbfab9c9e418563c1fe2c84f1972047e7110a39f16f"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-pony.toml"
-hash = "179eaf83c048df8c19b12eb25e6ad49ec2973a50244bcb924adeedd95b62c28b"
+hash = "35b09fc798c6d79c1855b4316e2336cd8d832404ce5d5db8a8d9f95c9bf854d3"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "3673dd85d0ebecbef0501f2506206279fedc113070ee32a98fbe0690ba4e2aab"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
-hash = "5a609203ae9f32d5ff7998edd49c50b2ca8d7fe28233664b5621befe87176ee2"
+hash = "d7b04dc33616ec7168a1b4c1c4a7617cb2526c830dc4457ee7972f5145419b0a"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/hd-skins.toml"
-hash = "4af6d4a5e75e8ddb1efc855fc13b38958e8cb024d776a97dc8203c331cc3ea06"
+hash = "d01198d0531b519a58c06dd38df88eacd76ca65747203bc35c6f7a4fe058b977"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine-little-pony.toml"
-hash = "2501c7ddf67ebac92cb1f31821860d348ab7ef4446d4a6038d188d4557a6bf9d"
+hash = "81fe690385f9d09f20fff0f67e749f6458a02eb23becfc30c6fb17e684e8a94a"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.toml"
-hash = "3a18ecc8905cf205575723fb6a6ff7c52cf19ccf020d84d814251e6d82a3e55a"
+hash = "763dd9845277fb88566a1d300e5099e55c1d9770711a4c2f5a520592e461a496"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/wi-zoom.toml"
-hash = "33a05810333026170ecad2cdca5bddf841e4d8186aa61d176bea5c0265f4165d"
+hash = "55b4c6860ba2e8cb475ab48582ef10766bd86c3ab7dc1842ae182548159ee227"
 metafile = true
 
 [[files]]
