@@ -344,11 +344,6 @@ hash = "7a1356bb0f12904f6df580a07c97f52e82870e6665c5df1e8011ace9faa930e3"
 metafile = true
 
 [[files]]
-file = "mods/iris.toml"
-hash = "c73d64e109a49f53e37e011cde16347e6cc88837ef267e21a6b5629e9465e0a8"
-metafile = true
-
-[[files]]
 file = "mods/item-model-fix.toml"
 hash = "8cb021b388cdac45c85fd6559ebe7f98f8db1ee93fcd5641816414808107296e"
 metafile = true
@@ -359,8 +354,18 @@ hash = "4ad083e59a3afc403f0cbb29715aec65d5d7556f157419127ee17913b817192f"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
+metafile = true
+
+[[files]]
 file = "mods/lambdacontrols.toml"
 hash = "f06ebf9bb364a810cd7c7ac49b59b89b023bf0db97a2e115ec68462a87af89d8"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
 metafile = true
 
 [[files]]
