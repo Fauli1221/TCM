@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "0a1ac7a552d3ba8a318ab6186f17836901542b3c0e239a122a86378186dd85d7"
+hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "c24ce407d9d8feb56390562acad56efbfb04aae5d84808a7a37e2add9838ff55"
+hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
 metafile = true
 
 [[files]]
@@ -386,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/light-overlay.toml"
 hash = "4b0cc350b8ec7ebcb66c722b972d9f6ce30c66bd199e7fd7c7e20a03d8b7cdcd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "465afb925dc6ee39704b7456750b7ada5d1000b951faadfab590efb4c5342049"
 metafile = true
 
 [[files]]

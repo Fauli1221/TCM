@@ -11,8 +11,3 @@ hash = "343cc1d595e25e1d40209bb429a29151031e784fd81b1ea594d236bd829d9078d3765af4
 [update.modrinth]
 mod-id = "yBW8D80W"
 version = "zhBXhMhZ"
-
-[option]
-default = true
-description = "Adds dynamic Lights"
-optional = true

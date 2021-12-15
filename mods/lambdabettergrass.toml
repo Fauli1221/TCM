@@ -11,8 +11,3 @@ hash = "798c753adac190d945cc9838c12ee3af9812ccb8b0ba28da5e77949279906182174e51c5
 [update.modrinth]
 mod-id = "2Uev7LdA"
 version = "6KQ1zcVH"
-
-[option]
-default = true
-description = "Adds a mutch mor beutifull Grass"
-optional = true
