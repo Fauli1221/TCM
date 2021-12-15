@@ -359,18 +359,8 @@ hash = "4ad083e59a3afc403f0cbb29715aec65d5d7556f157419127ee17913b817192f"
 metafile = true
 
 [[files]]
-file = "mods/lambdabettergrass.toml"
-hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
-metafile = true
-
-[[files]]
 file = "mods/lambdacontrols.toml"
 hash = "f06ebf9bb364a810cd7c7ac49b59b89b023bf0db97a2e115ec68462a87af89d8"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.toml"
-hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
 metafile = true
 
 [[files]]
