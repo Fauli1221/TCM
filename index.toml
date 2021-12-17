@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "6acb793cd97dff83925decbfab9c9e418563c1fe2c84f1972047e7110a39f16f"
+hash = "1cd5f30cd826c92a345487d6c8111beed7d7dc6d87959676def4b244d5de6572"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-pony.toml"
-hash = "35b09fc798c6d79c1855b4316e2336cd8d832404ce5d5db8a8d9f95c9bf854d3"
+hash = "7d43ca9ffa3e07088b93acbdfae9af2b3bdf91b2bac1c9e04fcb3abffd6089e2"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.toml"
-hash = "d50e6bc2730ac32f93afd1b0bb01edb5d1c407203733fd3bf4eeae708bad86e6"
+hash = "78aadfae6568d528db5c8fd4e77cdb5c708e37c6303bb70cd50b1013fe99a185"
 metafile = true
 
 [[files]]
@@ -341,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.toml"
 hash = "7a1356bb0f12904f6df580a07c97f52e82870e6665c5df1e8011ace9faa930e3"
+metafile = true
+
+[[files]]
+file = "mods/iris.toml"
+hash = "51459057d731fd7508b48ab92ced48499346ec712b9c8d4f6eebe20c9dc2651c"
 metafile = true
 
 [[files]]

@@ -1,16 +1,16 @@
 name = "Big Pony"
-filename = "bigpony-1.6.1.jar"
+filename = "bigpony-1.6.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/h9pJxJR9/versions/1.6.1/bigpony-1.6.1.jar"
+url = "https://cdn.modrinth.com/data/h9pJxJR9/versions/1.6.2/bigpony-1.6.2.jar"
 hash-format = "sha512"
-hash = "e9c06d3b4b6a94f85e0fdb06e4adfdf5c4f3dede1976fe6eff61b4567c2a9f338061f436039451762362c9d4cc6440eab9d8ac170725c334d748b14a30a2a9ec"
+hash = "0d70d76bd39f36e7cc304d8caa1e136fe23c93cef5eaebaca8df437faab412ca30d9b098df63dc38f1fd5a9f9c86083caa7cdf596468f19cb5991285cef3811c"
 
 [update]
 [update.modrinth]
 mod-id = "h9pJxJR9"
-version = "HcOEBEkx"
+version = "8AB8Nfx1"
 
 [option]
 optional = true
