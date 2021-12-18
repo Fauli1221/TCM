@@ -279,11 +279,6 @@ hash = "d7b04dc33616ec7168a1b4c1c4a7617cb2526c830dc4457ee7972f5145419b0a"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.toml"
-hash = "3c2a5355d761d6377834dfcf40336bd18d19efbe504142586b796dc904cead64"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds-fabric.toml"
 hash = "646236f574163a14e46fde5221820b920ae4ccea2497624dfe53c723fa39f0bd"
 metafile = true
