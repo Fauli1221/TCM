@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "edec518dc2fc70ad96726ab4c53debbefead8626c6aec416bc628ed06cae7bcc"
+hash = "2350cbc54a1becb05b8f196679d6cfbd80c364e2d7a379beb75ba8d0be3d69a2"
 metafile = true
 
 [[files]]
