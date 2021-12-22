@@ -309,6 +309,11 @@ hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes.toml"
+hash = "fda9faaeaaf2f4cf9941c4df0d87c26353f800ef1418372d2d1cf7efc9dbb643"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.toml"
 hash = "0c3af8d62cacd0560cfb3102986b9f058bd07d0cc7cb7ea16b8dd9a10cc93f93"
 metafile = true
