@@ -399,6 +399,11 @@ hash = "81fe690385f9d09f20fff0f67e749f6458a02eb23becfc30c6fb17e684e8a94a"
 metafile = true
 
 [[files]]
+file = "mods/moderate-loading-screen.toml"
+hash = "882613c88ab9ae2c267df35265b1587a3a48bde15c7ea7a4a13cc7dbb1f23691"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
 metafile = true
