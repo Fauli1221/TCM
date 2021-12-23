@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2350cbc54a1becb05b8f196679d6cfbd80c364e2d7a379beb75ba8d0be3d69a2"
+hash = "45d453e750f9f45732afbb74d41c7f142baae528733d820de8610d4cbb3a8101"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/kappa.toml"
-hash = "4ad083e59a3afc403f0cbb29715aec65d5d7556f157419127ee17913b817192f"
+hash = "6363596c5cb5959ee0905e42c305b27934f169e634eaffc6ca268623c2410915"
 metafile = true
 
 [[files]]
