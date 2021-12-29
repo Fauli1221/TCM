@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "45d453e750f9f45732afbb74d41c7f142baae528733d820de8610d4cbb3a8101"
+hash = "dc5608b76a7cde5e7d13841995b191678bcbe8158648108a8f7878b22920ccbc"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "7a1356bb0f12904f6df580a07c97f52e82870e6665c5df1e8011ace9faa930e3"
+hash = "d155a4eea9fda97fcf1f803ac96e328c8ae4d32cceae6ff21ed12a98e8857442"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
+hash = "667191c6c61deaf4a200518f2fb14dc90923ae64faadc1365ff432b0a36764d9"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderate-loading-screen.toml"
-hash = "882613c88ab9ae2c267df35265b1587a3a48bde15c7ea7a4a13cc7dbb1f23691"
+hash = "facf68dd96d2d236f6d997d7a783e51fa76c9c322e275ab5dbec4cecf5830aec"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "507fb6185c31ff0a3adf2669369ca32a832fd336fcf8019020d144ef064e855f"
+hash = "02834111fcc87805b3a2e5b03697635b0cbee7d8732a521d4d5595137c42ea80"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "d4581cbd048ec6d30f4ac9349abe3eb36e7f3a400cf8282779a1177c0a0292b9"
+hash = "a3b39e94523b4e4b0bf40b5bd6d900342d153bec98910f9c174c1cd2e436dd69"
 metafile = true
 
 [[files]]
