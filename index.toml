@@ -65,10 +65,6 @@ file = "config/indium-renderer.properties"
 hash = "4ce3cbff512c1cbd20a19d589f52214948329d36362585cce9e0e2b4e4f7b136"
 
 [[files]]
-file = "config/iris.properties"
-hash = "3c2ed977f6b832952a900c257517e84d5cd907894a976dbeb0bd13d014df9504"
-
-[[files]]
 file = "config/itemmodelfix.json"
 hash = "f67460631e5dd59fd646347174cfe7b8de38be6556bb928bea4619cbd6f32616"
 
@@ -365,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "667191c6c61deaf4a200518f2fb14dc90923ae64faadc1365ff432b0a36764d9"
+hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
 metafile = true
 
 [[files]]
@@ -446,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "a3b39e94523b4e4b0bf40b5bd6d900342d153bec98910f9c174c1cd2e436dd69"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.toml"
+hash = "23a678d8147d50d93e327bc60f0bbe378f5883a9b37f4c138d48131325321697"
 metafile = true
 
 [[files]]
