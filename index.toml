@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "dc5608b76a7cde5e7d13841995b191678bcbe8158648108a8f7878b22920ccbc"
+hash = "ab7dc9a0daeae0abe6ed06d7a52e66913d1dc5babbafc622504f9641e9dfd765"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "528609fda26cd9ab08ae12e361beebf65ce6a3ab771b7e263b3b2d7a01332f83"
+hash = "0267ed3b0f26a6a3b4cb59756beba5b93b6ba85ff356da35aff3e4bb73c9f06f"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "a7cd730b256f590cad6e32b7fa6c2d52dd632c58fd87a7b4fe4d21f4377f10d8"
+hash = "fd1409e7804d658a0144b903be9db3304e7766c0d2f784d3222c211f53c58487"
 metafile = true
 
 [[files]]
