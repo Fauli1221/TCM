@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "0480225321c7edbf269f22d9ed563d2df606f3cfdb79ce39918716b907f0e47c"
+hash = "fffe655527c230059757d5b5bfd5f5f03dadd6b4ab7de223238052d80977fe3a"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "645ac8b3157f706f1fabbd8c2ef8934736758f39dd5a43f07493d8afdd7ac10b"
+hash = "d2768d89a387bbac316d6e08cb386b6ffd765bcc9d714a86ec085b3469bf9714"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "2b634fc55b8dbb2dd91049f60073cd2fc90ae7d26287ff34c4973fd66fb259d6"
+hash = "49a1f4529ad086b4b631d130914baf4a9a87c1fde55ceb041fcd0046b2a5edd7"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "c80b383c0bd5718aed02059fbb5944a20339841c72abd140a1bbc36423e55e8c"
+hash = "f1a67d58d1e78452c8cc9875f5715ed24159754c0b16ae2a58283558d3503da7"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-model-fix.toml"
-hash = "1fc81c2fb496ad395c8d81c55b292f2131548d6654fc1201f79d61e1564052cd"
+hash = "27318085c84d3acf07d75c333ef2c3babc732d22c94d387e9486c9c1819f9437"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
+hash = "667191c6c61deaf4a200518f2fb14dc90923ae64faadc1365ff432b0a36764d9"
 metafile = true
 
 [[files]]
