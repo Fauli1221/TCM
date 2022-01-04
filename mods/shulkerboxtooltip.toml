@@ -11,3 +11,8 @@ hash = "1623454479"
 [update.curseforge]
 file-id = 3549367
 project-id = 315811
+
+[option]
+optional = true
+description = "adds an overlay to see into shulkerboxes"
+default = true
