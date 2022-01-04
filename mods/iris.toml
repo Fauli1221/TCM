@@ -11,3 +11,8 @@ hash = "468db9848dae624a63b8a5009a7f704a738a342b00b3a93d2fbf624c601da74b44625df9
 [update.modrinth]
 mod-id = "YL57xq9U"
 version = "Hw3w5BnI"
+
+[option]
+optional = true
+description = "adds optifine shader support"
+default = true

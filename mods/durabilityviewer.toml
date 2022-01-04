@@ -11,3 +11,8 @@ hash = "23788c166753ce2d1b7ba00e39f1a22333028f067131729521e46fe2fd8735b5563f0d48
 [update.modrinth]
 mod-id = "LTM1f0yY"
 version = "nkO8Xvqi"
+
+[option]
+optional = true
+description = "adds an overlay to display your Durability"
+default = false

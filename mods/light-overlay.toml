@@ -11,3 +11,8 @@ hash = "3043555689"
 [update.curseforge]
 file-id = 3552777
 project-id = 325492
+
+[option]
+optional = true
+description = "Adds a overlay over blocks mobs can spawn"
+default = false

@@ -230,6 +230,11 @@ hash = "2b4360e14dc5f3137c481ddc682a3c6d0d5d3162222c5f306ee915e25ca5eae5"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.toml"
+hash = "7002cac81cea34a25344d4022b412a5e8b2be10e183f17d9390b2341dec5105b"
+metafile = true
+
+[[files]]
 file = "mods/builtin-servers.toml"
 hash = "af12d911a5b17660e97a84eb0a097712a4c933929467ab631da797e1b76fdfec"
 metafile = true
@@ -281,12 +286,12 @@ metafile = true
 
 [[files]]
 file = "mods/dripsounds-fabric.toml"
-hash = "646236f574163a14e46fde5221820b920ae4ccea2497624dfe53c723fa39f0bd"
+hash = "b164d5e681e9b035b34ec72590f35f35e092dcd5255eaee22fb40609e5395a0c"
 metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.toml"
-hash = "fe22a9addd92905dd341436d3319f7b803c64c209787a341da839b501f8848ee"
+hash = "8c000e075dd9149a348c7ce19d369bbd05c798f49e00ae3bfda21c961c0389c8"
 metafile = true
 
 [[files]]
@@ -326,12 +331,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.toml"
-hash = "0c3af8d62cacd0560cfb3102986b9f058bd07d0cc7cb7ea16b8dd9a10cc93f93"
+hash = "bd07e1ae9c7b518c6aa1bcbd47609ac6ee398bf94cfe2dfc4f96bdb8a3536e95"
 metafile = true
 
 [[files]]
 file = "mods/fallingleaves.toml"
-hash = "78aadfae6568d528db5c8fd4e77cdb5c708e37c6303bb70cd50b1013fe99a185"
+hash = "d451a98db975e57601773c36027b28cf43457728f1d616d28aebcb9db5eff6d7"
 metafile = true
 
 [[files]]
@@ -361,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "51459057d731fd7508b48ab92ced48499346ec712b9c8d4f6eebe20c9dc2651c"
+hash = "560b691e9ee156dced80cd73ef787ec5819c7d5525e680016493a85ee104fc9e"
 metafile = true
 
 [[files]]
@@ -406,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.toml"
-hash = "4b0cc350b8ec7ebcb66c722b972d9f6ce30c66bd199e7fd7c7e20a03d8b7cdcd"
+hash = "7e2a5821351fa96e6163595a685606447d83347c3aca6e2f339bee005d1bfbf5"
 metafile = true
 
 [[files]]

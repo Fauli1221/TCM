@@ -11,3 +11,8 @@ hash = "a7c8f73e599223348cd94070c9bdf79cf55ead3978a5697cc85990c1b51a7150091adccc
 [update.modrinth]
 mod-id = "3qsfQtE9"
 version = "wgN02P41"
+
+[option]
+optional = true
+description = "makes your screenshots 4k"
+default = true

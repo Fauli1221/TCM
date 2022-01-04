@@ -11,3 +11,8 @@ hash = "de3f04c57720b07079a70186c6290f627fefc0d828524f86b7b4a2160d76831c0df993c7
 [update.modrinth]
 mod-id = "WhbRG4iK"
 version = "oHAko2xm"
+
+[option]
+optional = true
+description = "adds visual leves that fall from tree's"
+default = false

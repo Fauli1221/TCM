@@ -11,3 +11,8 @@ hash = "b5bf3b2fbd38ea204968be7a499c1ba7dafc2ed1ce62c9fe1f832f8ef347f1fbabc1da6c
 [update.modrinth]
 mod-id = "T8MMXTpr"
 version = "X1y31oBo"
+
+[option]
+optional = true
+description = "adds some nice Sounds dor Dripstone"
+default = true
