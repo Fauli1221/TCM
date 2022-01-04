@@ -600,6 +600,11 @@ hash = "e1d8ca23cda8a8e4efb3027916a7574d55adb3d62a01b5a8e9e4e2f5a47b5838"
 metafile = true
 
 [[files]]
+file = "mods/multiconnect.toml"
+hash = "dfaf40475441779645208d2e953fec6e7cee779a15e14892230f84b48f4a087f"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.toml"
 hash = "e8814a83e235e82705f7fbccc5f91c8b1a0b679af439e38ab48f0ddafa623db7"
 metafile = true
