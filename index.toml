@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "ab7dc9a0daeae0abe6ed06d7a52e66913d1dc5babbafc622504f9641e9dfd765"
+hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "c1c4f73e371a2682b1609322a3ba1af39fe8ca7d60e2366f3c07b045cbb1d7ac"
+hash = "2c4245d20eeb865f12b185a5f0b165d97d10e5f087192488e4e4a8329b4039f9"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "1cba7ffaf01ed4ca7f2cb06133963ed3d574376d4f03012dfa1c584539d5603d"
+hash = "7440c32952d475bef0bf434b9491c3679c78df56781d083d08ec26bb354b8901"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "d155a4eea9fda97fcf1f803ac96e328c8ae4d32cceae6ff21ed12a98e8857442"
+hash = "23c3cf6a3287d510c0b735ac17e17c1b7712b74423c83f9f5680e4216d990886"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "465afb925dc6ee39704b7456750b7ada5d1000b951faadfab590efb4c5342049"
+hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.toml"
-hash = "934efed75bbf6a7992d5718f145707ae83c2b27cb8fe8d9b03ffabb3e64b97bb"
+hash = "dfaf40475441779645208d2e953fec6e7cee779a15e14892230f84b48f4a087f"
 metafile = true
 
 [[files]]
