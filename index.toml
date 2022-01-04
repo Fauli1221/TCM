@@ -480,11 +480,6 @@ hash = "d451a98db975e57601773c36027b28cf43457728f1d616d28aebcb9db5eff6d7"
 metafile = true
 
 [[files]]
-file = "mods/fastchest.toml"
-hash = "7c5232431f0ecb22111a697d8bf0f27810db1837f484f19d7f38858b5250844d"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "856759b47ba14018cff8917f8d1785df84d2acf2730b8409bc1dd4dfb578748a"
 metafile = true
