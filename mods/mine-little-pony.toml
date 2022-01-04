@@ -1,0 +1,18 @@
+name = "Mine Little Pony"
+filename = "minelittlepony-4.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JBjInUXM/versions/4.4.1/minelittlepony-4.4.1.jar"
+hash-format = "sha512"
+hash = "290c3d5f925fb0326e6a0f4950cf4ccb8026444db8fbe202d832af251b60763f18bb0beed5e8d426fcf3a565ee8d71068f44726ada00fd6cef69bf4964eb07a9"
+
+[update]
+[update.modrinth]
+mod-id = "JBjInUXM"
+version = "uO1VLMIl"
+
+[option]
+optional = true
+description = "Adds Pony's to the game"
+default = true

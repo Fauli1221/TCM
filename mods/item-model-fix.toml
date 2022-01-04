@@ -1,14 +1,13 @@
 name = "Item Model Fix (Fabric)"
-filename = "item-model-fix-1.0.3+1.17.jar"
+filename = "item-model-fix-1.0.3+1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3573/934/item-model-fix-1.0.3+1.17.jar"
+url = "https://edge.forgecdn.net/files/3573/935/item-model-fix-1.0.3+1.18.jar"
 hash-format = "murmur2"
-hash = "1552145467"
+hash = "1104738622"
 
 [update]
 [update.curseforge]
-file-id = 3573934
+file-id = 3573935
 project-id = 399798
-release-channel = "beta"
