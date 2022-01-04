@@ -1,0 +1,13 @@
+name = "JMX"
+filename = "jmx-fabric-mc118-1.22.243.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3579/282/jmx-fabric-mc118-1.22.243.jar"
+hash-format = "murmur2"
+hash = "2775220751"
+
+[update]
+[update.curseforge]
+file-id = 3579282
+project-id = 324066

@@ -210,6 +210,11 @@ hash = "675d82969da304f069ee676cbf3b1872f70ffae3a27ad613ff91ddf02d8ae8ac"
 metafile = true
 
 [[files]]
+file = "mods/animatica.toml"
+hash = "509a6b36ee65f458986dd19eb09b4c5f5feda7a976937a3cb6dfe4fee095797c"
+metafile = true
+
+[[files]]
 file = "mods/antighost.toml"
 hash = "99d0687e8d1da22de0944a12724b8407000307b1c73c54f531f5298cfa38821c"
 metafile = true
@@ -222,11 +227,6 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.toml"
 hash = "2b4360e14dc5f3137c481ddc682a3c6d0d5d3162222c5f306ee915e25ca5eae5"
-metafile = true
-
-[[files]]
-file = "mods/big-pony.toml"
-hash = "7d43ca9ffa3e07088b93acbdfae9af2b3bdf91b2bac1c9e04fcb3abffd6089e2"
 metafile = true
 
 [[files]]
@@ -270,6 +270,11 @@ hash = "4d3086d640c86bf3625ce9067d02d9ed586d23ff6bd3398655fd2fbfdce83de6"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.toml"
+hash = "5042a5c75a0e7965504e3c8519bfd932eec8f7f594497d31f5af3eb89ffa4ab1"
+metafile = true
+
+[[files]]
 file = "mods/custom-entity-models-cem.toml"
 hash = "d7b04dc33616ec7168a1b4c1c4a7617cb2526c830dc4457ee7972f5145419b0a"
 metafile = true
@@ -287,6 +292,16 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
+metafile = true
+
+[[files]]
+file = "mods/ears.toml"
+hash = "5271b88d8a021108566778ffcf47f4db6aa69c96ff714704697537be0eee5fbe"
+metafile = true
+
+[[files]]
+file = "mods/ebe.toml"
+hash = "c58834af10ab46edeb4946b55f4d71cf9bced4d37aef0ee122a5a7e4e9e17153"
 metafile = true
 
 [[files]]
@@ -355,8 +370,18 @@ hash = "5841e176057ffa9f0716ec213a32d1dd77422ec32c1fc8b19adf6673c8735d69"
 metafile = true
 
 [[files]]
+file = "mods/jmx.toml"
+hash = "2e50123fe2c9abab014b70cf76a12a1f6c3f2d348a970f145e98d62799e152a7"
+metafile = true
+
+[[files]]
 file = "mods/kappa.toml"
 hash = "6363596c5cb5959ee0905e42c305b27934f169e634eaffc6ca268623c2410915"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
 metafile = true
 
 [[files]]
@@ -392,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.toml"
+hash = "647614cd2a70f5f56e5a67da2c3eef5bdb37c9ca2669fdb8fc04a722ade257a9"
 metafile = true
 
 [[files]]
@@ -470,13 +500,13 @@ hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
 metafile = true
 
 [[files]]
-file = "mods/tooltipfix.toml"
-hash = "28b48053e5e932741e9a321e2f62d8595fe52e6c1ced9fbda3e0ab80b43030ee"
+file = "mods/starlight.toml"
+hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
 metafile = true
 
 [[files]]
-file = "mods/wi-zoom.toml"
-hash = "55b4c6860ba2e8cb475ab48582ef10766bd86c3ab7dc1842ae182548159ee227"
+file = "mods/tooltipfix.toml"
+hash = "28b48053e5e932741e9a321e2f62d8595fe52e6c1ced9fbda3e0ab80b43030ee"
 metafile = true
 
 [[files]]
