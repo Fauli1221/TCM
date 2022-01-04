@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.toml"
-hash = "660d891c46d577d5c9b5e1c923715de0dc92ec533eca862a29d5d4d608f6d4d4"
+hash = "1c65c607e5e4c32bb35b4cedc97de1268a7008ae5696fb427a7e3e29280e06f4"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "d4beda34ea4d7c3544510d2615f28f193bdcc2c25253406dce157155971a4582"
+hash = "71df632403df1a9c6ab42c6866fa4ca0e4e1bc03158f26cc9d4f4b44433558af"
 metafile = true
 
 [[files]]
@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "ec41d76d3896d0a7d5cf1edf1668a1270a740336c7c96e4574defbd72cbbd205"
+hash = "22609ad51f476a0455b1a228fcf76b3ff898722e510e10a2868262d42093875a"
 metafile = true
 
 [[files]]
