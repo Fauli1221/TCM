@@ -118,7 +118,7 @@ hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
 
 [[files]]
 file = "config/iris.properties"
-hash = "7c9e8c13a898c9c34d50c632f3d83aa67ba79f8554c2a00a7cd0d17b0f2aa071"
+hash = "5415d56e9e6535abfebba018a7c047c311a73110445f3e62ca9bbd7a5be75a67"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -692,21 +692,21 @@ file = "shaderpacks/ComplementaryShaders_v4.2.2.zip"
 hash = "8b1a312efbc75b05ba17fabc02b158ca3b59d84dc98220af1b3e141d7ae79dbd"
 
 [[files]]
-file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.30+Extreme-Volumetric-Lighting.zip"
-hash = "331e7071fe68b49ada8dcb52058cfac190fbfae53013f777717f3fc61c47d795"
+file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.32+Extreme-VL.zip"
+hash = "6f52885bfa852492942daf37235ce9a54536bbae06279fd60353af735c17e523"
 
 [[files]]
-file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.30+Extreme.zip"
-hash = "61b34f114d1988d53f92d394b4a4fdf8ecede8880b983cf309c853ad4c5ca421"
+file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.32+Extreme.zip"
+hash = "f584d0d4dadc2129892021a230b0afe110d6af900ebd8a32d8e19246292ea12f"
 
 [[files]]
-file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.30+High.zip"
-hash = "70b2ed009950c1c141080d874d694652efe0d7b4a00c2290ab8762951f377f43"
+file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.32+High.zip"
+hash = "4f2b6daff193bbe0ead29333146dff63465c44253fceb07a9015f7bccd217ff0"
 
 [[files]]
-file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.30+Lite.zip"
-hash = "6fe15d248e5ed52030e928c959f686408d51b8233699997517f5051dceda7448"
+file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.32+Lite.zip"
+hash = "c4f18cbb248d3b792fc902c21495a420b20f24a221bce44d98d49fdcabad387c"
 
 [[files]]
-file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.30+Medium.zip"
-hash = "0113a8f420ad05cadf51ca60543d1a9c854a5bf241ef7ceb73d5c6fda2fc63d1"
+file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.32+Medium.zip"
+hash = "8207abc2fa6d22945b848a09a6d5c182c32374349fe5c113fe6937935724b308"
