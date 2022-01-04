@@ -505,6 +505,11 @@ hash = "28b48053e5e932741e9a321e2f62d8595fe52e6c1ced9fbda3e0ab80b43030ee"
 metafile = true
 
 [[files]]
+file = "mods/vtdownloader.toml"
+hash = "0a6b64a46fd1b7bfc4cfe00a04d3867ac43a8c3ef0e706f9e551fbce02ec267c"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.toml"
 hash = "25ba1f543d497256054d05bbbab6e0c4f5aa9796cd53191d4b381297fd98c81d"
 metafile = true
