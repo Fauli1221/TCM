@@ -14,5 +14,5 @@ project-id = 317780
 
 [option]
 optional = true
-description = "adds a Minimap"
+description = "adds a worldmap menu"
 default = false
