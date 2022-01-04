@@ -610,6 +610,11 @@ hash = "85a07a0fc505a0e39c77a549a8392ad9951902d0870df98632a2ecb3f181b4ff"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "ec04cd647d3b8162a7a63b9ff89ac89accacba3328fea481ab7f0ae42b98d0c9"
+metafile = true
+
+[[files]]
 file = "mods/slight-gui-modifications.toml"
 hash = "5b33de3c55d5c60d41ac57d72b7697b6e6ad8795de481895b3f0d11e2e0d974a"
 metafile = true
