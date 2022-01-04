@@ -370,11 +370,6 @@ hash = "5841e176057ffa9f0716ec213a32d1dd77422ec32c1fc8b19adf6673c8735d69"
 metafile = true
 
 [[files]]
-file = "mods/jmx.toml"
-hash = "2e50123fe2c9abab014b70cf76a12a1f6c3f2d348a970f145e98d62799e152a7"
-metafile = true
-
-[[files]]
 file = "mods/kappa.toml"
 hash = "6363596c5cb5959ee0905e42c305b27934f169e634eaffc6ca268623c2410915"
 metafile = true

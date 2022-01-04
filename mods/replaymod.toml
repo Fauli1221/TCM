@@ -7,3 +7,7 @@ url = "https://minio.replaymod.com/replaymod/replaymod-1.18.1-2.6.3.jar"
 hash-format = "sha512"
 hash = "52c63e0001d0e9788322662d8460c9c6bb5066eec2f9f1706cae33520e846eaaf23888a19fc39828818d907d98d9df536b84e8a4b0bc03c268434b5a37076722"
 
+[option]
+optional = true
+description = "Adds a new way of recording content, neds a spechel version of sodium for shader support if you want that please talk to me for help"
+default = false
