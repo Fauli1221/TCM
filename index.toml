@@ -665,6 +665,11 @@ hash = "28b48053e5e932741e9a321e2f62d8595fe52e6c1ced9fbda3e0ab80b43030ee"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "178a83af3cc746c706ceee823c75f791361d29ddf870bb2e93c108c08a4aa37e"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.toml"
 hash = "25ba1f543d497256054d05bbbab6e0c4f5aa9796cd53191d4b381297fd98c81d"
 metafile = true
