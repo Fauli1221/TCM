@@ -1,14 +1,18 @@
 name = "Better Third Person"
-filename = "BetterThirdPerson-Fabric-1.17-1.5.0.jar"
+filename = "BetterThirdPerson-Fabric-1.18-1.6.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3343/646/BetterThirdPerson-Fabric-1.17-1.5.0.jar"
+url = "https://edge.forgecdn.net/files/3581/979/BetterThirdPerson-Fabric-1.18-1.6.0.jar"
 hash-format = "murmur2"
-hash = "1971775677"
+hash = "1658513908"
 
 [update]
 [update.curseforge]
-file-id = 3343646
+file-id = 3581979
 project-id = 435044
-release-channel = "beta"
+
+[option]
+optional = true
+description = "Allows you to freely rotate camera for 360 degrees"
+default = false

@@ -1,9 +1,13 @@
 name = "Replay Mod"
-filename = "replaymod-1.17.1-2.6.1.jar"
+filename = "replaymod-1.18.1-2.6.3.jar"
 side = "client"
 
 [download]
-url = "https://minio.replaymod.com/replaymod/replaymod-1.17.1-2.6.1.jar"
+url = "https://minio.replaymod.com/replaymod/replaymod-1.18.1-2.6.3.jar"
 hash-format = "sha512"
-hash = "3b0df34e495e550f0e34e227d5832916b10ee87e243721d03f2c89254ff51459f709aa261866e0f91aefe8df20ff4decd9414fa51df7c66bdd40dd24d7a21fc1"
+hash = "52c63e0001d0e9788322662d8460c9c6bb5066eec2f9f1706cae33520e846eaaf23888a19fc39828818d907d98d9df536b84e8a4b0bc03c268434b5a37076722"
 
+[option]
+optional = true
+description = "Adds a new way of recording content, neds a spechel version of sodium for shader support if you want that please talk to me for help"
+default = false

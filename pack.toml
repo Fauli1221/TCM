@@ -1,17 +1,17 @@
 name = "Techtastisch Comunity Modpack"
 author = "Fauli1221"
-version = "1.6.1"
+version = "2.0.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0b6bdb113d9fb7e28814c0ea42662c9544eb4f4955fd62f85715094627fd3a08"
+hash = "e2405e115c244777ac351b23a37f1c504a523a5146d6cdecd4c97c24594bf99b"
 
 [versions]
-fabric = "0.12.9"
-minecraft = "1.17.1"
+fabric = "0.12.12"
+minecraft = "1.18.1"
 
 [options]
-acceptable-game-versions = "1.17"
+acceptable-game-versions = "1.18"
 no-internal-hashes = false
