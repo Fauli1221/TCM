@@ -230,7 +230,7 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
-hash = "56012a7e35ce4262649d0f2eb521f582584fa874ac2c44617b84850e64c29205"
+hash = "d387e2fb4b5d47fc61ee6c57033d6e944705432c1917b06874e9f88a5e1b207e"
 
 [[files]]
 file = "config/quantumfusion/dashloader/mods-10ebb/1-registry.serializer"
