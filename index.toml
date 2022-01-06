@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "7440c32952d475bef0bf434b9491c3679c78df56781d083d08ec26bb354b8901"
+hash = "2fdfc03898a5e23b23e9eecbce011c2ea0e0386cff14be61518b342533b6c663"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "560b691e9ee156dced80cd73ef787ec5819c7d5525e680016493a85ee104fc9e"
+hash = "d8e729655032d1bcf3ac29c9f7cf482ff2e54f57559acfdceff0ce599780054c"
 metafile = true
 
 [[files]]
@@ -597,11 +597,6 @@ metafile = true
 [[files]]
 file = "mods/more-chat-history.toml"
 hash = "e1d8ca23cda8a8e4efb3027916a7574d55adb3d62a01b5a8e9e4e2f5a47b5838"
-metafile = true
-
-[[files]]
-file = "mods/multiconnect.toml"
-hash = "dfaf40475441779645208d2e953fec6e7cee779a15e14892230f84b48f4a087f"
 metafile = true
 
 [[files]]
