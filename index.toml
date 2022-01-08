@@ -645,6 +645,11 @@ hash = "c5132de20a942b83896fef588478ed1605e6dd3738c09d476e3166abf16cbd43"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.toml"
+hash = "aaf66b26c8fc2aa1ad78a38c9d2cea10f186ba7eb131bad048b65f8b888bf89a"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.toml"
 hash = "3905aad8e323feb13c417c6fd81da68e94c8d434117fea4bb5de7b7c89e87509"
 metafile = true
