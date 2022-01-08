@@ -605,11 +605,6 @@ hash = "81fe690385f9d09f20fff0f67e749f6458a02eb23becfc30c6fb17e684e8a94a"
 metafile = true
 
 [[files]]
-file = "mods/moderate-loading-screen.toml"
-hash = "facf68dd96d2d236f6d997d7a783e51fa76c9c322e275ab5dbec4cecf5830aec"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.toml"
 hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
 metafile = true
@@ -647,11 +642,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
 hash = "c5132de20a942b83896fef588478ed1605e6dd3738c09d476e3166abf16cbd43"
-metafile = true
-
-[[files]]
-file = "mods/slight-gui-modifications.toml"
-hash = "5b33de3c55d5c60d41ac57d72b7697b6e6ad8795de481895b3f0d11e2e0d974a"
 metafile = true
 
 [[files]]
