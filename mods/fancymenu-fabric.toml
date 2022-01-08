@@ -1,0 +1,13 @@
+name = "FancyMenu [Fabric]"
+filename = "fancymenu_fabric_2.5.0_MC_1.18-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3593/209/fancymenu_fabric_2.5.0_MC_1.18-1.18.1.jar"
+hash-format = "murmur2"
+hash = "1872255158"
+
+[update]
+[update.curseforge]
+file-id = 3593209
+project-id = 416796

@@ -430,6 +430,11 @@ hash = "d7b04dc33616ec7168a1b4c1c4a7617cb2526c830dc4457ee7972f5145419b0a"
 metafile = true
 
 [[files]]
+file = "mods/custom-splash-screen.toml"
+hash = "76ff19779457eeb6839ab4aab16e88ab191aae9fac157329e369c9cbddfadf38"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.toml"
 hash = "b164d5e681e9b035b34ec72590f35f35e092dcd5255eaee22fb40609e5395a0c"
 metafile = true
@@ -485,6 +490,11 @@ hash = "d451a98db975e57601773c36027b28cf43457728f1d616d28aebcb9db5eff6d7"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu-fabric.toml"
+hash = "3e90175cf2f0f079f1a19567052f200ff63bad113e77599409b58280ef5f1ce1"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "856759b47ba14018cff8917f8d1785df84d2acf2730b8409bc1dd4dfb578748a"
 metafile = true
@@ -522,6 +532,11 @@ metafile = true
 [[files]]
 file = "mods/kappa.toml"
 hash = "6363596c5cb5959ee0905e42c305b27934f169e634eaffc6ca268623c2410915"
+metafile = true
+
+[[files]]
+file = "mods/konkrete-fabric.toml"
+hash = "a8593cbd7057ade74e44a380fb2decb5ae26fa32bf37f8527aaba36a4d571322"
 metafile = true
 
 [[files]]
@@ -567,6 +582,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+metafile = true
+
+[[files]]
+file = "mods/load-my-resources-fabric.toml"
+hash = "f458f1f599c9b939450776f0c31ca3e9e9b6189c311c4c67c3a717555e5f645a"
 metafile = true
 
 [[files]]
