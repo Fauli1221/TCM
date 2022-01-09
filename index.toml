@@ -456,11 +456,6 @@ hash = "7002cac81cea34a25344d4022b412a5e8b2be10e183f17d9390b2341dec5105b"
 metafile = true
 
 [[files]]
-file = "mods/builtin-servers.toml"
-hash = "af12d911a5b17660e97a84eb0a097712a4c933929467ab631da797e1b76fdfec"
-metafile = true
-
-[[files]]
 file = "mods/capes.toml"
 hash = "eef7bb485e3256f64c611371f1ae5df7606929cc22b7a9d510c8c3adb542bd2d"
 metafile = true
@@ -752,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "fa8037fe056175edd2d5483c183e3b34fc896a04f01812828c4874e03cd682ea"
+hash = "be80df658c6a07682b95483bf3dfb67f2c948ff4baa42b66b068037cc29cc0c3"
 metafile = true
 
 [[files]]
