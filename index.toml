@@ -85,6 +85,54 @@ file = "config/fallingleaves.json"
 hash = "87318fe6e5ed6fc60443beb2aee60de9a2605c158aa78f4a3e00f645cb34d435"
 
 [[files]]
+file = "config/fancymenu/animations/gigatardis_animation/animation.properties"
+hash = "3430b7792ca316752cb482b6c03e8f6f64f7bed8decf91a40fe365d2f7d376fc"
+
+[[files]]
+file = "config/fancymenu/buttonscripts/mainmenu.txt"
+hash = "4505c02eb63e529f3efe085ef44d6f10aa84b9d6c0fe8eccdcfdbafe2d9fa918"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "d0f8c7966af6aefca2321347ff7d9f01184c14f2dda3c85a60ceb916f4ebd78c"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "0791802f8643f6ead2dbeba30abced98af74fd43205705e308c795cd4e565b28"
+
+[[files]]
+file = "config/fancymenu/customization/My layout test 1.txt"
+hash = "4edd3c383968cdd6057fe4809eb2eeafcdf843549c341baf3b862e33c02a30b7"
+
+[[files]]
+file = "config/fancymenu/customization/escape menu.txt"
+hash = "e9569f38a2d9c58a18e95ec4a33a0d2672bb4b8fb3e77b6bea1a39682da928db"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "e21583522c39664d3bfbcdb8211aba95ff9e01d338df1038913fa31eddd6d2ad"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "9cee147fc2141820fbbd1db1d43ea0f14e6a265ba1b8958d2e57e8acadfd06bc"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "2e4d40478c0f21c12c3b1065659ef05c592deee93982ec4abac611145be09468"
+
+[[files]]
 file = "config/fast-chest.properties"
 hash = "15ba60859dc3504a875e3fa306087521e9bbe777ead531b4b5fb34938ca5bc63"
 
@@ -125,6 +173,22 @@ file = "config/itemmodelfix.json"
 hash = "f67460631e5dd59fd646347174cfe7b8de38be6556bb928bea4619cbd6f32616"
 
 [[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
 file = "config/lambdabettergrass.toml"
 hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
 
@@ -143,6 +207,10 @@ hash = "68a39c77ab60407e6639f38a045c84caab9a52f0b14384121f80b89f71431025"
 [[files]]
 file = "config/lithium.properties"
 hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/loadmyresources/config.cfg"
+hash = "549a26b9b8ab9e2df0a427732a737c5dbcdb0b6790ad7ea9a387dea789abcad5"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -692,6 +760,1258 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "0ef4513369ba7e78bd48681e753a0a3afce50ed0939c1209fdf4fcc1f83cc386"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/1.png"
+hash = "0c639f91e24470d3c057e4a2d50030b00d09eceaccd089fdff02e190128ad4bc"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/10.png"
+hash = "d505c21eea7461248b9b2710571e34c650007e2d5424c717db58d7992fd2feac"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/100.png"
+hash = "ece7901a1a89a7485b9ed389b9ab46a3748f0fcfc6a673818756ab65c82f5fa6"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/101.png"
+hash = "7d0028d15b770687ddf64fc14a061892b024ca0b5f9eb605c13887fe7c81fbbc"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/102.png"
+hash = "2715e6b6945d5b208015426f39c8b2e049f7d73c54fae60ee45b75e7166bac26"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/103.png"
+hash = "4a4f82d77edfbccc2b983d5d6f363e26e1dd240a72c6f3b3b6161c8c7534be97"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/104.png"
+hash = "f64a050fc8744f7ee54e1cbb9fa608bfffd84d5bc06cd11fb64b5e6510667002"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/105.png"
+hash = "2b4cf6ca3fb87a29e00d2f5b7ae8bf03f1935c35b29e3f1e540e9b9dd4a84d55"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/106.png"
+hash = "3d7c3ed66f17d2971b358963a78d9bda738279c624aaa2aeb7d59ce5b1b0fe8d"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/107.png"
+hash = "bf94b64523a508801424aa3e064717d941a21425ddbbc5599fdf8413dc432333"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/108.png"
+hash = "eb9b1f36f9cfd3c02443ae639c453543d792e6872ef17cbaa7329417bfe7e83e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/109.png"
+hash = "0783da217e715d6b42586a2259a837cd8e9f799b296a488d04228ed697e4260f"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/11.png"
+hash = "9502dad1507a070f1fe46bdbea6638d37534cb5c61cd3a76468d91bd4325899b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/110.png"
+hash = "30e347714183d56bd3283d3a47d37aaa16e4b2f358c32202c4288751e5333847"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/111.png"
+hash = "09716eb44cdc7984283423ebab7d57526e07a88aeaee507e77b06b87510a9e61"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/112.png"
+hash = "e688dab3d9b98300be01eca567046aac7d7b883212435b3c5007804210541a3e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/113.png"
+hash = "e5b67105ef42657f652960b37081e18309e3c1a241ba155da9d8d9920410619c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/114.png"
+hash = "454a7d7e7e166fad998c02721778751a681a4401d1c55c52ad230b721a379d1f"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/115.png"
+hash = "74d7dd1f56492ed4829a129ee62fdcab474baefde7aaac78725547932d812835"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/116.png"
+hash = "53e0b3b3ddde0ef564978a63d14970c518b4ec2b5eb56a9c464bb2e86262c821"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/117.png"
+hash = "3a094f3872ce7c8b570f2a99b969e108fe90530e6498893a20e9123176f2eaf4"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/118.png"
+hash = "6677e7b73f827a3e72bdc9696a6af6e159b10d76416433337295e52771cd184e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/119.png"
+hash = "d887b223176ca45940bdfd891e51adb539ea8cfad046a3fbed9813b5af587cce"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/12.png"
+hash = "8e420d66b2335dc4db9cedfa3ccd9abd0547d5a2c3a38d0c56989b9803884c28"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/120.png"
+hash = "abafdf7e330c3084218405373357100d83477bd86e37aa87f4681a5c9593c3ef"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/121.png"
+hash = "26039383bab469137b48605a5a6aac0357cd50790037bf6b930295d7b16aa2e0"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/122.png"
+hash = "81fd804d6ebf36482a24358a431eb12af4e6fa240a78acca8028e1bfc608109e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/123.png"
+hash = "38e96e2baee067d8a6928b2b29f16a941e1644b11fef92b5c40712c22343a35b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/124.png"
+hash = "6f693a2cae840a418a23dce796b5ebf7b97cfe1c8a645f51c6e7e163ba809012"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/125.png"
+hash = "3c1f6f79bdcdefdb911c8ddd6c4c072e926b7425f71cdbc5e04b5b47ce473dea"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/126.png"
+hash = "c737d99c87d89c4bda472d53c17dadd227ff9802eb4690d4d7225ec4a60a2440"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/127.png"
+hash = "a738f17b5636dfc6b23832df8b65eef47d9c17da0b2c4d8e5e62b470151913e1"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/128.png"
+hash = "6fa3de835c949d82bef1bff10c33a9b3aed5eb76693ce2a844595b693987d964"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/129.png"
+hash = "efcc7c45428fbb0f9bdc88da336811cb92e734399b84ad7c17065c929826d14b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/13.png"
+hash = "dfadd75737293c98d674244d370ac7658e349e71ac6dce44eec3f3db1bb3d569"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/130.png"
+hash = "88394278ac42be7a97324423a39ece4e1305df528893b630623a2d095dec9131"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/131.png"
+hash = "389f9e51729a217d2ee2feaa79f5c31bd2b4e8f2dec65d2f6c6afbc320826149"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/132.png"
+hash = "ad0e38e7117a617a36c04a7f52e1756b3fe5068c2bb944fd1b1c6e2b73fb6626"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/133.png"
+hash = "4db1c6aa982337750dc417994a2696b3d312ff5c14abaef52d8b459bb9d24fd4"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/134.png"
+hash = "ef448b2ef79c55edc39257266c4a2167ee3235fc12ac95a5cd90d7e69714f9af"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/135.png"
+hash = "dc900099fbdc8da30081038e5d8e77672976f29e7aa486d22fef0804105adcb7"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/136.png"
+hash = "d6d13fda81df12632822df92037f175b53f5e1e05a222c102aaafbf1ae71f0f8"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/137.png"
+hash = "05d2af5215738fa3fc14e250116f41f4cf7bca66afcff837f5978fbe5546beb2"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/138.png"
+hash = "4acd95a14e96dae57361b55acb05b6b0cb1605e6e2d6b212499c8f1daa147d45"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/139.png"
+hash = "28f6d878d93558fa1e53272c6f73c4d52632ed419cb54da2a5d7a97ef1e31bda"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/14.png"
+hash = "7d0499fa98a3118f77e710e4101864b0ce6a333023a4d414f32d2554c08aca99"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/140.png"
+hash = "6f36b44d9f747abe0b02323087d31ef8c0988c21aaec60f993d222d8915d1feb"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/141.png"
+hash = "44b91ef9bcaa2081e26e94b757559229365ea8341d25eab2e259a207d4518a92"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/142.png"
+hash = "f649f04f6b44355c47d4f2ccd0d3b268aafc8e4daa5d0ad4795a77bc9f4a22eb"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/143.png"
+hash = "8ae62a2f4aee767b234bdb09265f48a1353ada6dbc19f41b9e31b51c2a30d0f4"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/144.png"
+hash = "4b04f82ea30ae0c7d68c96eb4c85b0e9446b0242b3f5f1720bcf6fa4060fc162"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/145.png"
+hash = "94c506e90174a9d98b9ce54598a3f6504b44848f6d742b4c7982d7ae9fb88c6c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/146.png"
+hash = "9ca2e8d7682eb2f52bf49830000e132a7347dd2a81979cf6b1568547b1f0ecac"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/147.png"
+hash = "95a949304be5a9fb26b5af25479c11965b341eddabe315885f8c717436a0d015"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/148.png"
+hash = "6756a2053a30f3fcf8ee755a166d6e17fc2b22c7aa67b9d2697c71526fabfadd"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/149.png"
+hash = "7d290582bca87451ad553c30c1d4784c071eaccf0ec0916421f81a71f0fb74b4"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/15.png"
+hash = "7c071915f4717bd8649cd0c8ec9a32fdbc3522e52106cb4eea09718fd7ea1c4f"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/150.png"
+hash = "0c26af288973634d5751f8b380c91fb597cf5a04656d82faecd1b8c8e170834e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/151.png"
+hash = "9927422367d3a09d93e322d1fd3e6f14bbda4c1129746f5e2bc0ae0d952b9d1c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/152.png"
+hash = "1a6fac10f793a6c5d57be888b97902c228f692dfd48f51f94704cf9dbd66ca31"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/153.png"
+hash = "f60334c2b87ab05329bf8d4d504245435610f45d5997382036516cb14f9ef946"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/154.png"
+hash = "d9fc00730244c01de1b5f85337ba39ad757c9e2d7392ae1384d76073ed87d8c8"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/155.png"
+hash = "8e077cf6ec9115a07958ec1eb3d424a788cbc818a8d3b65b5088e4ac54a7dfd2"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/156.png"
+hash = "1ecabd35044be7ec77434e447a0db53711745e1b3d8555b894dcba54c2603ac7"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/157.png"
+hash = "07ff94fc0959ce278789251ee7c13b07839d6c3bcb3f69ba54610c1def91400c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/158.png"
+hash = "eb60b7ff629fb05bf3bc3e481d82991f48de232089f01c01208b936f4833f868"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/159.png"
+hash = "ff97f3344561643ebecd11e945b359cf4e470f136bb027cf7283ebe42382e96b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/16.png"
+hash = "9914699d7644c694489addec98f485a8bde9d7bc3366c3802872dfb1170e227d"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/160.png"
+hash = "3d27b32eb7ceae525e0cdb1437a3a45f6ec0fd60be5d08a9288098bc6c100401"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/161.png"
+hash = "11db242c13b769692c9af10cf247d09a969aaf90d1ae7cfcf591f414baeb894c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/162.png"
+hash = "bb8bbd71771a8b5299892e2c52023fe272906f83d82c706576b4fd8308be40f9"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/163.png"
+hash = "ed82642ca2a753ded07066cb0f99187e230f28df3eb543133edac776808e8143"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/164.png"
+hash = "1a31055dcbf39db36a40b58fbb37bc720a7cd15930fd1ee0067d52667d2e77db"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/165.png"
+hash = "05f92c77fcc529e1efc0dfef648acda4c5fb4fd53c882b70fc0d579bae08a9e3"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/166.png"
+hash = "3d4d0c540aeb429a50a65306357a947bfdc05355e1c5229d1e62b057b418e13c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/167.png"
+hash = "cb75edf15e23143fd92490d1722773be653eec3d9d9cc70d2d312219f9445b70"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/168.png"
+hash = "711972cee4ec3f65da29086469d69cafc5cf0482e5a84b7857d05cab94dbd62c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/169.png"
+hash = "ff027a90590a76863c83ed42ad63f34ab966a8b1c4418a3628e28b94ea852084"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/17.png"
+hash = "fba60a9d0e409e5aafeb55412ac453077bc5a5f33b7ec5bcd780df4e06c94f94"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/170.png"
+hash = "7fced207bbb34e5c59420eab18908e8b4e2892460c8e332be59c97092af529d3"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/171.png"
+hash = "11c8bfdd648a77f49287a783b287e323b0cb04e97e390d7ec1ea45473fd56abb"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/172.png"
+hash = "41373d6b984357622137ca1712832e4e2c962104ecce317153b895bdb2db79ab"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/173.png"
+hash = "0c0a494482c86704981a22b8bc9d304c0afa26430e5e8d7465203186901f8b6a"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/174.png"
+hash = "dabcb53d21a6cba15980dcc7f1d914b70087ee47197feab50a3050ee78db14c0"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/175.png"
+hash = "6f7af72d9130ac3a20074c5194ddbf83623103ffb8fd25c7a24612282b5cb5cb"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/176.png"
+hash = "2682a5ccce71d0fca0348c84ae4ffe8a701685c44591e05a44d521871fc708af"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/177.png"
+hash = "3a93816879b7b10aea8ba9e5140ae774e8b5830ac8d3551b9af46898d6105233"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/178.png"
+hash = "7b31932592f29bfbdf04a363fedd041f1ffe8495eb5066a9c185fe1d31a872da"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/179.png"
+hash = "dd998f885c4111f6f39082e86e87f1c99c2e7586d8a5a388420a4dde0985def0"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/18.png"
+hash = "bb8f5246ee0064afb93d3ee83882de18ea7c32b80c9b441180cb300de3946e5b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/180.png"
+hash = "0d520e549b4457a510c0bf80fd129d6fbc717db3fe869f479ba85e0277628a6b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/181.png"
+hash = "8e4abab5626f90d48b6c38743e1355d657093290cb41f89682a0de5e4ffafae9"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/182.png"
+hash = "eac910d703aa90369266795eeea368fab4534016c688bd5af2834ac8b9ad30fd"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/183.png"
+hash = "0bb97ec5cdc76083b36d4dc7db357c80937fb3d3a96064b00f494dff18959eab"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/184.png"
+hash = "ec133ad110a04e942e0b80a59be6afb3ad36caf648577859f57a4a669af83d7a"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/185.png"
+hash = "861d5c371d711936ae89ec56e6eaa33414d2931de24a23b259033987af69d54d"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/186.png"
+hash = "4f2a17275179fdfdf5ecf74638cb89aa3d7227fc843fda7b31b9ea85a28869d5"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/187.png"
+hash = "d881bb0f849772630bad19d9c852afda209ea18b87a6bab15d43b8f4bfb3d218"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/188.png"
+hash = "bbd5ce78608012c24bd5536f2b9596224a05acfdc332e5f26e40c75929faf90c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/189.png"
+hash = "f99e5a3692d1217baa402ceef2e3e3bdb543febb17a85d3fc0bae34d4c2a9505"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/19.png"
+hash = "f5fdb4c6c5c6c373f23cba4fcfe8d2f8248d18b82b316d0d26c4d7a1ae02eeb2"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/190.png"
+hash = "bc37cf3f8670d688bab2f48247c50b5fd9caa5674bdc2913133d0ad26dc3dfa6"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/191.png"
+hash = "88e535b80b40f1c8f0dd7ae0c77c55073bf7b5378f0e1052d69aa087938293a4"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/192.png"
+hash = "3688115144a60d1ff282ac7625dc13d041d038f57b59c61ee7a06ae8c8a2d1cf"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/193.png"
+hash = "6dd2662538779a95c579b7c636e4e4367687b0fce4b7b7e28e862aba0f34cfc1"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/194.png"
+hash = "8a1e2d93f1f7a815ccda14ad3ff98045a5ea7a7249c9f00ec318db9340a5fca9"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/195.png"
+hash = "4f2b0bf75ba6ac3bcb6a298e8e339cbacc947668ad4d96f8c520cf363f6e3731"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/196.png"
+hash = "47d4fed81b5f874d7ab7a58827ab26583f147a5bc913565b0ca467cab61e8038"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/197.png"
+hash = "8af5ff7340814cbb9216b44e05f185fde15ad4466ab88ae052c515a66b1b38ea"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/198.png"
+hash = "36dff89f8fc43c723703004a4a21d9fae8c0b50ca311ec7a6c8f6b05bc407e3e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/199.png"
+hash = "db7cfdc00e0eb2167f1f1a481ae1ae176edd3c5a96b86fc146e98abe0c8f1b1c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/2.png"
+hash = "486956270f0483f2876a678548bd5764fe1e7f1e472397e129a3c22c08b79237"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/20.png"
+hash = "7ed1caf2e483873ebd57a24fc0d804ac335eb4eb1d5e9c54a461d60dc82fafd6"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/200.png"
+hash = "ab61974e2c2d656ed549048cf9edef962e821e39844c9dfe349f6d00212cbd6d"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/201.png"
+hash = "d539a767b6f994c234d3174b8851cb680443900c56a8829ab25cd9f7377fe2b6"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/202.png"
+hash = "480dc0da4f5e759953469eb215c39ecbbd4df9aff0d7c033092d6fbc31c48771"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/203.png"
+hash = "64f4863bad856535191c673cbb9b2a28ca0bc05f7c8b75c9815c39f1d5b4817e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/204.png"
+hash = "7063f090b0ccf51a9eabc52a5fe8aea23c42acdf249b011491a604a4f87f001e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/205.png"
+hash = "74ea02010e887085a84cfa19ac365852d5d1d8e14faa4bbfc28fc0f007d43026"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/206.png"
+hash = "93133a4693f644c9c7d41b3ec389f6dcb7acfff28d5048321b9dee06499ff78b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/207.png"
+hash = "bea61d3888aeab2f3bc6bcd4bf112191968d1427ae088afcbe37e490df46cd56"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/208.png"
+hash = "6b201475752abc243eef1e740ae09ba79f0ae6bf4bdd3856f77c7f8782db2b90"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/209.png"
+hash = "0ca6b3e61f4df621f20222657111f63e77f218e0914a8a75d1aad4cfa9217e0f"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/21.png"
+hash = "7491b5879c80de9456b95912ee272c2794af512d947d0865ec56e434b1d8cb70"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/210.png"
+hash = "6b443f9448515cf4b4fbf7e0d11acd84bf244b3cdb73d9149a607bcf2e66d07f"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/211.png"
+hash = "f2cd7d286eb4ba91cda0d7a82003622d4d277e0ef3ccbad8de6af7d27a47528b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/212.png"
+hash = "cfd0ab37e0ac6e66837a80fe738083afe78fa630da5e5334e3f6aed10891bff4"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/213.png"
+hash = "3a4dbdcb9f3ec5937f1c22e1a27941e0b31921fb53c097200f7a98e9a16b4399"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/214.png"
+hash = "6203d3491e231df0b2f94e08cd42f82e74800d3cb5c9bb67175b669b6b24ac7b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/215.png"
+hash = "1651e2c423c10190cef486c4297a8acb21d9489a79a8bc96e3a268d41c20260c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/216.png"
+hash = "fa9310993489aed0ace9b7e7cb38a2d69590000b8e04913c754fd2951fe0cf74"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/217.png"
+hash = "2794326188d684eda52d363f7be7975c0ceab92fdfed3cf2357067aab9452f6b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/218.png"
+hash = "bdc9717fc9f399e1e2f6743af44fd58f3da4a621eb85976969fb0c81e8d18d2b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/219.png"
+hash = "098eebd0250292893d5410d1601586f1b70bc075aec6262f9d910e1142ddde8d"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/22.png"
+hash = "67030d8b9f295b1c73ab6e3fff4bcbf245eea5165c77f77940434e0cd8bbafec"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/220.png"
+hash = "70c80055062d06d9d4dd5c139102af8168145c74c26fbbb1d859aa6c2ae515b7"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/221.png"
+hash = "f8bdfc0e279f9d0682d7e982d9f8eb3ff7daf7f534903786e0de0370987e0ad2"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/222.png"
+hash = "6cbfa1338dab24e18d452a1a2153d606d9b01dfe84d91cfebae653dfee76c625"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/223.png"
+hash = "2c08ebd7fb14f08d2c3c0fecfd27536b4585004297c322561e4211e4c9abf4ca"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/224.png"
+hash = "e1c7f73a8aa8d5219ddf2c730c7cec36579eda0f324c2c72713a75b2f9a5b3c0"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/225.png"
+hash = "bb78928bd2cbec1a91bb0f475627d59b57e574ceabeca482f58873eadeaaf547"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/226.png"
+hash = "3c250bac6e1ca4ea5ca21a35f13474945ad743b4a348a0322eb96d068d3b0e60"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/227.png"
+hash = "ce26a929c632c7c77b28befc4feeeb6602faf3bd34bdc150383bfc7a78b26130"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/228.png"
+hash = "d2524f86a03e85dc9551f6b37ef9a9f7b035a407bbfd4881e358cc1fb7add96e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/229.png"
+hash = "3dd44518bbcdada4703d9f961987b292dd0071340a65c9a2cdddbf4972e3a244"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/23.png"
+hash = "92d692e15cf0b5c784e35783d3fffbb9dbc2764e78d525b3b0d551f413a7276b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/230.png"
+hash = "70a0ce5b9b4595f89429ff93c3cbb002e2adcfbcbcec771eae65ddbf1754a9bf"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/231.png"
+hash = "fe5d04178c677abc4d6e1a4e955d7d76ef741b0dacd2afbedf4b7f2ff98a53f9"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/232.png"
+hash = "25b57622635d8b325f148154f67190cbdcd6a6c5fa15d348f5985ea7e1096fac"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/233.png"
+hash = "3c62f94ca051c3813b72c599ffe0d3ccfea67f10534a7f1bf52030db7d857f74"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/234.png"
+hash = "4150f0ed7ffc7dd1a37faa9ac346caf1daf0341438598dc00281e8adc3bdb712"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/235.png"
+hash = "e212571da559ee6800c6293f2db3862cf9940600f478538e1b7bccd188439ea1"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/236.png"
+hash = "76c8d706cfc83dd18f68eb2e82d993b2991b1f4f135096ce251cc57087593a3a"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/237.png"
+hash = "2c92770e47887314e6117974437fe75e3c40eecdd6035a53080bf9ef50d8115b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/238.png"
+hash = "7c0bc8b531d36e5b09e01a7bd004e9679235cd051b9df16344019046b5bc13a1"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/239.png"
+hash = "44936c3da8ef67540379da2592b086fdc84820703597c1358a525ed5e2e8bbf7"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/24.png"
+hash = "401cf120cbbfd16613337a171aceda372b1a264f13b91fb1eb23eee8d1a3a7ae"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/240.png"
+hash = "1fc393611da54f835c4741fa15839e8ab6487d0fa6f016ce7b244139df5d27ae"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/241.png"
+hash = "336415654489806419216f8a6c9caa0685f8cb207c7ad31a3342ca058803f2f0"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/242.png"
+hash = "185a55fb8df0a72e41d5c184e0dc34fc9ac19bcf4ebd464f46cbf962498f25db"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/243.png"
+hash = "064aab9d694bcb9826f72c01cd948a73395c8ae0b2c0462a8406932f9ddfc76c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/244.png"
+hash = "3839fc216dd2828c8e1dbfc4f785fbbeb3471b59343309deacc9a79d5fbf02f2"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/245.png"
+hash = "4562ae48773f7da1f93dcd845c689cd1fd5dc71a004cd48b76518515bf6f9e8a"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/246.png"
+hash = "c6f5bb7c58288ce9b2f5916b376d8217e27b48c6a791d2f20b816620026c95d9"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/247.png"
+hash = "284afedf45ecfb6da7339566c797be90eff2a9c56c209017a7bbce7c251f5fda"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/248.png"
+hash = "343d7e41bd18f8b1dae49c1d92594ef65832b3b5c88259dcf107b7a076fe5a6e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/249.png"
+hash = "9c3d10c4fe7d718ced564bdbbc315d83406bbc527d649bb013e3f1f5600fc387"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/25.png"
+hash = "a2d5ca0f32c6060780cb3ce379d37e43d3cc675ea9eff29abfb3c7ccebad67bc"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/250.png"
+hash = "dadad843b7c0b5237f2e12de5bb994e9c89d95f01360f6a9536da05cf96c7a27"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/251.png"
+hash = "148bd3ce4b78f2c37d5e7b00b4393a0403c5a868f49cac67af00ca88d1f30bbe"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/252.png"
+hash = "01aadf59c32ccbf76c7b95ad9cffd6f99b2e9e2edf051ec225eb9546692df8d4"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/253.png"
+hash = "c9045448aed4fe5285f231a33343723942d1eb17a75184058afbfde04d86e5a8"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/254.png"
+hash = "4b70876de60fe645da6241def3b1a368f9d71714b95b4ba940c82a333efbb341"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/255.png"
+hash = "008d07faa1dc6b2091714be96a13ad99e7a2c87ff69b73ee46c5ff17c589e25b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/256.png"
+hash = "1b4f8cf18153e75de421eb6389b712c05136e33a2155c1aba374a3a3cb1adf63"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/257.png"
+hash = "77f63b011f7ab168b89c45e61981f1b22d7ad4776396df4c015fdc296f0fadf0"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/258.png"
+hash = "024b8c7f6ae7256e79a877e86c8e8663530371a78edc8a6b46cc6b10a29a6d31"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/259.png"
+hash = "8dca022a28d9b85d6a855ed6c8e3e4e31e66fd204dc80e5a7e8eadd0fe39a547"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/26.png"
+hash = "fecf920648ae08b98e2f4462c72ceab9737e723f75e574030529b68a8eee90b5"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/260.png"
+hash = "d278849407f17984efe518a08b268ddabec0c6f71b7001cbc00cee0ae6cafa40"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/261.png"
+hash = "76b19ec88b766ddcb19a804f43e2a38e7d51e9c9beada2f52dc773c2fcaafe91"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/262.png"
+hash = "40f2eb3a3fdb03da4465e27951979204a2724b1766dc4a4b8735bb6b250211de"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/263.png"
+hash = "3fc5d198d146c2c0340901aee8ee344fdbf2c8887901ce0046edf05050271112"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/264.png"
+hash = "e6f489bfc95293625d0b4709b246bc912f78464c72f810e90f1c65cee68c6c9f"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/265.png"
+hash = "89bb6ffc2d5f63024a87c6535e3ea479c72f984147d62614a287d5d2f90b139e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/266.png"
+hash = "1ac48a9169ca7dcac7ba0e27280e7a26342f64cf6b95949a02f804773fdb2b94"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/267.png"
+hash = "dddc36dcd8b7004487181d7c10e48d82653a39650aa522ea278049424614d532"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/268.png"
+hash = "66d475be745f6dd923c14019c3e5c6f9ffdb3f1434ee35d6a305c0656e073eab"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/269.png"
+hash = "9ca851cecd7edc61c68264aaa373bf33f8dcd7ae2c4930ac7dfe2c3a73892ad8"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/27.png"
+hash = "608dca5e108c2aa546506a7775246b9c3f16977699e24e1c7eb99230ca41e5a2"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/270.png"
+hash = "c1c3a77ef8d0f9404b733e326733ba6391da72bf6c7812cd6bf853cafc6f2153"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/271.png"
+hash = "32d7baf8fe27a2830bcb1fd3065074b7f3d4c3ba075f356aa9b879dbef3eeeb9"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/272.png"
+hash = "317d3033a70ed3433c826259d2555965545295ce416cb7c15e17cec4c2a22af9"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/273.png"
+hash = "fc88df0b7c1c5cd124d6ca96efe62e69f19044e4024dc262921083de0eff0d0c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/274.png"
+hash = "65c869f6514ba3c702a9311fa6a8f28992cf37f521d0e57b7bc218bd963c3653"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/275.png"
+hash = "a2c810c8a885baf56f3b59a3f412181114f7376df974fef1d9d1bb3df9bee615"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/276.png"
+hash = "647e7e2c78219f0b3d68a4ac6f774509eb54e36a4bced9d198932332012035ba"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/277.png"
+hash = "d798137d6c2ef8fb051122f078c4a26c501e095785e68506d18527e3c315d058"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/278.png"
+hash = "32a23958ba489846ba0663f857a91a465a0d3f49f40d23b3d73ba9bcb1cbe5d8"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/279.png"
+hash = "96e1bd15b586fcea6ed3c6b988bd810abe0c20e526d2f57d2c5ec6f2defe3c6b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/28.png"
+hash = "91d396940cf33db6c5967f3d2462187ed026434839a66291cd2fe4c1b00a3e38"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/280.png"
+hash = "cf9cbae50cede88f681eac2f24fee8437a207a97f770c23a6d8a3fec2d834416"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/281.png"
+hash = "02595f9837ec12593f17605ec54f9dcdd206353b317736be8b06dbffb745cad2"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/282.png"
+hash = "c1878e386ff0d6d4e9e02d0c1c35a02334619361ff9933b4250f34271d16e11e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/283.png"
+hash = "1151a2b85e72d09fc5335ff8c51fa80ea01f188ee9b3b0d65cec78405377c2c8"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/284.png"
+hash = "37c6f98e0eba82345dfdcbcb9c3be3946426bc9f4c38fc54dd2f1c1e131e11f4"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/285.png"
+hash = "747853eabe41526d65908bc2b4332efe957b361e2566d3d747a0e02a08e28250"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/286.png"
+hash = "212abdf92380ceb0c0515420ac4d1741fd4856ee713cdfa1630b333d257f1ff6"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/287.png"
+hash = "96e2a2f24f1632c672bef927a5518d2165b4cce67efe134335638012c06e3778"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/288.png"
+hash = "327f4e907ff437e04336f84663ca25ec24d01927d71c183954f0061426983143"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/289.png"
+hash = "1607d860fad8d11280c22c2e8bd4631a877bc73fce32b88b5452255130f57ce9"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/29.png"
+hash = "3f7b344d12cc8b97393e7e4ceed7bfe0b68ff7ddd0ef100e49254bcc49030e13"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/290.png"
+hash = "75128d66b653838db982cce0b0e3d93547241f7e5c9e7278e9e646e4005b42c2"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/291.png"
+hash = "470708347b9cca7e6b71af207a72755d9b3286b142cc028babe79af0743f9394"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/292.png"
+hash = "bcecf5cf54aab2d40fccec32a3d41012967d0c9b441a82bb01d75e6c5ca56450"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/293.png"
+hash = "e76082074a8946a063a4bf737530ce979dbe5a00e639b97828210ef368ed8afa"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/294.png"
+hash = "67d7ace391d26d05079d73e490902ef5462090bf953bdb59d7c84c3ee59463af"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/295.png"
+hash = "bf5c7cacdb96ef3eabca13083d2b4e06a612bf07ba51d6918f70bd6456e26f54"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/296.png"
+hash = "f5cee197b0451a08c8c5004271c40650421a4becf0e81b20e80ea0fae35dd745"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/297.png"
+hash = "4d5a793ac620c84a1b58dec4269c3f423186731affb865f557c27c1fefd14f65"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/298.png"
+hash = "c10dfc85af72870122d16a41e064078a354d8e20a3a6d105042cebd1c2aef19b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/299.png"
+hash = "d6fb9cea1e3d7bd27daed35c5885193d020081a0dbfed7bdf6f6d391d40a1767"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/3.png"
+hash = "d11fe95bba9a99ed687fd804a79c6519e2e795fc96c58586897a6a1f0487b739"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/30.png"
+hash = "9dd8dd5b6cfdea67b3368a8f094e87745bbe1f3d9feb9898462237e04384b8fd"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/300.png"
+hash = "7cb4990857829d8d1e4dd1ead1cb433789e3425b0d7b032678d7971f6a3dc083"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/301.png"
+hash = "742f25c13935f822b3cc781b954d56863cbbdbbf6670a0ca1a7ee3cf6cc0da0b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/302.png"
+hash = "ab841a255a21fcd351fb7e96489367629be6b22b04e51bf77e52aaae6091fb88"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/303.png"
+hash = "35ea25a89306a21a6a2a5af27146f56e169d376cb268b01eb93987e68c610792"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/304.png"
+hash = "d2732ad3ac620d1cde42a635d56eb5e58bee911f9cf567f61966cc1f2bcf766c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/305.png"
+hash = "53b7a170615fb7837bdd7e6d5aabb1be084238952be4795bbcb87288a4892910"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/306.png"
+hash = "db4520eb604ea93a4892da487c04d214f60ec0acd3ea34c3f3c5b9228a9a778a"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/307.png"
+hash = "0c0e9ae1b9a7024efa4befe59e24e2fed24b20d18ef3d843a3c1b49f63f27dac"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/308.png"
+hash = "a97178e59528f89b5eb671be82902f692a7457bb3f176ffaa30c3af9370041d6"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/309.png"
+hash = "6305793e690ad728337cf78c4d3e134319cc1c008af0988905537d9a39ea6569"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/31.png"
+hash = "1dc737a378abe4861ba0f77d67ac03c804fdb0e9516879dd4112553a51c8ce10"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/310.png"
+hash = "1163914c7de1f60ecfd64f6ba6efa8b99ee8a429f167682ff75ac54e1bed335f"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/311.png"
+hash = "b9cea9b64cff6283e14deaa71d2f609cb2366375d38eba574ef133f389bbd263"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/312.png"
+hash = "b484d502cf19d0f925ad778099b826005e4619f4daf5506072a0812bc225bd10"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/313.png"
+hash = "0ee95b7088135b53476855b1ba9d16e4e133570c2ccd5d9980b68584c3b7a3c8"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/32.png"
+hash = "be656e5eca272e8dc09af808f62085fc06f043c1a0aae0a24e5853829168f0dd"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/33.png"
+hash = "a33b9fc38313222cbc5315e8fbf33541558465bd202ad159b7e212369326ed69"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/34.png"
+hash = "5f45de9b01c2fb43fc4cb33469d6c33b9f469caa80e99c6d1bad39ec92a598fc"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/35.png"
+hash = "b7025e4e280984292553506ea8819f35c58083a99bf6ee6149da9ebff9f5d345"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/36.png"
+hash = "a3a23be594ffdfc453a4143142007d3345a0601bda0d1ec1e4246aa7a3879492"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/37.png"
+hash = "980e62963d3d0a300563fbc4b4d3cb70c784c14368a829cb7d750f7044499e89"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/38.png"
+hash = "124058b9c5f9a03fcef590290d8bf172c070ad892c186fad7b6d4b4c9679cd56"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/39.png"
+hash = "b8e73146fcc37e93c353119076784fb1c6f60dd87e8ab35384ec778783039a95"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/4.png"
+hash = "04910395eedfed71e689efb361923afc5b2968dffdf1f21a9f9d26e9f57f0c89"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/40.png"
+hash = "c84d8780bc9a27f004929f7f1cab6aaabe93b56ac9092912550cb252427f917d"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/41.png"
+hash = "e6875bfff0253eec0ef0a9866dbe839d3ff1cb64ccd63920379cda93dfd1a4e1"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/42.png"
+hash = "dbbe3e8db0aeaef2a5b5e617f941415a23fecff1223f3bfbd7b28957043304dd"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/43.png"
+hash = "25c6a0e8e9d9e76c69112f5700c7c539845afc13ebf099ee025ecf1e003eed3e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/44.png"
+hash = "ed25bac59d1375133e3dc9854f7a7f9b995859cbb8ade0a043a3544fedbfd43c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/45.png"
+hash = "6006eee678bed9affc41e5f155231b551bbd84a04843738be87ff398e59146d1"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/46.png"
+hash = "7860d2945d978f79cb80ef7b7fdd850fea415eea77cf28fa231cab7a3d23ea23"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/47.png"
+hash = "71094e02ff32befd1dbcbe1f959860b06d468d472da0718ce9b226e7479c8f7c"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/48.png"
+hash = "8ce82f743280cc6bae9509d2cb65a6439e63d3f76ac12ab630663914f2a83e6a"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/49.png"
+hash = "f7cf0d030bf88dfe7399b2c65dc2de90970d728fdc7c1a662db55a5707ceacc4"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/5.png"
+hash = "8ad3ace8ee5ee4d6a83b0c1cd6b6c256b7a45890551163f1deea4b024fb697af"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/50.png"
+hash = "4ee7357a97654e35a322d1d8b9027fcbb4b2293a33b058412a52d20d16c3110a"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/51.png"
+hash = "d399ed88591c8eb2be3b1e6ea22eb24781a0c866856e3cb6ea23da6b866ed765"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/52.png"
+hash = "f6f2b28e295042a0e0da775e392b6dc7c1028e860cc60eedd662c957124884cd"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/53.png"
+hash = "f1f3f38115e229a31671f7f848104c44f9b375d321e681e8b5762c1a48442013"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/54.png"
+hash = "d07926224bba99a9a63db74efa58e2c38fd251b79f80361946300dae17ccae73"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/55.png"
+hash = "cc5d81d08947ab46c55902125d3c7cc2d9c6dcfa9592f659109df77df18e5a4d"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/56.png"
+hash = "e97a5bca0179f8e5903cb3f5e4af8c2f4c04990bfed0425d465b3418f06099a6"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/57.png"
+hash = "d75ae02dde9f02a9286f8d5b907c609d56092d839c56cfc69374b4978cf2e9ef"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/58.png"
+hash = "6da79c56512b307e18729a0622bc6b79e1cbf6d7e72670842f4bcc56038901b8"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/59.png"
+hash = "ebf152101a1894837692f12afaedd5cc11851e4b00b5a532bf8fb67422c8bca5"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/6.png"
+hash = "5886341ecaa6aef5b9579dcf6449d8d60103736fc3a6aed3293007efcc3d03ad"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/60.png"
+hash = "fae940825f2615f3402d4578a9254da808599dda9d937a83e97eade48c253e1f"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/61.png"
+hash = "b414ef7263bbaaf86bf970da3c23e8ba57061bc39c61459a01c863fa20249c9b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/62.png"
+hash = "c0d8edd1a6ae7dda2efb4829c449246a179df67ea0ef24f12de89a3b5b75de68"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/63.png"
+hash = "2b171beeeac330ac6b5013eae52a7086c87381d3d1a1d4fe11f2878e8cc84456"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/64.png"
+hash = "885a1b31a504163e08f0c83115af82064b4a6248b8f9deaccad89c37228b947b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/65.png"
+hash = "98b55c1cce731fe816a884fcd7505a34eea74d8b65377c6a897156b70f795741"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/66.png"
+hash = "53145fe753bd8cb504e6993006004bcc8f95aeba3ae7b5f5c06d3bda7917b1d9"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/67.png"
+hash = "54ed3c6d4712152f0431a83b83bf430d85aa52c4ca0622807188aec3f3243c2f"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/68.png"
+hash = "2fff5bc0874343eb818fd621123863b3956d462fbd2277dfc2b3cef92b93fb13"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/69.png"
+hash = "50d1010fa0fae7de125f2394df12df04967d4276f0da17be7d384435f7a95b02"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/7.png"
+hash = "8a1f0e8a9e3b8f9652c079f3a6c54bee3efd779d0d966f0ad84c04e9f22f699b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/70.png"
+hash = "deac71d0ca3016895dee385c990ae0e9719a464501f74bf6d58d9cbdcb51daa3"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/71.png"
+hash = "7639feb60fa6cfda0bde6748c6a0df7ce324be2c1cec52a0fb59396829a23ec8"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/72.png"
+hash = "9a0c000d76b70373ec52f3407eac1ed9e5d550f32ea7cf661a829f22ca087506"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/73.png"
+hash = "35d2615c4830d64928bab81b65e19d21c3256272b33342b4dbac691d9165a3fb"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/74.png"
+hash = "8c5aa8e24b84a71b63c8c024168c1d25b2ad29451a7ba978cf793881b4fc91d4"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/75.png"
+hash = "145f420774af7bad72d8df337c10d8b34c03706d6bafe72c61f0845c29561260"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/76.png"
+hash = "11ac1dac76d66fec5a6e8f0f658c4709378dd3e949dca74dcedd6819824b4695"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/77.png"
+hash = "95d5fa48af7605323ba5f8f599f3aa069d03c303624115ed460878ce3b255bd0"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/78.png"
+hash = "79df149c0bb236f3d38a072331a7fdb3b6697eb9d5228c0c9dcb1394eb4d5132"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/79.png"
+hash = "7e800e7753db336cbee557034e7e4fd26aad5f9fa91c2b0e392d371fe676c703"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/8.png"
+hash = "49aefa71bf853b0237790b44a8f5ad8fc8661dfad8539b39ff33db7fe5346525"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/80.png"
+hash = "8b182634741b70340afd8fd7e3a29463ba2798d337c8b584081e1e5d23c240c9"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/81.png"
+hash = "175476decf610b46535f3f84330ca6f994a08f84d81aec72133b5e48d0eca2c1"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/82.png"
+hash = "de5cf65f5939a9205e76ebebd22bcb42c4805b2da1df5992de945a1f2b0798df"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/83.png"
+hash = "e694a8ddccb7d3dfc3a70aaaf1694e9364f4b4b2988275ed84f36a3ea0e2ae06"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/84.png"
+hash = "3a173efe69ad587f7f243252118ee89430cb1e27e76751bb31924b1b08e0aa10"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/85.png"
+hash = "75344138e5b523e8156811c0f929ce72107cfafcf102a0e99a7c68b82acb7524"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/86.png"
+hash = "2522cf55264c18a2fc4c822f0d7d600e436e883dd0a6c6f5f0a62d82ea196fe4"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/87.png"
+hash = "01fe352fe88c016b6944c73cd8204c7fcb70cbb9a5c98de2137aa6e461ba5a0e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/88.png"
+hash = "08959be1e5d34d473891b30a1a3d2f30f11b52f676d090b706789d03edeb17ff"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/89.png"
+hash = "59515d512d21b662eb9ebb8ab4c060f96e81b7efd76dc6427d78c4e39f9a5e81"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/9.png"
+hash = "0dbf126371860c3fc3be325119a862029f9ae56a93e289dec916e93f4899dd10"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/90.png"
+hash = "8657005794056f243da3283804c2eff32081a37f1d3085cd59f51d171ea60b0b"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/91.png"
+hash = "aa7561aac81fc1c267cae5c2000d5b3814766fc6943c20fd1b11a3ba4164d2b1"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/92.png"
+hash = "c08b8399c4864d093cb81b12f42153fabe33b6b47519c4d4aa47d9e86273c2ee"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/93.png"
+hash = "a0629feae63e39029a8206bdb6b50296c4b439ecbda99ffb1b49a9dc59b33c87"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/94.png"
+hash = "5d8416186785b3b8aedb989e8487bbb4f11db690e961859afc1569d25a3c165e"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/95.png"
+hash = "9a9dd1618f44376742242fdbc36b77655b247e78c8af1d4212d6b29d04041939"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/96.png"
+hash = "c6e383652a1aceb0be00b6547c82649bf11b7fc227aa1df45f395135f1eb8d37"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/97.png"
+hash = "f5e80975c7bd991da482e2beba21164014abb719947aeae206db1b509dddc167"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/98.png"
+hash = "5532ef0b2f0af2846430a3259940712ee4a0baeb083914784b13f53a7260aa1a"
+
+[[files]]
+file = "resources/gigatardis_animation/frames_main/99.png"
+hash = "3b124ecf5bb147d878a68c95143223340c5f771eb501a25006dc03e618e55eb9"
 
 [[files]]
 file = "shaderpacks/BSL_v8.1.01.zip"

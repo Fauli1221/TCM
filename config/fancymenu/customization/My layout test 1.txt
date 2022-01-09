@@ -1,0 +1,146 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = gigatardis_animation
+  action = animatebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = bottom-right
+  x = -23
+  action = movebutton
+  y = -78
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = element
+  orientation_element = vanillabtn:400346
+  x = 0
+  action = movebutton
+  y = 21
+}
+
+customization {
+  identifier = %id=400382%
+  width = 59
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = element
+  orientation_element = vanillabtn:400382
+  x = 0
+  action = movebutton
+  y = 21
+}
+
+customization {
+  identifier = %id=502382%
+  width = 59
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = element
+  orientation_element = vanillabtn:604382
+  x = 0
+  action = movebutton
+  y = 21
+}
+
+customization {
+  identifier = %id=400298%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = element
+  orientation_element = 3b69f2bb-3c53-4c0e-9a34-1b27bd8cfe2b1641629094844
+  x = 0
+  action = movebutton
+  y = 34
+}
+
+customization {
+  identifier = %id=400346%
+  width = 59
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  x = 2
+  width = 100
+  actionid = 3b69f2bb-3c53-4c0e-9a34-1b27bd8cfe2b1641629094844
+  action = addbutton
+  y = -109
+  label = Join Server
+  value = mc.techtastisch.de
+  height = 20
+}
+
+customization {
+  showname = true
+  orientation = element
+  crouching = false
+  orientation_element = 6d37723b-c000-4737-9c6d-99485db297bd1641629481665
+  x = 43
+  slim = false
+  actionid = c4656fd4-c193-405f-bd83-e144c95c67dc1641629437170
+  action = addentity
+  y = 82
+  scale = 30
+  playername = Fauli1221
+  parrot = false
+}
+
+customization {
+  orientation = top-right
+  shadow = false
+  x = -88
+  actionid = 6d37723b-c000-4737-9c6d-99485db297bd1641629481665
+  action = addtext
+  y = 5
+  scale = 1.0
+  alignment = left
+  value = Modpack Creator:
+}
+
+customization {
+  identifier = %id=950950%
+  orientation = element
+  orientation_element = vanillabtn:604382
+  x = 0
+  action = movebutton
+  y = 42
+}
+
