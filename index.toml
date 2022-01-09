@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "a3b39e94523b4e4b0bf40b5bd6d900342d153bec98910f9c174c1cd2e436dd69"
+hash = "1c6b6d6958e1fd8d9566e384d1fed58958fdc0a5d8c557e52793f75887148d99"
 metafile = true
 
 [[files]]
@@ -749,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "70d4d3ba0aaaa4b059fed16281b44269c59ded6d93395a96165792378856f555"
+hash = "f2d9181c933c25040808977a4ba1997d6a613497b626c7d1eb15f943e07e2d94"
 metafile = true
 
 [[files]]
