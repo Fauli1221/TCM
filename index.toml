@@ -229,10 +229,6 @@ file = "config/minelp.json"
 hash = "412c78a96affaf83a1fc15cce596652aba0c534bea3e98b7f1c8bd3f5685e99e"
 
 [[files]]
-file = "config/moderate-loading-screen.json5"
-hash = "9c32e589e29249fe4f1212eb0013980cc7beb6808c3cc0bd47d03e98aa73749b"
-
-[[files]]
 file = "config/modmenu.json"
 hash = "9086efbcd48d49ecc016990a1d1978f8bb1fefa5e2d4a744b49ead4ca0fed41c"
 
@@ -351,14 +347,6 @@ hash = "564685080cb00dd5460e21d3dc511372258acb033c47cf0c41e1c6f499216022"
 [[files]]
 file = "config/shulkerboxtooltip.json5"
 hash = "dd2ee59d8f82617617d820329b19ee6dd0ae4200b95fae9ad73ff7a5bb6c3af6"
-
-[[files]]
-file = "config/slightguimodifications/config.json5"
-hash = "c44249c87c48216b9ce39bd233b88e2a5e901fb7589b54cee79ac566bcb0c018"
-
-[[files]]
-file = "config/slightguimodifications/cts.groovy"
-hash = "4a4f08a543c797bc2951182b7fe0d5eed05c275abc97efbf1ef77bc3d6a5e5c0"
 
 [[files]]
 file = "config/smoothboot.json"
