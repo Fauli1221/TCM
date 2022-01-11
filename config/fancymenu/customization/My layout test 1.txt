@@ -48,6 +48,15 @@ customization {
 }
 
 customization {
+  identifier = %id=950950%
+  orientation = element
+  orientation_element = vanillabtn:604382
+  x = 0
+  action = movebutton
+  y = 42
+}
+
+customization {
   identifier = %id=502382%
   orientation = element
   orientation_element = vanillabtn:400382
@@ -136,11 +145,14 @@ customization {
 }
 
 customization {
-  identifier = %id=950950%
-  orientation = element
-  orientation_element = vanillabtn:604382
+  orientation = bottom-left
+  shadow = false
   x = 0
-  action = movebutton
-  y = 42
+  actionid = 0e1c00c6-e5a0-4dea-a1df-1dbfa713ffe31641917801979
+  action = addtext
+  y = -9
+  scale = 1.0
+  alignment = left
+  value = Techtastisch Comunity Modpack V2.1.0
 }
 
