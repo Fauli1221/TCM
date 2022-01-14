@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.toml"
-hash = "d451a98db975e57601773c36027b28cf43457728f1d616d28aebcb9db5eff6d7"
+hash = "d293e1252a033ed4c4c663ac6a0d3c63921610a9355c8fbb1aa058e9e1443dc7"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "d8e729655032d1bcf3ac29c9f7cf482ff2e54f57559acfdceff0ce599780054c"
+hash = "ce935bc0021f960f2737b2e0fc41ab1d953ad5e520dffc992793e0cd69087d84"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine-little-pony.toml"
-hash = "81fe690385f9d09f20fff0f67e749f6458a02eb23becfc30c6fb17e684e8a94a"
+hash = "0bf2cd01e90981449c9eff329dd30da79185068004ee4371da931ef85d6ef2ab"
 metafile = true
 
 [[files]]
@@ -715,12 +715,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "d9aee3833ae4d543f820fda7f7989bee36b34556d031e614b2c4ab7e82620ff2"
+hash = "b305736c856abcac41b254d2a8b0c49b639276abcca6586ee4f5c07418b82016"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "55f39b31f37997e41e0578693103e50cebc79d4eee509801479cc50a75eeb347"
+hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
 metafile = true
 
 [[files]]
