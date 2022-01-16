@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+hash = "7bbfbed46e2604c84df612e950efed8ba7fce4ed6f6afd97c5f07cc5a2f7cd2b"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "aff1749fd5ad042273afed4b544b8efa449b31f5eef4a5dcfe7f4e7673d4abfb"
+hash = "14796c2bfdd811f291f378257cf751248f19dab91c4c5aa802c1bd4b9381e7d9"
 metafile = true
 
 [[files]]
