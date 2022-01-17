@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-api.toml"
-hash = "132c049eb82f1780ec091ea5c45c50350570fd6b9c63ee5fe3c31d686df4d4c7"
+hash = "c783548b75be657a06f6f7d368f3fa221585ba07028aaf680b1e8c95030eb43c"
 metafile = true
 
 [[files]]
