@@ -669,11 +669,6 @@ hash = "e1d8ca23cda8a8e4efb3027916a7574d55adb3d62a01b5a8e9e4e2f5a47b5838"
 metafile = true
 
 [[files]]
-file = "mods/no-telemetry.toml"
-hash = "e8814a83e235e82705f7fbccc5f91c8b1a0b679af439e38ab48f0ddafa623db7"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.toml"
 hash = "ece86afbddf24a56ce2c90305612b4c6f21bfe5cc9d61cfe95e6b7193157f4b6"
 metafile = true
@@ -681,6 +676,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.toml"
 hash = "fd1409e7804d658a0144b903be9db3304e7766c0d2f784d3222c211f53c58487"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.toml"
+hash = "4a7581b733f58a5188e2dbd0bd6098150c9639cde672a9ed2febcc9087895259"
 metafile = true
 
 [[files]]
@@ -721,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
+metafile = true
+
+[[files]]
+file = "mods/tiefix.toml"
+hash = "90bc891202a1ab6fcdaa8833f9482f918887dcf9829aaf21505578d00583bc79"
 metafile = true
 
 [[files]]
