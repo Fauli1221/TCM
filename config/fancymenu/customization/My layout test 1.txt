@@ -153,6 +153,6 @@ customization {
   y = -9
   scale = 1.0
   alignment = left
-  value = Techtastisch Comunity Modpack V2.2.0
+  value = Techtastisch Comunity Modpack V2.2.1
 }
 
