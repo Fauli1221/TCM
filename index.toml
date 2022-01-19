@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-api.toml"
-hash = "c783548b75be657a06f6f7d368f3fa221585ba07028aaf680b1e8c95030eb43c"
+hash = "bbc23d8aca235565f5423868fbc3b8e378d82a11eec8e9b9d20d1f716ebc6498"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "ce935bc0021f960f2737b2e0fc41ab1d953ad5e520dffc992793e0cd69087d84"
+hash = "ea322b05f5c7c7cdce4c82e887e58e4238f51fc53d4a57a2276943db63f08afa"
 metafile = true
 
 [[files]]
