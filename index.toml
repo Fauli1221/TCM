@@ -97,10 +97,6 @@ file = "config/fancymenu/animations/gigatardis_animation/animation.properties"
 hash = "885604e2c7e17020dd21605edd87608831a1ea1eb1bc6aad7cb561bf0b666e6d"
 
 [[files]]
-file = "config/fancymenu/buttonscripts/mainmenu.txt"
-hash = "4505c02eb63e529f3efe085ef44d6f10aa84b9d6c0fe8eccdcfdbafe2d9fa918"
-
-[[files]]
 file = "config/fancymenu/config.txt"
 hash = "de4f15011bc89ba053f6c43aafc35155ac99bd21b831498a63e8da2040ae2c51"
 
@@ -110,7 +106,7 @@ hash = "0791802f8643f6ead2dbeba30abced98af74fd43205705e308c795cd4e565b28"
 
 [[files]]
 file = "config/fancymenu/customization/My layout test 1.txt"
-hash = "acc42f7fd7e816a12ccd9d0cfc487c013aea939140e7d08a4c8fc03a4f05a596"
+hash = "fceaced13eb21ef8ce1215ff12d1edc089e00d7a14631182c579cbcd161e549e"
 
 [[files]]
 file = "config/fancymenu/customization/escape menu.txt"
