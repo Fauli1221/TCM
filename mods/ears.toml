@@ -1,15 +1,15 @@
 name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
-filename = "ears-fabric-1.17-1.4.4.jar"
+filename = "ears-fabric-1.17-1.4.5_01.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3586/76/ears-fabric-1.17-1.4.4.jar"
+url = "https://edge.forgecdn.net/files/3616/906/ears-fabric-1.17-1.4.5_01.jar"
 hash-format = "murmur2"
-hash = "3051093935"
+hash = "1785477483"
 
 [update]
 [update.curseforge]
-file-id = 3586076
+file-id = 3616906
 project-id = 412013
 
 [option]
