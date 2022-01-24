@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.toml"
-hash = "5271b88d8a021108566778ffcf47f4db6aa69c96ff714704697537be0eee5fbe"
+hash = "068df9771974522251fe74689af8992036ef110fedd65323db908a9df12f15ec"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "42371b3236cccd35dd7d8e8ca34375b39a37bbf14274fc7c8008092afb0f1bcb"
+hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "23c3cf6a3287d510c0b735ac17e17c1b7712b74423c83f9f5680e4216d990886"
+hash = "b73e9eb7c86a71caf785b724914b8955395b5553e87d39eecdce2eb530f73b5e"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "22609ad51f476a0455b1a228fcf76b3ff898722e510e10a2868262d42093875a"
+hash = "9f0aa7d860e433014f3d4a75a163b43e8af469f8c825b9bbd607ac4711b988c9"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "a0b0d6b6e4d8ec2a80c60665ae6f4d2a7d0c3b7dbab75ef9f03dbf616a5b17cc"
+hash = "c18f62891b78ce9b32f26a7900f219c982000d5798a1e95a6f310f23a047f54b"
 metafile = true
 
 [[files]]
