@@ -54,7 +54,7 @@ hash = "5d478c10db98f2333e2c517395c56c9f2463ab7f524a71a2469f0c71d154a32f"
 
 [[files]]
 file = "config/customsplashscreen/background.png"
-hash = "044eb53534a9406b41a8606422ad6b651ab1162d738ed58bc948912b65444672"
+hash = "05712ca615d139758c9f31d02fe55ca75589c3f6696db39279f3ab2f4b601c31"
 
 [[files]]
 file = "config/dashloader.yaml"
@@ -105,8 +105,9 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "0791802f8643f6ead2dbeba30abced98af74fd43205705e308c795cd4e565b28"
 
 [[files]]
-file = "config/fancymenu/customization/My layout test 1.txt"
-hash = "fceaced13eb21ef8ce1215ff12d1edc089e00d7a14631182c579cbcd161e549e"
+file = "config/fancymenu/customization/MainMenu.txt"
+hash = "50d2ef315cf2d08b9403edb0ead356b0d2373046af1c105395da496bfca54987"
+
 
 [[files]]
 file = "config/fancymenu/customization/escape menu.txt"
@@ -134,7 +135,7 @@ hash = "9cee147fc2141820fbbd1db1d43ea0f14e6a265ba1b8958d2e57e8acadfd06bc"
 
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
-hash = "2e4d40478c0f21c12c3b1065659ef05c592deee93982ec4abac611145be09468"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fast-chest.properties"
@@ -541,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "14796c2bfdd811f291f378257cf751248f19dab91c4c5aa802c1bd4b9381e7d9"
+hash = "3db583e3c1512decd0e542ffb26194a9cb6120bdf56b2825b0d5d800b4e58430"
 metafile = true
 
 [[files]]
@@ -566,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "23c3cf6a3287d510c0b735ac17e17c1b7712b74423c83f9f5680e4216d990886"
+hash = "b73e9eb7c86a71caf785b724914b8955395b5553e87d39eecdce2eb530f73b5e"
 metafile = true
 
 [[files]]
@@ -681,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "1c6b6d6958e1fd8d9566e384d1fed58958fdc0a5d8c557e52793f75887148d99"
+hash = "ae4ba5b9ad01410d986884219b5cdf026e7cfd19ed4d51f0a59059cc0a01a67f"
 metafile = true
 
 [[files]]

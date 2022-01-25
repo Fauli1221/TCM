@@ -83,7 +83,18 @@ customization {
 
 customization {
   identifier = %id=400298%
-  action = hidebutton
+  orientation = element
+  orientation_element = 3b69f2bb-3c53-4c0e-9a34-1b27bd8cfe2b1641629094844
+  x = 0
+  action = movebutton
+  y = 22
+}
+
+customization {
+  identifier = %id=400298%
+  width = 100
+  action = resizebutton
+  height = 20
 }
 
 customization {
@@ -92,7 +103,7 @@ customization {
   orientation_element = 3b69f2bb-3c53-4c0e-9a34-1b27bd8cfe2b1641629094844
   x = 0
   action = movebutton
-  y = 34
+  y = 45
 }
 
 customization {
@@ -107,11 +118,11 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = joinserver
-  x = 2
+  x = 1
   width = 100
   actionid = 3b69f2bb-3c53-4c0e-9a34-1b27bd8cfe2b1641629094844
   action = addbutton
-  y = -109
+  y = -118
   label = Join Server
   value = mc.techtastisch.de
   height = 20
