@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
+hash = "7eb94fe0deef8d92660d4309ba7557d63117b60299510dca8a65e0e6036d6c61"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
+hash = "f582ab93d5ca761f657f1d1528a0c10f52b2ed79e42f577a2350299ad8a291bd"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "c18f62891b78ce9b32f26a7900f219c982000d5798a1e95a6f310f23a047f54b"
+hash = "0fb4ed3155243518a5690d4cc7f0d6d9bf44c4f3c5fc502853c82cc25a174ca6"
 metafile = true
 
 [[files]]
@@ -706,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "b305736c856abcac41b254d2a8b0c49b639276abcca6586ee4f5c07418b82016"
+hash = "8c95fbf4fa91da74a1375e6ec69a1a3dfc25fc2a033da9be618d1e97d6619c18"
 metafile = true
 
 [[files]]
@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiefix.toml"
-hash = "90bc891202a1ab6fcdaa8833f9482f918887dcf9829aaf21505578d00583bc79"
+hash = "26d2dc9abe46668f6b884bde739d0faae776b956e87f2c13f253fdf1aa919083"
 metafile = true
 
 [[files]]
@@ -731,12 +731,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "2f5122da266754165a5aad47cf5f7e0ad7c0616fa925e603b8343324d7ed392e"
+hash = "d88b50f1a939544b3648d68a6534ad1e7da0707c4239b2738695a544b5efd285"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "6973babbc30e6bcd2a4eecfab351fa061c00e3a172443b03b6b97445e2c96c87"
+hash = "c4793571205017851c8cc543ab40d1d727b563559070520c1659d9cf023fb27c"
 metafile = true
 
 [[files]]
