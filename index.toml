@@ -421,12 +421,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "7eb94fe0deef8d92660d4309ba7557d63117b60299510dca8a65e0e6036d6c61"
+hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
 metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.toml"
-hash = "2b4360e14dc5f3137c481ddc682a3c6d0d5d3162222c5f306ee915e25ca5eae5"
+hash = "c375509df57d1f34316b22e90ea0d233dc744d4e453b938d592d835e1463d8e4"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "7bbfbed46e2604c84df612e950efed8ba7fce4ed6f6afd97c5f07cc5a2f7cd2b"
+hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
@@ -511,12 +511,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
+hash = "e7844089669642da016e8899389aec7de47a7a83e48992da8af1ff77c97fffbb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "f582ab93d5ca761f657f1d1528a0c10f52b2ed79e42f577a2350299ad8a291bd"
+hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.toml"
-hash = "bd07e1ae9c7b518c6aa1bcbd47609ac6ee398bf94cfe2dfc4f96bdb8a3536e95"
+hash = "4b93c83c3b1fd16840ed5f89c83d5257c1514ab48aefebe577c7a612bcd3f794"
 metafile = true
 
 [[files]]
@@ -541,12 +541,12 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "3db583e3c1512decd0e542ffb26194a9cb6120bdf56b2825b0d5d800b4e58430"
+hash = "343221bf5a8d2e935bfe32726a3c34c236bee2195e2ca040fdc5842687ac6c4d"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "856759b47ba14018cff8917f8d1785df84d2acf2730b8409bc1dd4dfb578748a"
+hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "b73e9eb7c86a71caf785b724914b8955395b5553e87d39eecdce2eb530f73b5e"
+hash = "55d243a58d673cf935d17ceb1a797840ba5fb15a724a75224dfc3a9d78c4e2fa"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.toml"
-hash = "4dfbc6d2a8716a65c5ff3418f7af899bb1515c9451a18c98d19c03be757701e3"
+hash = "3270a2a99266995519fcbd8bcec52ebf26d060ed02dc49cc2577f7350acbd33c"
 metafile = true
 
 [[files]]
