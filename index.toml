@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "e7844089669642da016e8899389aec7de47a7a83e48992da8af1ff77c97fffbb"
+hash = "40860c6ac8115a772af0e960f646fe166bcc772f0116be9c298ade157580f0ab"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "343221bf5a8d2e935bfe32726a3c34c236bee2195e2ca040fdc5842687ac6c4d"
+hash = "0342789c6532b65eb5392f1275ac868fab3fcc560cb01952cab3cc5b1ee621a5"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "55d243a58d673cf935d17ceb1a797840ba5fb15a724a75224dfc3a9d78c4e2fa"
+hash = "4337e7b158d97979b901c979f50853f86b4e768d6eabe0eb95dc30a02117504f"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "9f0aa7d860e433014f3d4a75a163b43e8af469f8c825b9bbd607ac4711b988c9"
+hash = "f42deb233157ecb513648cdb151252c5bc36e9fe775942473572a2f7a506be24"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "0fb4ed3155243518a5690d4cc7f0d6d9bf44c4f3c5fc502853c82cc25a174ca6"
+hash = "d24dcd2abbfa5c0564e6ac0f38ab70f95b5c3e088f7c758e251efcaefd59a8a1"
 metafile = true
 
 [[files]]
@@ -731,12 +731,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "d88b50f1a939544b3648d68a6534ad1e7da0707c4239b2738695a544b5efd285"
+hash = "3afd60c24d8dd165d63721878ecd774711aacec7604720464205877c0bf72d18"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "c4793571205017851c8cc543ab40d1d727b563559070520c1659d9cf023fb27c"
+hash = "48a11d6543ce760db3b00e58234f29aece5498bab9cdf69253b0236e9569de92"
 metafile = true
 
 [[files]]
