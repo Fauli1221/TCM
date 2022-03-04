@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "0342789c6532b65eb5392f1275ac868fab3fcc560cb01952cab3cc5b1ee621a5"
+hash = "3da5391aa9610e81ca877ae73ea4b4071810147375e290e976f24de25db31700"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "4337e7b158d97979b901c979f50853f86b4e768d6eabe0eb95dc30a02117504f"
+hash = "77130a936de7b69c633f842b088137b7516dbd1ff492ec88439ae7483207ec8c"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "f42deb233157ecb513648cdb151252c5bc36e9fe775942473572a2f7a506be24"
+hash = "b7df361281a1d535780ddbf5bd80947b5e53ac50437a4bf0e7e3f4f7f7fe16af"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "d24dcd2abbfa5c0564e6ac0f38ab70f95b5c3e088f7c758e251efcaefd59a8a1"
+hash = "51dd76cb8c26084de84c367f9919bc8289db553a371e3adfe1d99c81feb0c08c"
 metafile = true
 
 [[files]]
@@ -731,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "3afd60c24d8dd165d63721878ecd774711aacec7604720464205877c0bf72d18"
+hash = "881b48bed22c56e616e41c68d557e0be25ba15edfb5bbfd1caa2dbeca587a04f"
 metafile = true
 
 [[files]]
