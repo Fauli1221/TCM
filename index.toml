@@ -365,6 +365,14 @@ file = "config/waterdripsound.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "1a642a5ef798f6d3470c3416e85b71e5a1b99e483b6586b69a4a58eac60d2ed7"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "d0498fb9f0abc113282e023f363e5638acd8056b9a0808de892cca63edd811a5"
+
+[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "94f7fc7719381bc6e474b6df30840d2aab0e8c4ed80d2f6191cf1b5b7d92be3f"
 
