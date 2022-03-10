@@ -468,6 +468,11 @@ hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
+file = "mods/colormatic.toml"
+hash = "a87e3803dd683d0ed598b88da0142ae7ab1eda7565530850cf482e1e1a2e9035"
+metafile = true
+
+[[files]]
 file = "mods/completeconfig.toml"
 hash = "ee0e74082d6efae74eb702da33b2b798557ee91014f2c08b68afc6552d64820b"
 metafile = true
