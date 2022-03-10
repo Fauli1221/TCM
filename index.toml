@@ -106,7 +106,7 @@ hash = "0791802f8643f6ead2dbeba30abced98af74fd43205705e308c795cd4e565b28"
 
 [[files]]
 file = "config/fancymenu/customization/MainMenu.txt"
-hash = "7705a90e516ae74601dd01a925a77b9ba2fa2b3958305ed9ccbc268f5e8b84a0"
+hash = "d250aaa5d9bb7010004c5c6cf86c0cc28ee86662516aff34921ef26e8c11fb9c"
 
 [[files]]
 file = "config/fancymenu/customization/escape menu.txt"
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "0342789c6532b65eb5392f1275ac868fab3fcc560cb01952cab3cc5b1ee621a5"
+hash = "bd808b0b4a43764bd80ba9b9363ebcc14e59ddc9a9386070abbb1d1078aaa0b7"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "4337e7b158d97979b901c979f50853f86b4e768d6eabe0eb95dc30a02117504f"
+hash = "8a39284f5080f6610c1dde6a9f34037bbac34c453d488c91ce072c0d6a04e57a"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "492ccef1b220ed135344c864959b560fcedb53a40d2c828af92c2ad59d873512"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
 
 [[files]]
@@ -639,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "f42deb233157ecb513648cdb151252c5bc36e9fe775942473572a2f7a506be24"
+hash = "b707de737cc9d7a89bb85a0105478c2d01617c0eee8d5710583afa435b6f7af0"
 metafile = true
 
 [[files]]
@@ -659,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "d24dcd2abbfa5c0564e6ac0f38ab70f95b5c3e088f7c758e251efcaefd59a8a1"
+hash = "48d7d8ddf473e8877ac11527859219badc30e0e9732200100ef206bc7d08cb65"
 metafile = true
 
 [[files]]
@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "3afd60c24d8dd165d63721878ecd774711aacec7604720464205877c0bf72d18"
+hash = "130cf1bf52dbd92839a20476f92e47b2784ae487202a43fe7be6bcba85da6aa9"
 metafile = true
 
 [[files]]
