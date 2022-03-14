@@ -453,8 +453,18 @@ hash = "eef7bb485e3256f64c611371f1ae5df7606929cc22b7a9d510c8c3adb542bd2d"
 metafile = true
 
 [[files]]
+file = "mods/chime.toml"
+hash = "544ac284550a4688bed6d6a5a004b8116acdbb3d01ef29212c14625455f9b5b8"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.toml"
 hash = "5dd6158497e03ea4566be3ba336e8af3b4fd24af7b9f553f5ecd08293b333955"
+metafile = true
+
+[[files]]
+file = "mods/clear-skies.toml"
+hash = "992b8f8dcd5e6d5f822c3974e7525a166ca8e41a68e8d308c6a89b0f6c122f3f"
 metafile = true
 
 [[files]]
@@ -525,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.toml"
 hash = "40860c6ac8115a772af0e960f646fe166bcc772f0116be9c298ade157580f0ab"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.toml"
+hash = "8b050767d9f30e0851bea37d9a3db0f7603ee1a044a503c48e282f7cdefd7a0b"
 metafile = true
 
 [[files]]
