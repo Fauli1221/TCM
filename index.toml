@@ -414,7 +414,7 @@ hash = "07cd64bbec9a770ef7075c7b59f8d87b960e81e7e62859788b4f7dd1d288ea59"
 
 [[files]]
 file = "mods/advancementinfo.toml"
-hash = "675d82969da304f069ee676cbf3b1872f70ffae3a27ad613ff91ddf02d8ae8ac"
+hash = "03cbe0e1d8149d327463ed4119dea934fdc479b33740da7a3d704ec4673a1a06"
 metafile = true
 
 [[files]]
@@ -424,12 +424,17 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.toml"
-hash = "99d0687e8d1da22de0944a12724b8407000307b1c73c54f531f5298cfa38821c"
+hash = "3b6f2a99315037c1094b19971da725ed9d7a985de1bda3bff6c901ff7980ebc8"
 metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "ffbaf2c501e3b3c1cc279b29b205eb04a5f79dcd4891cd584b6e00c5c082dc9f"
+hash = "75dbf362cb9b4c641d76a95094e572bfedf793da1df7825b55c89980b2f93024"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.toml"
+hash = "4c913ad68a6db73c96798e9e2282bdb11baddd70df6bde85adf31ec4643ba084"
 metafile = true
 
 [[files]]
@@ -444,17 +449,12 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "7002cac81cea34a25344d4022b412a5e8b2be10e183f17d9390b2341dec5105b"
+hash = "7f95a96f2bb2d043ddfe58ce3483326a64a9ff262b6f243f98d6aefea8999076"
 metafile = true
 
 [[files]]
 file = "mods/capes.toml"
 hash = "eef7bb485e3256f64c611371f1ae5df7606929cc22b7a9d510c8c3adb542bd2d"
-metafile = true
-
-[[files]]
-file = "mods/chime.toml"
-hash = "544ac284550a4688bed6d6a5a004b8116acdbb3d01ef29212c14625455f9b5b8"
 metafile = true
 
 [[files]]
@@ -469,17 +469,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-api.toml"
-hash = "bbc23d8aca235565f5423868fbc3b8e378d82a11eec8e9b9d20d1f716ebc6498"
+hash = "512d80d87b7d7be2a660ddae5450c9b44c6b553f14d413d5c494b1a5d0df8352"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
-metafile = true
-
-[[files]]
-file = "mods/colormatic.toml"
-hash = "a87e3803dd683d0ed598b88da0142ae7ab1eda7565530850cf482e1e1a2e9035"
 metafile = true
 
 [[files]]
@@ -489,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "006a14c972eaeaea050b9e4e0d024f8782c2fe44e5f7a502eb392e9aa7793bae"
+hash = "642eedf14c0875215d1d15a39ecab4b1bfcec093e43626cb002f2c890f78c520"
 metafile = true
 
 [[files]]
@@ -514,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.toml"
-hash = "8c000e075dd9149a348c7ce19d369bbd05c798f49e00ae3bfda21c961c0389c8"
+hash = "eda182596a42ee209fa9ee6bdc06b55de9363a9b661c331815fb922b9102c566"
 metafile = true
 
 [[files]]
@@ -525,11 +520,6 @@ metafile = true
 [[files]]
 file = "mods/ears.toml"
 hash = "068df9771974522251fe74689af8992036ef110fedd65323db908a9df12f15ec"
-metafile = true
-
-[[files]]
-file = "mods/ebe.toml"
-hash = "c58834af10ab46edeb4946b55f4d71cf9bced4d37aef0ee122a5a7e4e9e17153"
 metafile = true
 
 [[files]]
@@ -544,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "42532e1814e1352caa38b2e7693343266a66e343835b120a40b566ae2115d6a0"
+hash = "e2792879604eff64ba3d6427509e74f61d2d29b1318c5266dfecef0c7cb040f3"
 metafile = true
 
 [[files]]
@@ -554,32 +544,37 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.toml"
-hash = "fda9faaeaaf2f4cf9941c4df0d87c26353f800ef1418372d2d1cf7efc9dbb643"
+hash = "4f80c0c3aacfae38d0468468d628c440e825edc819e1a116a9299cdf1728b872"
 metafile = true
 
 [[files]]
 file = "mods/fabrishot.toml"
-hash = "4b93c83c3b1fd16840ed5f89c83d5257c1514ab48aefebe577c7a612bcd3f794"
+hash = "f2c762131ca796a3bbeaae4ef7e585dfeb37d5ba34dc41914c9c529534da041e"
 metafile = true
 
 [[files]]
 file = "mods/fallingleaves.toml"
-hash = "d293e1252a033ed4c4c663ac6a0d3c63921610a9355c8fbb1aa058e9e1443dc7"
+hash = "eaa7ad80b837678c93f9aeaba95a100374b655eeb77fba5eb02dfaa8230c4bff"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "bd808b0b4a43764bd80ba9b9363ebcc14e59ddc9a9386070abbb1d1078aaa0b7"
+hash = "1aff73f9b8664e37fb3302972b272672e674d6d75d3eda7f630d8fab79d57fad"
+metafile = true
+
+[[files]]
+file = "mods/fastchest.toml"
+hash = "7c5232431f0ecb22111a697d8bf0f27810db1837f484f19d7f38858b5250844d"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "20342aec4f279599c087a92f09b013a14de4ddcb77f02adbd689c0fe62c280fd"
+hash = "991dee9562bebaa802aca3a577f98dde425ef2667e5cad8877d4de351eeb32b9"
 metafile = true
 
 [[files]]
 file = "mods/hd-skins.toml"
-hash = "d01198d0531b519a58c06dd38df88eacd76ca65747203bc35c6f7a4fe058b977"
+hash = "c5f48e1b74e0540e41316068bb4aa1088dbf47335e6d27e97c7db98ffc335346"
 metafile = true
 
 [[files]]
@@ -589,17 +584,17 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "e0df87d5222af05343a3432bae50faf773df9b78f82a00f183d66b10524ad0a3"
+hash = "7215a34a544194eecb37e9bdfd9664edf21ac991f5a7b19c661e033975fe735f"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "8a39284f5080f6610c1dde6a9f34037bbac34c453d488c91ce072c0d6a04e57a"
+hash = "7fb96c80c0b52c846715115d4cd57bbb1bb367a4a406f9ad7f02a474c1200097"
 metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "ea322b05f5c7c7cdce4c82e887e58e4238f51fc53d4a57a2276943db63f08afa"
+hash = "f33f182f86eaa8e37e388ce67b87f571b2efee1eb1d357ac33d7b13c527f8f5a"
 metafile = true
 
 [[files]]
@@ -624,12 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
-metafile = true
-
-[[files]]
-file = "mods/lambdacontrols.toml"
-hash = "f06ebf9bb364a810cd7c7ac49b59b89b023bf0db97a2e115ec68462a87af89d8"
+hash = "88137e7b5f4a20e0d777013dd8b5d13e4393e8fb2dd2df7f5a2d83310804c22e"
 metafile = true
 
 [[files]]
@@ -649,17 +639,17 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.toml"
-hash = "7e2a5821351fa96e6163595a685606447d83347c3aca6e2f339bee005d1bfbf5"
+hash = "27320f93a12c279afd4e0c3460c2cef5849a8d9215b7489270950ed9f2c1aeea"
 metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "b707de737cc9d7a89bb85a0105478c2d01617c0eee8d5710583afa435b6f7af0"
+hash = "7ab3485c198013c367e6a242203f4499a2c1b49104c795576912592ac0f013c3"
 metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "3fba2888b45044b8e058b6be4ffd8fe1241eace50004b76b6576dd5e78843a5a"
+hash = "64a4b886ff13e45a06ae3714f4ec3fd5c15a1a4e0573df1cdfa35d673eec45ad"
 metafile = true
 
 [[files]]
@@ -669,22 +659,22 @@ metafile = true
 
 [[files]]
 file = "mods/logical-zoom.toml"
-hash = "647614cd2a70f5f56e5a67da2c3eef5bdb37c9ca2669fdb8fc04a722ade257a9"
+hash = "48bb5ac7bc1404169a2bd030db196f8075d8cc3a54b3ce347aa2aa35b0b3ea93"
 metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "48d7d8ddf473e8877ac11527859219badc30e0e9732200100ef206bc7d08cb65"
+hash = "82f851549ebab1e43cebc4f9de71d374641d106569c50fe160d28d1955b84263"
 metafile = true
 
 [[files]]
 file = "mods/mine-little-pony.toml"
-hash = "0bf2cd01e90981449c9eff329dd30da79185068004ee4371da931ef85d6ef2ab"
+hash = "b22f88ca2c4596b44cf7a58660035110db9d79a7f4677bc108c1ac27d346e4c9"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "113730a58c9e46dbf8b17632baf1fbafe4e24ccbb8d8b3e9898bf3f5a38f435c"
+hash = "a8a11c16b918801de839b4ee2e74ff690fba9de1b8e702df20cc01660924cfb2"
 metafile = true
 
 [[files]]
@@ -694,57 +684,57 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "ece86afbddf24a56ce2c90305612b4c6f21bfe5cc9d61cfe95e6b7193157f4b6"
+hash = "11bc71ee9a75a7b4d1c10f0c61a3f18f88e21aa92bc750e00bb879be2c3a209a"
 metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.toml"
-hash = "fd1409e7804d658a0144b903be9db3304e7766c0d2f784d3222c211f53c58487"
+hash = "a33ba9d0301377138b4f838468a14a6ef89ba92bf85c588b15a9ff04d81cbb67"
 metafile = true
 
 [[files]]
 file = "mods/puzzle.toml"
-hash = "4a7581b733f58a5188e2dbd0bd6098150c9639cde672a9ed2febcc9087895259"
+hash = "3f2fe30129b5380d43b9faeddab3a8f8cc0c289144a2457731d948fb8690908f"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "ae4ba5b9ad01410d986884219b5cdf026e7cfd19ed4d51f0a59059cc0a01a67f"
+hash = "21ad3b683bd097d77d6f29b0de583ddabcab863709f716132eb739a629811f4d"
 metafile = true
 
 [[files]]
 file = "mods/replaymod.toml"
-hash = "85a07a0fc505a0e39c77a549a8392ad9951902d0870df98632a2ecb3f181b4ff"
+hash = "db8bd7892afdbb059c73003143699894bfd1356cdb5ddf7db146b203f9b89fc3"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "c5132de20a942b83896fef588478ed1605e6dd3738c09d476e3166abf16cbd43"
+hash = "4fc690bd25cf8f2550ee2be37ed1671fa719994e499636c01f07fac7ea1eb2a7"
 metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.toml"
-hash = "189870d744063bf34c4701ff8dbfa05d0b1d1a82070ab662c59af5cbabf1102a"
+hash = "7fdbd5a8a6dc2fba41d7ab25f923e8a38408fc4c490ae09a468d725796788885"
 metafile = true
 
 [[files]]
 file = "mods/smooth-boot.toml"
-hash = "3905aad8e323feb13c417c6fd81da68e94c8d434117fea4bb5de7b7c89e87509"
+hash = "5a5df7541474a6995ce2663c8eb3d605197fc3dd6b0089692f2356d4fde38c45"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "695c23257beaf0fc6eb2945c84b4fb840c876b10dd36a2ee21cbe2a88d477329"
+hash = "6121898a2ea393a0b28fd8de996c53a9c10c276e180eb0f2b95479b365876214"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
+hash = "0c83c344046d0b96fd7dcd9e5c98c44caa3d307126d502f202dba50855304fb9"
 metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
+hash = "ab37bb833d205f015f036157645e05a61c837b7e1f9e0132bfa8a6b14c8064a6"
 metafile = true
 
 [[files]]
@@ -759,12 +749,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "130cf1bf52dbd92839a20476f92e47b2784ae487202a43fe7be6bcba85da6aa9"
+hash = "c4b868a30cec4b9e217683a83f1828163702be5dbc8740b8dafb636d1cb5605b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "48a11d6543ce760db3b00e58234f29aece5498bab9cdf69253b0236e9569de92"
+hash = "3733c3c97a28e5299b8a6b32b6baaf8a59ea210d6ce3b847545effbac3bcf434"
 metafile = true
 
 [[files]]
