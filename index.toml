@@ -528,11 +528,6 @@ hash = "40860c6ac8115a772af0e960f646fe166bcc772f0116be9c298ade157580f0ab"
 metafile = true
 
 [[files]]
-file = "mods/entitytexturefeatures.toml"
-hash = "8b050767d9f30e0851bea37d9a3db0f7603ee1a044a503c48e282f7cdefd7a0b"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.toml"
 hash = "e2792879604eff64ba3d6427509e74f61d2d29b1318c5266dfecef0c7cb040f3"
 metafile = true
