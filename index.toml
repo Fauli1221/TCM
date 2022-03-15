@@ -438,11 +438,6 @@ hash = "c375509df57d1f34316b22e90ea0d233dc744d4e453b938d592d835e1463d8e4"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.toml"
-hash = "1c65c607e5e4c32bb35b4cedc97de1268a7008ae5696fb427a7e3e29280e06f4"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.toml"
 hash = "7002cac81cea34a25344d4022b412a5e8b2be10e183f17d9390b2341dec5105b"
 metafile = true
@@ -565,11 +560,6 @@ metafile = true
 [[files]]
 file = "mods/hd-skins.toml"
 hash = "d01198d0531b519a58c06dd38df88eacd76ca65747203bc35c6f7a4fe058b977"
-metafile = true
-
-[[files]]
-file = "mods/illuminations.toml"
-hash = "71df632403df1a9c6ab42c6866fa4ca0e4e1bc03158f26cc9d4f4b44433558af"
 metafile = true
 
 [[files]]
