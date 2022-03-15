@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ViaFabric/viafabric.yml"
+hash = "f2695749271b26a917b33089e90f46083effb4bee00a45814aa059f17a6cf35b"
+
+[[files]]
+file = "config/ViaFabric/viaversion.yml"
+hash = "af50fa37b7916273c2f0ccf930e41cee532f923574d7e2d374e3286564e32878"
+
+[[files]]
 file = "config/advancementinfo.json5"
 hash = "82fb3f9fd7931ded27c4c0cc78b86bed8a82e2d17b587f26f3a094a8589e13e6"
 
