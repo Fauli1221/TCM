@@ -443,11 +443,6 @@ hash = "c375509df57d1f34316b22e90ea0d233dc744d4e453b938d592d835e1463d8e4"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.toml"
-hash = "1c65c607e5e4c32bb35b4cedc97de1268a7008ae5696fb427a7e3e29280e06f4"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.toml"
 hash = "7f95a96f2bb2d043ddfe58ce3483326a64a9ff262b6f243f98d6aefea8999076"
 metafile = true
@@ -460,11 +455,6 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.toml"
 hash = "5dd6158497e03ea4566be3ba336e8af3b4fd24af7b9f553f5ecd08293b333955"
-metafile = true
-
-[[files]]
-file = "mods/clear-skies.toml"
-hash = "992b8f8dcd5e6d5f822c3974e7525a166ca8e41a68e8d308c6a89b0f6c122f3f"
 metafile = true
 
 [[files]]
@@ -570,11 +560,6 @@ metafile = true
 [[files]]
 file = "mods/hd-skins.toml"
 hash = "c5f48e1b74e0540e41316068bb4aa1088dbf47335e6d27e97c7db98ffc335346"
-metafile = true
-
-[[files]]
-file = "mods/illuminations.toml"
-hash = "71df632403df1a9c6ab42c6866fa4ca0e4e1bc03158f26cc9d4f4b44433558af"
 metafile = true
 
 [[files]]
