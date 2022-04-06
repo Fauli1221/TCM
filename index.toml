@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "75dbf362cb9b4c641d76a95094e572bfedf793da1df7825b55c89980b2f93024"
+hash = "2ed0458c1f09c92c401f0f36eeddb8fd893f7e66b461daa1d59ea436fb8d2316"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "7f95a96f2bb2d043ddfe58ce3483326a64a9ff262b6f243f98d6aefea8999076"
+hash = "6e6c31d663c1917bf8b47bb2dcc13b008306bb663eeeab05603cb3793ae2a5a6"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "5dd6158497e03ea4566be3ba336e8af3b4fd24af7b9f553f5ecd08293b333955"
+hash = "30aa8e08b8206182bc3a1d4da8e73a8633b289f2c001f9edd2e92f61855d66fd"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.toml"
-hash = "ee0e74082d6efae74eb702da33b2b798557ee91014f2c08b68afc6552d64820b"
+hash = "3dc8afb222b72064fe76daa8f09d159f95f6d96cbfa9fe246b9d5ae87ae084ae"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
-hash = "d7b04dc33616ec7168a1b4c1c4a7617cb2526c830dc4457ee7972f5145419b0a"
+hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
+hash = "2c283319aebf853500c3057142e54ce91ae50170a161de46489a266f57f46f63"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/hd-skins.toml"
-hash = "c5f48e1b74e0540e41316068bb4aa1088dbf47335e6d27e97c7db98ffc335346"
+hash = "f37ea073f74b185a7fde253b3a9e55821465138059fbba92ec42ed358ab29a7b"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.toml"
-hash = "a8593cbd7057ade74e44a380fb2decb5ae26fa32bf37f8527aaba36a4d571322"
+hash = "312f53cb358c5f861d1eca8db621fdf13439d93c50f0a73957df9fa4e777682a"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.toml"
-hash = "3f2fe30129b5380d43b9faeddab3a8f8cc0c289144a2457731d948fb8690908f"
+hash = "dcbec3700e3c99a70229cac7ef47f62281a112a5f884ac7e0a23a6a27cf94609"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "4fc690bd25cf8f2550ee2be37ed1671fa719994e499636c01f07fac7ea1eb2a7"
+hash = "83bee3345d8c0b09eb620b0afd7378ca96c904db422f71d3dca12cf16620dd91"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "6121898a2ea393a0b28fd8de996c53a9c10c276e180eb0f2b95479b365876214"
+hash = "f8d262a27787b948f6ec71d548131bcac4a60adc616a78db852a40d6461563be"
 metafile = true
 
 [[files]]
@@ -737,17 +737,17 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "61f6dbcdf51f011ace4e29b7ad79caf59d3b48b2c3f2d2e3cf1ce8fad1dea84a"
+hash = "91fb8cdc148a085a811ccf1857e5dc1a6c30e0d2110b3cda50ac8ae682ea85e0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c4b868a30cec4b9e217683a83f1828163702be5dbc8740b8dafb636d1cb5605b"
+hash = "ed190b847da34c69c5afacf93cec7f9bc14dfc71d9ee3c44bac5780daccb5929"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "3733c3c97a28e5299b8a6b32b6baaf8a59ea210d6ce3b847545effbac3bcf434"
+hash = "dad758930d67c1901e8a24699f9bcc1873f13dad8963d6bccb2b38b8c140b9d7"
 metafile = true
 
 [[files]]
