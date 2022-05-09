@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3664/303/animatica-0.4+1.18.jar"
-hash-format = "murmur2"
-hash = "3520632105"
+hash-format = "sha1"
+hash = "88814223cfa1aa19745529d852d545e5273f58d3"
 
 [update]
 [update.curseforge]
