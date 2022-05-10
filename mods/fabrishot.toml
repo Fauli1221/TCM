@@ -1,18 +1,13 @@
 name = "Fabrishot"
-filename = "fabrishot-1.6.2.jar"
-side = "client"
+filename = "fabrishot-1.7.0.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.6.2/fabrishot-1.6.2.jar"
-hash-format = "sha512"
-hash = "791eaa23903ae3eabfa6b1b225f24796b91cfac64a8425a2b0d488caf675ae0287d950a024c9d239b44982bde8f18108715aef54ad9c52e7c0fcba793914517d"
+url = "https://edge.forgecdn.net/files/3672/13/fabrishot-1.7.0.jar"
+hash-format = "sha1"
+hash = "343f31455c666b3979026d8a983abfa9c8ca0c9e"
 
 [update]
-[update.modrinth]
-mod-id = "3qsfQtE9"
-version = "VxYrd9ad"
-
-[option]
-optional = true
-description = "makes your screenshots 4k"
-default = true
+[update.curseforge]
+file-id = 3672013
+project-id = 404870

@@ -1,13 +1,13 @@
 name = "Indium"
-filename = "indium-1.0.2-alpha3+mc1.18.1.jar"
-side = "client"
+filename = "indium-1.0.3+mc1.18.2.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.2-alpha3+mc1.18.1/indium-1.0.2-alpha3+mc1.18.1.jar"
-hash-format = "sha512"
-hash = "9b1a4b50c8cd893db1913a0227f00a062a1894fd3521681ecded5b06425a35a42a85f4156ac09c78d127bbd96c49dae34c64d15924ee84f299179092e5b4bcb9"
+url = "https://edge.forgecdn.net/files/3767/308/indium-1.0.3+mc1.18.2.jar"
+hash-format = "sha1"
+hash = "a20793e65789fb9ef248d07dfd2fcd79e8afb53d"
 
 [update]
-[update.modrinth]
-mod-id = "Orvt0mRa"
-version = "Rxzic9a0"
+[update.curseforge]
+file-id = 3767308
+project-id = 459496

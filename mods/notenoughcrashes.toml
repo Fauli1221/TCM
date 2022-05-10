@@ -1,13 +1,13 @@
 name = "Not Enough Crashes"
-filename = "notenoughcrashes-4.1.4+1.18.1-fabric.jar"
+filename = "notenoughcrashes-4.1.6+1.18.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4+1.18.1-fabric/notenoughcrashes-4.1.4+1.18.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.6+1.18.2-fabric/notenoughcrashes-4.1.6%2B1.18.2-fabric.jar"
 hash-format = "sha512"
-hash = "dfd68fbb333a38231b88918fbba3b413bce84be9561eea0871eeeb5e814c61538c75c14082c79cb0e75528f73c2ee24e1ae79698ef8321cadb52e6c1b45373ae"
+hash = "b99a591556c321651797b22ba415ed22dc891c8b5248c1aae7c070db5f5c72aaf75ab50236f7c2642cb5b8eb1489fbbd25b9d51c8a99535d1d1a8696b164e113"
 
 [update]
 [update.modrinth]
 mod-id = "yM94ont6"
-version = "xU1wwE7x"
+version = "3jOKpa3T"

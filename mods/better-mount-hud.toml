@@ -1,13 +1,13 @@
 name = "Better Mount HUD"
 filename = "bettermounthud-1.1.4.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kqJFAPU9/versions/1.1.4/bettermounthud-1.1.4.jar"
-hash-format = "sha512"
-hash = "ddaf092fadd0583b75f4d9386d4d597ab04fe01c84c943c53b2db8c2432dafac126b374db98245fc6f986dd59e4538679435b583ebb186cb9a55912cf315e89b"
+url = "https://edge.forgecdn.net/files/3637/536/bettermounthud-1.1.4.jar"
+hash-format = "sha1"
+hash = "60035cc1e9cf8bf880c42f57427719d773df5cd5"
 
 [update]
-[update.modrinth]
-mod-id = "kqJFAPU9"
-version = "MjGehyF4"
+[update.curseforge]
+file-id = 3637536
+project-id = 475358
