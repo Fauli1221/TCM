@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.toml"
-hash = "b9af9cdbbf13a51d5a15fb10d05581c6ba5b2b6fbb2d201f91571a03bf9842ad"
+hash = "77299cae40369b084bf4bcc4022c3bc51e1f22f5e6a016f730534b22f66e0d61"
 metafile = true
 
 [[files]]
@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "6cab7e47a6950b49dfb51a59ecf057253d099ac2d5f0de8f560acaa85097c07e"
+hash = "7beba6fc602ae1b6ad575c3f90ccac7e017f1a6fc6084f55ca899c184ca0c979"
 metafile = true
 
 [[files]]

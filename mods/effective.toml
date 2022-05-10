@@ -11,3 +11,8 @@ hash = "2169670502"
 [update.curseforge]
 file-id = 3735277
 project-id = 556381
+
+[option]
+optional = true
+description = "A client mod that adds particles to water to make it more realistic."
+default = false
