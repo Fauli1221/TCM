@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "67fb343ab7c019c6ebd0dddca9cfc56a3bcc73f1c195aa8a48af3ae453983d9a"
+hash = "d99eefc93c129f04debe52d9ecaf2e8dd54bf991ad7d357a4000f63fb097d948"
 metafile = true
 
 [[files]]
