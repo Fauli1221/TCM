@@ -4,6 +4,6 @@ side = "both"
 
 [download]
 url = "https://pages.fauli1221.de/cdn/illuminations-1.10.3.jar"
-hash-format = "SHA512"
+hash-format = "sha512"
 hash = "6009646bffc64309fbbf4d897c324d90a000433fb8b48dae35ec42b346e51b89610d71856a184d94167bc598633ee7b457d214eccc1bb92d06d372dac4a06a06"
 
