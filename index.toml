@@ -185,10 +185,6 @@ file = "config/iris.properties"
 hash = "5415d56e9e6535abfebba018a7c047c311a73110445f3e62ca9bbd7a5be75a67"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "3a1dc69f4ca2240c5ace7aab2661fa3dd0cba9fb16d697f6eebb7aba9f361246"
-
-[[files]]
 file = "config/itemmodelfix.json"
 hash = "f67460631e5dd59fd646347174cfe7b8de38be6556bb928bea4619cbd6f32616"
 
