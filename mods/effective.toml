@@ -1,0 +1,13 @@
+name = "Effective 💦"
+filename = "effective-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3735/277/effective-1.2.1.jar"
+hash-format = "murmur2"
+hash = "2169670502"
+
+[update]
+[update.curseforge]
+file-id = 3735277
+project-id = 556381

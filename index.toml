@@ -583,6 +583,11 @@ hash = "068df9771974522251fe74689af8992036ef110fedd65323db908a9df12f15ec"
 metafile = true
 
 [[files]]
+file = "mods/effective.toml"
+hash = "b9af9cdbbf13a51d5a15fb10d05581c6ba5b2b6fbb2d201f91571a03bf9842ad"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-block-entities.toml"
 hash = "5f96cbfa5842b2fa1977bed45bff4b2230a1608f34394ca75945fa65d8e555da"
 metafile = true
@@ -640,6 +645,11 @@ metafile = true
 [[files]]
 file = "mods/hd-skins.toml"
 hash = "f37ea073f74b185a7fde253b3a9e55821465138059fbba92ec42ed358ab29a7b"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.toml"
+hash = "67fb343ab7c019c6ebd0dddca9cfc56a3bcc73f1c195aa8a48af3ae453983d9a"
 metafile = true
 
 [[files]]
