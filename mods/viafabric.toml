@@ -1,13 +1,13 @@
 name = "ViaFabric"
-filename = "viafabric-0.4.6+272-main.jar"
+filename = "viafabric-0.4.7+1-main.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3783/960/viafabric-0.4.6+272-main.jar"
-hash-format = "murmur2"
-hash = "2744082901"
+hash-format = "sha1"
+hash = "8a514893b2e43b32234f359c58a6ace2f56b7def"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3783960
+file-id = 3801629
 project-id = 391298

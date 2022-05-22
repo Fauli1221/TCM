@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.toml"
-hash = "a52e03454af429c010c3f282b0367142c7038b861629f0c0ed09010ebe1a5769"
+hash = "bdd490e9e4fd643d7f4b1024a6000a4e7fbece47986e5950cebd7f163de764e8"
 hash-format = "sha256"
 metafile = true
 
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "6e6c31d663c1917bf8b47bb2dcc13b008306bb663eeeab05603cb3793ae2a5a6"
+hash = "7cb81e7933430600b2d1336666465ae7afe798b6be1afd9fce11c85f3d28f766"
 hash-format = "sha256"
 metafile = true
 
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.toml"
-hash = "0d7be112f0d024dec435732b4af7e99c9edce54b59af752b8696999774f69d39"
+hash = "119967d6984daefc2dda4e34e9f2fd3edb4ee48abb3edf8ce8edd460e6e680be"
 hash-format = "sha256"
 metafile = true
 
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "d7245917d1be40a9272e1932125fcc7ff48c3f04f5447509418fc47dd3890c54"
+hash = "80a48ce32f4a051701810d33239d54d922e7f1360d996d750c74f7c11d0dfb33"
 hash-format = "sha256"
 metafile = true
 
@@ -748,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "99fb566fe03abc87d64b6b541cbe225fa856d15c1ef7a6d4de85e6b6fb0c14e8"
+hash = "3e5b48743defd597ab53d6459c5c9991aa12e6fd89ae1a62a5a0f9c24cfb9dd2"
 hash-format = "sha256"
 metafile = true
 
@@ -778,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "5cbf5d3378ae8bead8653f2396e1779ae0559daf3958270ab4389455553f42c6"
+hash = "379a0ff2f2e80eb10d1f102c4d2c4ddf92827f12409b190e98133f63680b42bf"
 hash-format = "sha256"
 metafile = true
 
@@ -801,8 +801,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/illuminations.toml"
-hash = "7beba6fc602ae1b6ad575c3f90ccac7e017f1a6fc6084f55ca899c184ca0c979"
+file = "mods/illuminations.pw.toml"
+hash = "731c239ff8fb415c00c76856453aea3ad7a3082d78837daedbbf98c37279ce67"
 hash-format = "sha256"
 metafile = true
 
@@ -814,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "d8739d7ee24be5f08c00252d791d11ff150c3d0961086cc035b524f0bf33de44"
+hash = "d6546943a34476d4ea033430dc00f3b6c3ad1b61cb05a227abab80e2a46b2ebf"
 hash-format = "sha256"
 metafile = true
 
@@ -886,7 +886,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "954032fd7697535870f901eb03abc1439e228de7bc598c7bde3073ad7f5bfeb5"
+hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
 hash-format = "sha256"
 metafile = true
 
@@ -904,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.toml"
-hash = "229746e66cad817f3f4c757f5b25d57561192237fb6ebd35cc120768b176ced9"
+hash = "c91d9d252064cd1679362225321edf30113333ae3ae1e5fb2acaf07c7a58709e"
 hash-format = "sha256"
 metafile = true
 
@@ -928,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "439297a26554e1723ca14ff0142e18a12180700578c270e23501e4b1083dc2f4"
+hash = "696d16639ad01496fc4f99045b025492954099367538d46dbaf98dd9a0f7c4d9"
 hash-format = "sha256"
 metafile = true
 
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.toml"
-hash = "e934fb469dc917b680d0aca339c96cd40c6ab60c6b336e67997a37187335316f"
+hash = "0cf6a00a117b89541ba57f1bdc4fde6730e65358b4cf4de1f69977beb05965f8"
 hash-format = "sha256"
 metafile = true
 
@@ -988,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "83bee3345d8c0b09eb620b0afd7378ca96c904db422f71d3dca12cf16620dd91"
+hash = "ede5c5892c5467b95cb68d3c4a2592bb989e17c1c93c2f08b615fd918a25db61"
 hash-format = "sha256"
 metafile = true
 
@@ -1006,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "ce30f904d04f28ccc48d443fbf07034c46a7491dce470c81fe343733073baff7"
+hash = "6d5993588596715f6f484cbbf81fcdf07eadb1c3ceed698520c62a6b7fd736d8"
 hash-format = "sha256"
 metafile = true
 
@@ -1036,19 +1036,19 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "89ed96463af8a781570aecf1826b3e4bec8e7153e6bfc30b77db7450a34a50cf"
+hash = "054b5c330c876857f19039ffb629225932242cd985104e114143bddc8d4c2028"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "658fd881d18e8cd957ea95c7ceb9b2824edfbc34c231b5ef6de140b9313d282e"
+hash = "48050b1861d2d8101767a02d813ae1d02832b1126d22aad0ba5615ed38e4e7cf"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "bbc64e6a659bfe30e2ebb670b27b792c893b98d2b57cf60c6c8f701626092bd2"
+hash = "163a6bf5ffdbc8d00ad8b4c3223ddca5141ae59ac0ce903405620099763411d4"
 hash-format = "sha256"
 metafile = true
 
@@ -1060,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.toml"
-hash = "213370c5103daf420baccbd5bfb9c022273fbf8d4e1b54625e0a3575217dd2ee"
+hash = "49e25ec166b7824d8f1d7feccbd08a8e904c90b089f6485b05df9173a489bd54"
 hash-format = "sha256"
 metafile = true
 

@@ -1,13 +1,13 @@
 name = "Entity Texture Features - [Fabric]"
-filename = "entity-texture-features-beta-2.6.1-mc1.18+.jar"
+filename = "entity-texture-features-beta-2.6.3-mc1.18.x.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3773/590/entity-texture-features-beta-2.6.1-mc1.18+.jar"
-hash-format = "murmur2"
-hash = "1724069096"
+hash-format = "sha1"
+hash = "9b75e5754e584fe3b343b2257f546f68f84a0b34"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3773590
+file-id = 3801379
 project-id = 568563
