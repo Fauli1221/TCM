@@ -1,0 +1,14 @@
+name = "Xaero Map Addition"
+filename = "xaero-map-addition-0.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CTIW5eos/versions/0.2.2/xaero-map-addition-0.2.2.jar"
+hash-format = "sha1"
+hash = "c065f18e76bde88b2de39b527b0de5125560c860"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "CTIW5eos"
+version = "RadHKnN0"
