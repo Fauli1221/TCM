@@ -634,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.toml"
-hash = "bdd490e9e4fd643d7f4b1024a6000a4e7fbece47986e5950cebd7f163de764e8"
+hash = "01ec12c07032284b27afde5695c2fca99dfca2b785d06729fb13917a00a85c92"
 hash-format = "sha256"
 metafile = true
 
@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "205821cf0802bf537b7d4c6825f4a790685742e6878a231df7e9d68a6c3669d6"
+hash = "42aa424ca423493f8fc20a7792761e64056dd25a5684cea7f6af25c3280f315c"
 hash-format = "sha256"
 metafile = true
 
@@ -868,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "80a48ce32f4a051701810d33239d54d922e7f1360d996d750c74f7c11d0dfb33"
+hash = "90ac9e3db43d091cac598a7dec867ba7c8276def21c6b3562b80456580304926"
 hash-format = "sha256"
 metafile = true
 
@@ -898,7 +898,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "3e5b48743defd597ab53d6459c5c9991aa12e6fd89ae1a62a5a0f9c24cfb9dd2"
+hash = "a580d407e80e0327592711f5deb1e34730e852dbab2d3de6dbd684a40e70fcc2"
 hash-format = "sha256"
 metafile = true
 
@@ -1012,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "d6546943a34476d4ea033430dc00f3b6c3ad1b61cb05a227abab80e2a46b2ebf"
+hash = "9805a39f93c3f4f6b7869418aa8cabde07012cd251789b27659e1554d0a7bfb9"
 hash-format = "sha256"
 metafile = true
 
@@ -1246,7 +1246,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.toml"
-hash = "0cf6a00a117b89541ba57f1bdc4fde6730e65358b4cf4de1f69977beb05965f8"
+hash = "1ca96ec71e46c97fef13cce6c8ad0f0cedce7b1ed3039e7fd879b28e3f9408b9"
 hash-format = "sha256"
 metafile = true
 
@@ -1378,7 +1378,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "054b5c330c876857f19039ffb629225932242cd985104e114143bddc8d4c2028"
+hash = "dededac6fb28bc38fc8f2a1437a208d4a207268c2007552e357bea57f4e24afb"
 hash-format = "sha256"
 metafile = true
 
@@ -1390,13 +1390,13 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "48050b1861d2d8101767a02d813ae1d02832b1126d22aad0ba5615ed38e4e7cf"
+hash = "51ddf0ae526a2f0efee2a29c0893b21475568fc40806ca07b7428f18d1339cd7"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "163a6bf5ffdbc8d00ad8b4c3223ddca5141ae59ac0ce903405620099763411d4"
+hash = "f191f9ecea40140c8baf369bd7aedc279e879b4367082ec0a3c43b2197426290"
 hash-format = "sha256"
 metafile = true
 
