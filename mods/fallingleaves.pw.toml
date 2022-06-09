@@ -12,3 +12,7 @@ mode = ""
 [update.modrinth]
 mod-id = "WhbRG4iK"
 version = "FaCaUOFs"
+
+[option]
+optional = true
+description = "adds visual leves that fall from tree's"

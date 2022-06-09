@@ -12,3 +12,8 @@ mode = ""
 [update.modrinth]
 mod-id = "mfzaZK3Z"
 version = "7AcIEmmQ"
+
+[option]
+optional = true
+description = "Adds more skin cusomisations to the game that are targeted at furrys (can be ignored unless it bothers you)"
+default = true

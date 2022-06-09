@@ -597,20 +597,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/advancementinfo.toml"
-hash = "2a7fd6600075e0b6e5ee90e289f031f5822aa0c859e3b3fa1ed8c8a99ad51e80"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "09a3690cb476ca830af5c481682052f11f62beb37e818fa34a0474c21371dce9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/animatica.toml"
-hash = "4434f950f298b99f19434496a998c0a46951e9a025e07c5c7000b6fdf52b5f20"
 hash-format = "sha256"
 metafile = true
 
@@ -621,20 +609,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/antighost.toml"
-hash = "3e3074cb6a900a2714d125469354d0e2a9e89e899723c3e7fe5dffa035f72917"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/architectury-api.toml"
-hash = "01ec12c07032284b27afde5695c2fca99dfca2b785d06729fb13917a00a85c92"
+hash = "96373de9db37678049c954eb36c1ba43abd769bcd3a45a8b1626d5c9db5ab3de"
 hash-format = "sha256"
 metafile = true
 
@@ -645,19 +621,7 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/better-mount-hud.toml"
-hash = "85f3ba11c05d688f772f04f226eb010bc4d667b7da987182e15aca89a578f3c9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
-hash = "8a399348ac3cf537118f171c78e464d83db3df13ce3dbafad1eb5050cb078acf"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.toml"
 hash = "7cb81e7933430600b2d1336666465ae7afe798b6be1afd9fce11c85f3d28f766"
 hash-format = "sha256"
 metafile = true
@@ -665,12 +629,6 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "4bd4a944ed0eb37a16c3f2722d88c0e637e92df0f24ec1a342ab5f3c26b51275"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/borderless-mining.toml"
-hash = "29617ba69cf27f8892a63fa113386a0d86a43600a0b6c5f382e1c4212a9faafc"
 hash-format = "sha256"
 metafile = true
 
@@ -693,20 +651,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.toml"
-hash = "30aa8e08b8206182bc3a1d4da8e73a8633b289f2c001f9edd2e92f61855d66fd"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "7a3560c83727e3fac4807c6b2cac054569966dd1f09c5883e1ef78988568b45e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.toml"
-hash = "25a7ae59066ec8104c5da601dc26923f7d0b7a9906d4c4fe9643222bbf4815aa"
 hash-format = "sha256"
 metafile = true
 
@@ -717,44 +663,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.toml"
-hash = "f37004ea1a77170a692e5f072bec6419c00b42b8fbd4803d189e01946f4eaa67"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "c53909308f353c74453d708985a74f718b1c8e32530d9b637dd9f617aef15153"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/completeconfig.toml"
-hash = "ac4ef5d0e3ee33ed06232cf813b710f2f39e38718ff064fd7f7853080c53a526"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
-hash = "07dc8b6b90eb549554a26a111f05b54e8459dd8150f5f3c146a05c3400b7c7ff"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/continuity.toml"
-hash = "a2503cd9f6455bcfd5b5d5d7d5f1350bc005e799918dca1e7d3203c5b67f9ae5"
+hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "f103f2600d5c7c0c468cc2576803751f0227c68dc2bdbf693606452f3887b540"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/cull-less-leaves.toml"
-hash = "119967d6984daefc2dda4e34e9f2fd3edb4ee48abb3edf8ce8edd460e6e680be"
 hash-format = "sha256"
 metafile = true
 
@@ -771,12 +693,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/custom-splash-screen.toml"
-hash = "76ff19779457eeb6839ab4aab16e88ab191aae9fac157329e369c9cbddfadf38"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/dcch.pw.toml"
 hash = "484f375d32bebd88cdefe79a7789fa3b24a87edd840eca49cb3e2669a8d727ce"
 hash-format = "sha256"
@@ -789,38 +705,14 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/debugify.toml"
-hash = "42aa424ca423493f8fc20a7792761e64056dd25a5684cea7f6af25c3280f315c"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/dont-clear-chat-history.toml"
-hash = "c77ae8f60d73419f5e363d87b470a35c5b20958054e899846df9db9fb40ec7c5"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
-hash = "e3b62d06c5c60dee486003ae7f39c8a74b5e7d380e7ac3fabf3de0378500d5fb"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/dripsounds-fabric.toml"
-hash = "b164d5e681e9b035b34ec72590f35f35e092dcd5255eaee22fb40609e5395a0c"
+hash = "9c634455a3d627aeffa2eb48b24445c302fd7bca2d2b147d581ffd367db6fecf"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.pw.toml"
-hash = "b3f3f88fbd2b366c65ab65eb286748702a53f66688a5f31ae4193778e720cab8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/durabilityviewer.toml"
-hash = "eda182596a42ee209fa9ee6bdc06b55de9363a9b661c331815fb922b9102c566"
+hash = "e736a3b2c30b965824106a649cc4191fbb7e70e8f17906d8b4f51b551bebc1e7"
 hash-format = "sha256"
 metafile = true
 
@@ -831,20 +723,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.toml"
-hash = "13013b1ab312945c0d4c1b008f0deb9193c010a161e161cc59642c185889abc6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/ears.pw.toml"
-hash = "cb2c53ffc19fee4ae0c3b51bba5bfb56feaef9fc1315dd991a1e4bca0b287de5"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/ears.toml"
-hash = "068df9771974522251fe74689af8992036ef110fedd65323db908a9df12f15ec"
+hash = "cf764fe7bda503b420a0df27c7e7436b2f32190d8b7b1df8b9906b4eca9c3d4c"
 hash-format = "sha256"
 metafile = true
 
@@ -879,12 +759,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.toml"
-hash = "c2ee93e74ad106f20b997ffb054f46189f941da0c37c73a1a97d5dd85ff530a5"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "0e8bc51131e510743ce495452a58a79a6a1d5469e5644230c34abf1465456728"
 hash-format = "sha256"
@@ -892,25 +766,13 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "795fb3cc9ea54d3960c3d50a1482d96eb5469f250ae49d080bdff7398893682d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.toml"
-hash = "a580d407e80e0327592711f5deb1e34730e852dbab2d3de6dbd684a40e70fcc2"
+hash = "0298adb7762224c2e426d0b23ab1f26f04b170faabf165ec2c9d3c37efe2a03c"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "23930f5c1fb185ac4f7cac3dcd65af390dafd0b462b456a37a04226d9890cbe6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.toml"
-hash = "d2fbaf45c8aed07525a3d592a02242db2c2a9a76cf6c995585835282e87d24f5"
+hash = "9611f32bc292985e124bc568db7f5c8c9c2660d02a92f4eaa80d6455d82d0713"
 hash-format = "sha256"
 metafile = true
 
@@ -921,38 +783,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes.toml"
-hash = "4f80c0c3aacfae38d0468468d628c440e825edc819e1a116a9299cdf1728b872"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "30a8da2902fbabd5898b849496d98d0df6898481635388293716805dc162f40e"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.toml"
-hash = "f1127b63021453ff95eab3d0812173bbfaa1513de0d52315162d5d4b771a079a"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "2c50cbfecc65d79312c01d4eacbc806ff33e7baedd50c851b96028af04135afe"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/fallingleaves.toml"
-hash = "027ffc8f97357c25b95df8e043496d077ec3af98e8a557f7178e8072e2d016cf"
+hash = "cdeea4a0c5db68107ca44fa52aeffa3a9382b75d9d0b4135900ad1c9dd231b3e"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "379a0ff2f2e80eb10d1f102c4d2c4ddf92827f12409b190e98133f63680b42bf"
+hash = "8abcf3ea08565ae90a89881d78d3c5906119479c290d0b8a823cae96f03d8898"
 hash-format = "sha256"
 metafile = true
 
@@ -969,20 +813,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore-fabric.toml"
-hash = "25785a86466d4b51296dc71da2110bcd8972b6cdc47069f0ed3c4e8f72512d08"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/hd-skins.pw.toml"
-hash = "c050948f7f21671bc1602fc1fde139d41c5c2642424b5eb1f83e47ac2a04a9cf"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/hd-skins.toml"
-hash = "f37ea073f74b185a7fde253b3a9e55821465138059fbba92ec42ed358ab29a7b"
+hash = "7a6f1a5e6baae75321f9f724f824637996b742cd1d94dfbc4734ac66e51683ce"
 hash-format = "sha256"
 metafile = true
 
@@ -999,32 +831,14 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/indium.toml"
-hash = "fab378c0172e0251334a08f0c6013b087847d3c6aa3eadc40de2e77b33fbec5e"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "822a9c97e55ea0b9ea13b2776e0ad231a673bb8262388986bc3e89b17dbbb8e1"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.toml"
 hash = "9805a39f93c3f4f6b7869418aa8cabde07012cd251789b27659e1554d0a7bfb9"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fec143d68112c0260e4964f50aad541afde432252cd3f748d4046267af558e67"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/iris.toml"
-hash = "4770043f41d82d7b4dfa8d52ddafbb472a7a2e6a21d6851dd1c217c77c4000d9"
+hash = "01d783363fb7162cf09cc06ace0684fe6141068138a845ed2841bd36bc9ff3ee"
 hash-format = "sha256"
 metafile = true
 
@@ -1041,12 +855,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/kappa.toml"
-hash = "6363596c5cb5959ee0905e42c305b27934f169e634eaffc6ca268623c2410915"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/konkrete-fabric.toml"
 hash = "312f53cb358c5f861d1eca8db621fdf13439d93c50f0a73957df9fa4e777682a"
 hash-format = "sha256"
@@ -1059,20 +867,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/krypton.toml"
-hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "6c23d726c5512cc285114ee243192dab6ddf39135f273e1fa8e1aec6b0df80d3"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/lambdabettergrass.toml"
-hash = "4269b7e2a817dfd03ce2e43aca5b15b3dc96210a44b0c056d4712722063c5ce0"
 hash-format = "sha256"
 metafile = true
 
@@ -1083,32 +879,14 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.toml"
-hash = "f53ac074b0938319dc0ff805692993a9941beea49c3e86d7e0a42c3db1e64243"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "3002fe40ab14d059ec906a3571e511be9c8f054228533244c52d58d7fadf31ea"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.toml"
-hash = "8ce38e4c7ff2ced58e55e405fb69d926588767809cc43b78bb4338ae27e62e3b"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/lazydfu.toml"
-hash = "d469405ae3ba7e17c6603477e0c444914e48932ffca884f630b9ee459ffe0039"
 hash-format = "sha256"
 metafile = true
 
@@ -1131,12 +909,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/lithium.toml"
-hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/load-my-resources-fabric.toml"
 hash = "f458f1f599c9b939450776f0c31ca3e9e9b6189c311c4c67c3a717555e5f645a"
 hash-format = "sha256"
@@ -1149,20 +921,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/logical-zoom.toml"
-hash = "48bb5ac7bc1404169a2bd030db196f8075d8cc3a54b3ce347aa2aa35b0b3ea93"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "a88a301814423dfeac9c684095c8939ebe4dca2e6a6b96cd058a8fa16c62650f"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.toml"
-hash = "c91d9d252064cd1679362225321edf30113333ae3ae1e5fb2acaf07c7a58709e"
 hash-format = "sha256"
 metafile = true
 
@@ -1174,37 +934,19 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "9268c67284f24499148fc0ecc05a85ba598ca72d3cf5c6081f70c618dd4321d7"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.toml"
-hash = "8cf8faa6b8d2e856a998cfd590f3ff330d088a0827e04af2643ef8e9577582fd"
+hash = "47c92b4cfd41908adff40fe773908eccebe0332bb94c31072a4382f4f735c599"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/mine-little-pony.pw.toml"
-hash = "6b9d6853bb372be1f7246cbca3b3993da9776bfea8e45e0b1d553dd170d5d113"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/mine-little-pony.toml"
-hash = "b22f88ca2c4596b44cf7a58660035110db9d79a7f4677bc108c1ac27d346e4c9"
+hash = "322e3b8960cb4f1f76ec1f5d56502d0144296a2204d31658c0c9f8afdb50df67"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
 hash = "696d16639ad01496fc4f99045b025492954099367538d46dbaf98dd9a0f7c4d9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/more-chat-history.toml"
-hash = "6e491af660315658150add9c80d9ba6936563e6f55c45ee0aad5bdb0737e6fa8"
 hash-format = "sha256"
 metafile = true
 
@@ -1221,20 +963,8 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-crashes.toml"
-hash = "3b8c2cec272a08fce467e51a52e9125d070dcdc1fc4ffc0bf7cf9b0b23e2a319"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "2d53c4af1ea8cb9b8db1104e16b227c775ef65ff47f0d459135a02dfc85db2e8"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.toml"
-hash = "a323c099e46a9ce7635ce9cf27dfe881c650d822d80a49c1f7b0aff64eb0f0f4"
 hash-format = "sha256"
 metafile = true
 
@@ -1245,44 +975,20 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/optigui.toml"
-hash = "1ca96ec71e46c97fef13cce6c8ad0f0cedce7b1ed3039e7fd879b28e3f9408b9"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "593b7c2a291591f43c642779aa528174c453c657052c3d658f2040a0a43442d6"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps.toml"
-hash = "a33ba9d0301377138b4f838468a14a6ef89ba92bf85c588b15a9ff04d81cbb67"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
-hash = "0dfbd393da653dc105e8b57b9aa26c2f2122a74a6e1d3bfa7d11fd35cf2a6b60"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.toml"
-hash = "26b1a2e1fdfc61594bfdf13e88c5edf9e42a1c68023098233f4cdfc215536867"
+hash = "8cc917a1ec48b6aa8074cfe16ba2bbd3b9c9fa9c4a4dde7214fe25d8a492ed3d"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b62d450c909c7edb4b677b6ffff2f9f582db060bd7b457d7a59490547750df71"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.toml"
-hash = "b1ec378adef0a4d8fa1b27de650895dcab7d05e99515f02254ebd58dffa645d4"
+hash = "c704ab1b78607e345633f54f6f0d3a4ffa9fdb37600c87a794bd67fab3ec9b54"
 hash-format = "sha256"
 metafile = true
 
@@ -1305,12 +1011,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/simple-discord-rpc.toml"
-hash = "2a36acc9244673370a191686a49a04f057702acaaf3068d44febbb2d7ee2cbd4"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/smooth-boot.toml"
 hash = "0bb8efa177ff2c5b54bb0bcbadf5e5fd2ae57c0cb71e533e7d8b896f12d9af4b"
 hash-format = "sha256"
@@ -1318,13 +1018,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8a2f7bd4e0b892213e121ace77cbe399351a8c9d1ce12a8dc13973d9ec7a50dc"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.toml"
-hash = "6d5993588596715f6f484cbbf81fcdf07eadb1c3ceed698520c62a6b7fd736d8"
+hash = "696826932a2a382de68f7c843847b6c8c8d5319c022503681494e3cff03e18ff"
 hash-format = "sha256"
 metafile = true
 
@@ -1335,32 +1029,14 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/sodium.toml"
-hash = "629cba9c7cd4bfbb4f5be04e7d2ebfb71ef1c44466c7a1614b9c31b78b97f7a1"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/starlight.toml"
-hash = "ed3ce42c6cccaa9989d3b7a8769bd4c0a9c643ccb2fdb7d41ef9604163e4a8e6"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/tiefix.pw.toml"
 hash = "82be603fd1c5c6b19b82a11d1bb8a227b02224f5abe71830d156512f442b4897"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/tiefix.toml"
-hash = "61437323b2bcc7ea579161059f7128d2aad4a38188a0b7a3cbd031165c6b8b2b"
 hash-format = "sha256"
 metafile = true
 
@@ -1372,13 +1048,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "14f5fa570c803f6e12d9fa5730ba11e12a12ee5bd4f806bebdb0f8a237932a82"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/viafabric.toml"
-hash = "dededac6fb28bc38fc8f2a1437a208d4a207268c2007552e357bea57f4e24afb"
+hash = "0ad741239aaa45fad57d71443797e5239bd2563f704571f2a67872e4e2da5486"
 hash-format = "sha256"
 metafile = true
 
@@ -1390,13 +1060,13 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "51ddf0ae526a2f0efee2a29c0893b21475568fc40806ca07b7428f18d1339cd7"
+hash = "64ac341e123a711468c49bca610aedc4d61caf571d930aa435a59e37a45a7481"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "f191f9ecea40140c8baf369bd7aedc279e879b4367082ec0a3c43b2197426290"
+hash = "d0b25d01e91f1ce60b91dfed13144cf8eee6c31413373f956d72be216fe4e9f5"
 hash-format = "sha256"
 metafile = true
 
@@ -1409,12 +1079,6 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "61e328b0d9324fb4f713a5e1a7aed8a97ead1de33f7496a623e6028e2b4544f5"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.toml"
-hash = "49e25ec166b7824d8f1d7feccbd08a8e904c90b089f6485b05df9173a489bd54"
 hash-format = "sha256"
 metafile = true
 

@@ -12,3 +12,8 @@ mode = ""
 [update.modrinth]
 mod-id = "O7RBXm3n"
 version = "rhWd3Gwe"
+
+[option]
+optional = true
+description = "Adds a button to sort Inventorys"
+default = true

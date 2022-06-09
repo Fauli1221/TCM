@@ -12,3 +12,8 @@ mode = ""
 [update.modrinth]
 mod-id = "FzE9gshV"
 version = "zTVQrnU4"
+
+[option]
+optional = true
+description = "Adds a custom skin server with HD-Skin support Recomendet with MineLittlePony"
+default = true

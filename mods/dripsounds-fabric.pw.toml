@@ -12,3 +12,8 @@ mode = ""
 [update.modrinth]
 mod-id = "T8MMXTpr"
 version = "X1y31oBo"
+
+[option]
+optional = true
+description = "adds some nice Sounds dor Dripstone"
+default = true

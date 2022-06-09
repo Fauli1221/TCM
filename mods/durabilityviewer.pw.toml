@@ -12,3 +12,7 @@ mode = ""
 [update.modrinth]
 mod-id = "LTM1f0yY"
 version = "FSC9nc1c"
+
+[option]
+optional = true
+description = "adds an overlay to display your Durability"
