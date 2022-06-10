@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "da0c8ca6755f0e2e420d88bdbd23d1c1e132394f387d3c48851963a3221b9475"
+hash = "e05bd2aa1eb88048b3cbe0845772453fab4e1b49f8ec19f192935d782f65939e"
 hash-format = "sha256"
 metafile = true
 
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9611f32bc292985e124bc568db7f5c8c9c2660d02a92f4eaa80d6455d82d0713"
+hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
 hash-format = "sha256"
 metafile = true
 
