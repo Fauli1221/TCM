@@ -1,18 +1,17 @@
 name = "Effective 💦"
-filename = "effective-1.2.1.jar"
+filename = "effective-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3735/277/effective-1.2.1.jar"
-hash-format = "murmur2"
-hash = "2169670502"
+hash-format = "sha1"
+hash = "ae7007d53d5ee15d9e46240c004acc5630eac676"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3735277
+file-id = 3823332
 project-id = 556381
 
 [option]
 optional = true
 description = "A client mod that adds particles to water to make it more realistic."
-default = false
